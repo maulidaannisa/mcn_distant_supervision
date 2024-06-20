@@ -1,0 +1,823 @@
+__label__73916008 5HTP
+__label__372720008 AD
+__label__35253001 ADD
+__label__406506008 ADHD
+__label__49436004 AFIB
+__label__62479008 AIDS
+__label__259496005 ALA
+__label__91861009 AML
+__label__26843008 APS
+__label__387501005 ASA
+__label__26665006 ASPD
+__label__372574004 AZA
+__label__128477000 Abscess
+__label__387517004 Acetaminophen
+__label__61352006 Achilles
+__label__386938006 Acitretin
+__label__395828009 Actos
+__label__363732003 Addison
+__label__387362001 Adrenaline
+__label__372817009 Adriamycin
+__label__387207008 Advil
+__label__387158001 Afrin
+__label__372897005 Albuterol
+__label__372588000 Aleve
+__label__372522002 Allegra
+__label__70496003 Alpha Lipoic Acid
+__label__386983007 Alprazolam
+__label__26929004 Alzheimer
+__label__386966003 Amaryl
+__label__387569009 Ambien
+__label__363571003 Amerge
+__label__52518006 Amino acid
+__label__372903001 Anafranil
+__label__386981009 Arava
+__label__386910003 Arimidex
+__label__428694009 Armodafinil
+__label__23560001 Asperger
+__label__372520005 Astelin
+__label__372856003 Atarax
+__label__387106007 Ativan
+__label__37746008 AvPD
+__label__190634004 B12 deficiency
+__label__13235001 B2
+__label__83482000 BDD
+__label__20010003 BPD
+__label__111541001 BPPV
+__label__419760006 BV
+__label__387179001 Bactrim
+__label__44882003 Balantitis
+__label__302914006 Barrett ' s esophagus
+__label__411529005 Basaglar
+__label__387173000 Belbuca
+__label__708714001 Belsomra
+__label__372682005 Benadryl
+__label__372732007 Bentyl
+__label__116571008 Betamethasone
+__label__8919000 Biotin
+__label__708717008 Brintellix
+__label__387564004 Bupropion
+__label__387523009 Buspar
+__label__387563005 Butalbital
+__label__190905008 CF
+__label__709044004 CKD
+__label__396550006 CMP
+__label__21483005 CNS
+__label__31811003 CO2
+__label__82423001 CP
+__label__781382000 CRC
+__label__128200000 CRPS
+__label__65216001 CSF
+__label__49601007 CVD
+__label__18773000 CVS
+__label__255641001 Caffeine
+__label__387222003 Carbamazepine
+__label__59888006 Carnitine
+__label__116081000 Celebrex
+__label__372596005 Celexa
+__label__126108008 Cerazette
+__label__128188000 Cerebral Palsy
+__label__253184003 Chiari
+__label__400447003 Cipralex
+__label__372840008 Cipro
+__label__386884002 Claratin
+__label__32197004 Clobex
+__label__387383007 Clonazepam
+__label__372805007 Clonidine
+__label__412129003 CoQ10
+__label__387494007 Codeine
+__label__32498003 Cortisone
+__label__129127001 Coumadin
+__label__373779004 Cyclobenzaprine
+__label__387467008 Cyclosporine
+__label__407032004 Cymbalta
+__label__387242007 Cytotec
+__label__23433006 D2
+__label__18414002 D3
+__label__77547008 DDD
+__label__226368001 DHA
+__label__387267005 DHE
+__label__78316004 DHEA
+__label__73211009 DIABETES
+__label__420422005 DKA
+__label__115535002 DMSO
+__label__128053003 DVT
+__label__387114001 DXM
+__label__398123003 Dawn Phenomenon
+__label__372584003 Decadron
+__label__52448006 Dementia
+__label__387298007 Demerol
+__label__387278002 Dexedrine
+__label__387264003 Diazepam
+__label__44508008 Diluadid
+__label__88736007 Dovobet
+__label__395766004 Dovonex
+__label__387469006 Dramamine
+__label__59770006 Dyslexia
+__label__397803000 ED
+__label__398114001 EDS
+__label__70822001 EF
+__label__37109004 Ebola
+__label__372490001 Effexor
+__label__372726002 Elavil
+__label__410843003 Eletriptan
+__label__385580005 Elidel
+__label__703250005 EllaOne
+__label__395726003 Entocort
+__label__235599003 EoE
+__label__387202002 Epsom salts
+__label__32861005 Erythema Nodosum
+__label__81745001 Eye
+__label__432473000 FAI
+__label__203082005 FM
+__label__236403004 FSGS
+__label__89545001 Face
+__label__31435000 Fallopian tubes
+__label__386911004 Femara
+__label__386963006 Finasteride
+__label__7569003 Finger
+__label__372602008 Flagyl
+__label__372509005 Flomax
+__label__396064000 Flonase
+__label__411990007 Frova
+__label__259100002 GABA
+__label__21897009 GAD
+__label__235595009 GERD
+__label__122865005 GI tract
+__label__4556007 Gastritis
+__label__386920008 Gemcitabine
+__label__414460008 Gleevec
+__label__63634009 Glioblastoma Multiforme
+__label__384978002 Glyburide
+__label__353295004 Graves
+__label__18718003 Gum disease
+__label__38341003 HBP
+__label__109841003 HCC
+__label__240532009 HPV
+__label__22253000 HURTS
+__label__386837002 Haldol
+__label__85562004 Hand
+__label__21983002 Hashi
+__label__69536005 Head
+__label__80891009 Heart
+__label__16331000 Heartburn
+__label__373568007 Hibiclens
+__label__29836001 Hip
+__label__396458002 Hydrocortisone
+__label__24526004 IBD
+__label__10743008 IBS
+__label__408643008 IDC
+__label__44054006 II diabetes
+__label__68267002 IIH
+__label__763325000 IR
+__label__32457005 ISF
+__label__14152002 IV infusion
+__label__236407003 IgA Nephropathy
+__label__395892000 Imatrex
+__label__387040009 Imodium
+__label__372772003 Inderal
+__label__373513008 Indocin
+__label__423307000 Januvia
+__label__372572000 Kamagra
+__label__373464007 Ketamine
+__label__716125002 Keytruda
+__label__95570007 Kidney Stone
+__label__89321004 Koebner
+__label__414581006 LPR
+__label__387562000 Lamictal
+__label__373450007 Lamisil
+__label__386888004 Lansoprazole
+__label__93143009 Leukaemia
+__label__387480006 Lidocaine
+__label__386860005 Lodine
+__label__373567002 Losartan
+__label__387325003 Lotrimin
+__label__397198002 Lupron
+__label__372905008 Luvox
+__label__23502006 Lyme
+__label__415160008 Lyrica
+__label__126102009 Lyza
+__label__40070004 MC
+__label__370143000 MDD
+__label__22298006 MI
+__label__241663008 MRA
+__label__24700007 MS
+__label__412190005 MSM
+__label__387381009 MTX
+__label__125541005 Mastocytosis
+__label__363573000 Maxalt
+__label__372879002 Meclizine
+__label__125605004 Medtronic pumps
+__label__387055000 Meloxicam
+__label__406458000 Memantine
+__label__13445001 Meniere
+__label__74732009 Mental illness
+__label__387286002 Methadone
+__label__72717003 Mg
+__label__37796009 Migraines
+__label__387004007 Modafinil
+__label__373529000 Morphine
+__label__719411008 Movantik
+__label__87174009 Mucinex
+__label__68962001 Muscle pain
+__label__230496009 N24
+__label__121021000119105 NDPH
+__label__80711002 NPD
+__label__16403005 NSAID
+__label__372890007 Narcan
+__label__387528000 Nardil
+__label__116594009 Nasacort
+__label__703097002 Natazia
+__label__78220002 Navel
+__label__386845007 Neurontin
+__label__386033004 Neuropathy
+__label__372652004 Nortriptyline
+__label__441757005 Nucynta
+__label__432807008 OAS
+__label__191736004 OCD
+__label__113076002 OGTT
+__label__373265006 OTC painkillers
+__label__414915002 Obese
+__label__386849001 Olanzapine
+__label__387137007 Omeprazole
+__label__372487007 Ondansetron
+__label__24751001 Opana
+__label__703350008 Otezla
+__label__55452001 OxyContin
+__label__156370009 PA
+__label__35919005 PDD
+__label__59282003 PE
+__label__202882003 PF
+__label__711263002 PFD
+__label__198130006 PID
+__label__596004 PMDD
+__label__371073003 POTS
+__label__58703003 PPD
+__label__197441003 PSC
+__label__47505003 PTSD
+__label__17338001 PVC
+__label__387374002 Paclitaxel
+__label__15776009 Pancreas
+__label__395821003 Pantoprazole
+__label__49049000 Parkinson
+__label__372595009 Paxil
+__label__387211002 Pepcid
+__label__373540008 Plaquenil
+__label__386952008 Plavix
+__label__387433003 Prazosin
+__label__714628002 Prediabetes
+__label__116601002 Prednisolone
+__label__372853006 Prochlorperazine
+__label__16683002 Progesterone
+__label__387423006 Propofol
+__label__372767007 Prozac
+__label__372900003 Pseudoephedrine
+__label__69896004 RA
+__label__77089006 RF
+__label__32914008 RLS
+__label__386872004 Ramipril
+__label__372755005 Ranitidine
+__label__195295006 Raynaud
+__label__372523007 Reactine
+__label__372776000 Reglan
+__label__386847004 Remeron
+__label__387300007 Restoril
+__label__5665001 Retina
+__label__386840002 Risperdal
+__label__442031002 Rivaroxaban
+__label__387486000 Robaxacet
+__label__372670001 Rocephin
+__label__419878007 Rozerem
+__label__247803002 SAD
+__label__402815007 SCC
+__label__197480006 SD
+__label__709489006 SFN
+__label__703619001 SPD
+__label__52954000 SPD
+__label__8098009 STD
+__label__6456007 SVT
+__label__91175000 Seizure
+__label__386850001 Seroquel
+__label__372594008 Sertaline
+__label__373728005 Singulair
+__label__83901003 Sjogren
+__label__25501002 Social Anxiety
+__label__387078006 Spiro
+__label__443465002 Stelara
+__label__702804006 Stivarga
+__label__69695003 Stomach
+__label__116289008 Stomach bloating
+__label__421192001 Sutent
+__label__65124004 Swelling
+__label__46635009 T1
+__label__61275002 T3
+__label__73187006 T4
+__label__56717001 TB
+__label__127295002 TBI
+__label__266257000 TIA
+__label__41888000 TMD
+__label__31681005 TN
+__label__128210009 TOS
+__label__373541007 Tagamet
+__label__412261005 Tamiflu
+__label__373345002 Tamoxifen
+__label__414123001 Tarceva
+__label__387009002 Temodar
+__label__373440006 Tizanidine
+__label__21974007 Tongue
+__label__386844006 Topiramate
+__label__5158005 Tourette
+__label__702798009 Tradjenta
+__label__417746004 Trauma
+__label__64766004 UC
+__label__386858008 Ultram
+__label__418107008 Unconscious
+__label__44068004 Unisom
+__label__96098007 Valtrex
+__label__373476007 Versed
+__label__399153001 Vertigo
+__label__34713006 Vitamin D deficiency
+__label__425597005 Vyvanse
+__label__52501007 WBC
+__label__372756006 Warfarin
+__label__11713004 Water
+__label__8943002 Weight gain
+__label__56018004 Wheezing
+__label__421889003 Xyzal
+__label__410919000 Yasmin
+__label__363582006 Zomig
+__label__125693002 Zonegran
+__label__21522001 abdomen pain
+__label__406784005 abilify
+__label__79631006 absence seizures
+__label__255631004 abx
+__label__387208003 accutane
+__label__57676002 achy joints
+__label__11381005 acne
+__label__126949007 acoustic neuroma
+__label__23451007 adrenal
+__label__70691001 agoraphobia
+__label__89187006 airway
+__label__7200002 alcoholism
+__label__419076005 allergic
+__label__300913006 allergic to shellfish
+__label__420174000 allergic to wheat
+__label__414285001 allergy problems
+__label__252512005 allergy test
+__label__56317004 alopecia
+__label__14302001 amenorrhea
+__label__386864001 amlodipine
+__label__48167000 amnesia
+__label__372687004 amox
+__label__703842006 amphetamine
+__label__271737000 anaemia
+__label__30037006 anal fissure
+__label__240597001 anal warts
+__label__39579001 anaphylactic
+__label__85659009 aneurysms
+__label__194828000 angina
+__label__41291007 angioedema
+__label__257553007 annoyance
+__label__79890006 anorexia
+__label__56882008 anorexia nervosa
+__label__62607004 anorgasmia
+__label__52017007 anti - emetics
+__label__372482001 anti psychotics
+__label__255632006 anti seizure meds
+__label__48694002 anxieties
+__label__20602000 apathetic
+__label__1023001 apnea
+__label__66754008 appendix
+__label__422543003 armpit
+__label__698247007 arrhythmia
+__label__11526002 aspartame
+__label__387458008 aspirin
+__label__195967001 asthma
+__label__82649003 astigmatism
+__label__373444002 atorvastatin
+__label__13331008 atrophy
+__label__32921008 audiogram
+__label__45150006 auditory hallucinations
+__label__18618006 aura
+__label__85828009 auto - immune disease
+__label__4301008 autoimmunity
+__label__161891005 back ache
+__label__41146007 bacterium
+__label__68225006 bald spots
+__label__40689003 balls
+__label__13746004 bi - polar disorder
+__label__79706000 bilirubin
+__label__86273004 biopsies
+__label__386868003 bisoprolol
+__label__55929007 bitchy
+__label__271594007 blackouts
+__label__89837001 bladder
+__label__131148009 bleeding
+__label__64779008 bleeding disorder
+__label__339008 blister
+__label__60728008 bloat
+__label__248490000 bloated feeling
+__label__81060008 blockage
+__label__87612001 blood
+__label__302866003 blood sugar is low
+__label__80394007 blood sugar spikes
+__label__59820001 blood vessel
+__label__405729008 bloody stool
+__label__271807003 body rash
+__label__64859006 bone damage
+__label__53430007 boobs hurt
+__label__21611007 boric acid
+__label__128609009 brain aneurysm
+__label__274100004 brain bleed
+__label__82271004 brain injuries
+__label__2032001 brain swelling
+__label__225624000 breakdowns
+__label__254837009 breast cancer
+__label__56873002 breastbone
+__label__226789007 breastmilk
+__label__267036007 breathless
+__label__33737001 broken ribs
+__label__32398004 bronchitis
+__label__125667009 bruising
+__label__73589001 bulging disc
+__label__78004001 bulimia
+__label__58535001 burnout
+__label__271834000 burping
+__label__84017003 bursitis
+__label__201040000 callus
+__label__193462001 can ' t sleep
+__label__363346000 cancer
+__label__78048006 candidiasis
+__label__85898001 cardiomyopathy
+__label__113257007 cardiovascular
+__label__57406009 carpal tunnel
+__label__46263000 cataplexy
+__label__247917007 catatonic
+__label__80967001 cavities
+__label__32713005 cecum
+__label__396331005 celiac
+__label__279016001 cervicogenic
+__label__238474002 chaffing
+__label__60819002 cheek
+__label__29857009 chest hurts
+__label__38907003 chicken pox
+__label__30291003 chin
+__label__70179006 cholangiocarcinoma
+__label__84698008 cholesterol
+__label__247398009 chronic nerve pain
+__label__19887002 claustrophobia
+__label__51299004 clavicle
+__label__65439009 clitoris
+__label__387085005 cocaine
+__label__64688005 coccyx
+__label__82272006 cold
+__label__1475003 cold sore
+__label__23968004 colectomy
+__label__392003006 colposcopy
+__label__111245009 compartment syndrome
+__label__234532001 compromised immune system
+__label__9826008 conjunctivitis
+__label__105969002 connective tissue disorder
+__label__84229001 constant fatigue
+__label__422587007 constant nausea
+__label__14760008 constipated
+__label__49727002 cough
+__label__271767006 cracking
+__label__55300003 cramp
+__label__57182000 damaged nerves
+__label__13791008 debilitated
+__label__34095006 dehydrated
+__label__2073000 delusion
+__label__27355003 dental pain
+__label__234947003 dental problems
+__label__79499004 depersonalisation
+__label__126112002 depo
+__label__40806005 derealisation
+__label__703938007 dermatitis
+__label__7632005 dermatographia
+__label__430267008 desvenlafaxine
+__label__15771004 diabetes insipidus
+__label__230572002 diabetic neuropathy
+__label__4855003 diabetic retinopathy
+__label__7034005 diclofenac
+__label__387174006 diflucan
+__label__21891005 digestive enzymes
+__label__64572001 disease
+__label__44376007 dissociative disorder
+__label__31611000 dissociative identity disorder
+__label__69328002 distress
+__label__307496006 diverticulitis
+__label__404640003 dizziness
+__label__412383006 dopamine
+__label__24982008 double vision
+__label__62718007 drooling
+__label__271782001 drowsy
+__label__84480002 dry heaves
+__label__16386004 dry skin
+__label__387075009 ducolax
+__label__25064002 dull headache
+__label__232350006 dust mite allergies
+__label__15241006 dysautonomia
+__label__266599000 dysmenorrhea
+__label__16001004 ear pain
+__label__72366004 eating disorder
+__label__398254007 eclampsia
+__label__34801009 ectopic pregnancies
+__label__3424008 elevated heart rate
+__label__113331007 endocrine
+__label__2739003 endometrial
+__label__450556004 endoscopic ultrasound
+__label__30746006 enlarged lymph node
+__label__87644002 epididymis
+__label__84757009 epilepsy
+__label__32849002 esophageal
+__label__79962008 esophageal spasms
+__label__126097006 ethinyl estradiol
+__label__91207004 eustachian tube
+__label__386692008 excessive bleeding
+__label__17173007 excessive thirst
+__label__28442001 excessive urination
+__label__41652007 eye pain
+__label__70323002 eye strain
+__label__80243003 eyelid
+__label__249504006 farting
+__label__55603005 fat tissue
+__label__442191002 fatty liver disease
+__label__386705008 feel light headed
+__label__399317006 feel sluggish
+__label__225457007 feel suicidal
+__label__367391008 feel unwell
+__label__56459004 feet
+__label__373492002 fentanyl
+__label__386661006 fever
+__label__87342007 fibula
+__label__372639009 flouride
+__label__6142004 flu
+__label__95891005 flu - like symptoms
+__label__43498006 fluid retention
+__label__5370000 flutter
+__label__63718003 folic acid
+__label__75258004 food poisoning
+__label__17880006 foreskin
+__label__162116003 frequent urination
+__label__56246009 gaining muscle
+__label__28231008 gall bladder
+__label__235919008 gall stones
+__label__53442002 gastrectomy
+__label__25374005 gastro
+__label__782964007 genetic condition
+__label__33839006 genital HSV
+__label__58265007 giardia
+__label__271558008 glandular fever
+__label__393564001 glioma
+__label__387143009 glipizide
+__label__372567009 glucophage
+__label__55477000 glutathione
+__label__80582002 glycerin
+__label__15628003 gonnorhea
+__label__45647009 granulomas
+__label__37042000 guttate psoriasis
+__label__70153002 haemorrhoids
+__label__67290009 hair follicle
+__label__7011001 hallucinating
+__label__32553006 hangover
+__label__18193002 health anxiety
+__label__56265001 heart condition
+__label__80313002 heart palpitations
+__label__224965009 heartache
+__label__59292006 hemiplegic migraine
+__label__84089009 hiatal hernia
+__label__73595000 high stress
+__label__54235008 histamine
+__label__198436008 hot flashes
+__label__386152007 hydrocele
+__label__387525002 hydrochlorothiazide
+__label__372671002 hydrocodone
+__label__44548000 hyperactive
+__label__312230002 hyperhidrosis
+__label__66999008 hyperparathyroidism
+__label__77692006 hypersomnia
+__label__34486009 hyperthyroid
+__label__68978004 hyperventilating
+__label__231496004 hypomania
+__label__45007003 hypotension
+__label__40930008 hypothyroid
+__label__389086002 hypoxia
+__label__236886002 hysterectomies
+__label__23153004 ileocecal valve
+__label__127785005 immunization
+__label__48277006 impetigo
+__label__165232002 incontinence
+__label__162031009 indigestion
+__label__8619003 infertile
+__label__257552002 inflamed
+__label__396232000 inguinal hernia
+__label__22945000 inner ear
+__label__3829006 iron
+__label__35240004 iron deficiency
+__label__80182007 irregular bleeding
+__label__259268001 isopropyl alcohol
+__label__418290006 itch
+__label__162400007 itchy throat
+__label__18165001 jaundice
+__label__39352004 joint
+__label__395913005 kenalog
+__label__372501008 ketorolac
+__label__2538008 ketosis
+__label__64033007 kidney
+__label__90708001 kidney damage
+__label__70536003 kidney transplant
+__label__49076000 knee joint
+__label__70420003 knuckle
+__label__414564002 kyphosis
+__label__782415009 lactose intolerance
+__label__387731002 laminectomy
+__label__73632009 laparoscopic
+__label__14742008 large intestine
+__label__387475002 lasix
+__label__111132001 laughing gas
+__label__81004002 leprosy
+__label__52988006 lesions
+__label__214264003 lethargic
+__label__409668002 light sensitivity
+__label__11038000 limonene
+__label__10200004 liver
+__label__93870000 liver cancer
+__label__59927004 liver failure
+__label__125571002 lobectomy
+__label__89362005 lose weight
+__label__264082005 lumbar
+__label__61960001 lumbar curve
+__label__39607008 lung
+__label__59441001 lymph
+__label__118600007 lymphoma
+__label__86049000 malignancies
+__label__116593003 medrol
+__label__372244006 melanoma
+__label__41199001 melatonin
+__label__386807006 memory issues
+__label__161712005 menopausal
+__label__23186000 menstrual migraine
+__label__45262002 mercury
+__label__75934005 metabolic disease
+__label__387499002 meth
+__label__372826007 metoprolol
+__label__111379007 mineral deficiencies
+__label__372653009 minocycline
+__label__17369002 miscarriage
+__label__46206005 mood disorder
+__label__37031009 motion sick
+__label__95361005 mucositis
+__label__49909006 mucus
+__label__88092000 muscle atrophy
+__label__80449002 muscle fatigue
+__label__249829006 muscle growth
+__label__726531007 muscle knots
+__label__221360009 muscle spasms
+__label__48532005 muscle strain
+__label__26544005 muscle weakness
+__label__26107004 musculoskeletal
+__label__373546002 naltrexone
+__label__75803007 nasal drip
+__label__45048000 neck
+__label__81680005 neck hurts
+__label__56333001 nerve blocks
+__label__16269008 nerve pains
+__label__118940003 neurological condition
+__label__42984000 night sweats
+__label__45555007 norepinephrine
+__label__249366005 nose bleeds
+__label__387238009 novacaine
+__label__91934008 nut allergies
+__label__18234004 optic nerve
+__label__60168000 osteomyelitis
+__label__21708004 osteosarcoma
+__label__15497006 ovarian
+__label__363443007 ovarian cancer
+__label__79883001 ovarian cyst
+__label__69215007 overheated
+__label__43548008 ovulation pain
+__label__44695005 palsy
+__label__75694006 pancreatitis
+__label__79823003 panic
+__label__371631005 panic disorder
+__label__64905009 paranoid schizophrenia
+__label__91935009 peanut allergies
+__label__87770006 pelvic floor
+__label__18911002 penile
+__label__3238004 pericarditis
+__label__33449004 personality disorder
+__label__27836007 pertussis
+__label__710110008 phantom pain
+__label__405737000 pharyngitis
+__label__372871004 phenergan
+__label__373343009 phentermine
+__label__56329008 pituitary
+__label__34630004 pityriasis
+__label__16378004 platelet
+__label__398102009 polio
+__label__781067001 polycystic
+__label__88480006 potassium
+__label__230478000 pressure headaches
+__label__417047001 prolotherapy
+__label__9713002 prostatitis
+__label__9014002 pso
+__label__69322001 psychosis
+__label__427972000 pudendal neuralgia
+__label__70995007 pulmonary hypertension
+__label__200973000 pustular psoriasis
+__label__600009 pyromania
+__label__52130006 quercetin
+__label__399205006 razor bumps
+__label__34402009 rectal
+__label__77880009 rectal pain
+__label__386713009 reddish
+__label__87572000 reflex
+__label__275498002 respiratory infection
+__label__50043002 respiratory issues
+__label__113197003 rib
+__label__60862001 ringing in my ears
+__label__47382004 ringworm
+__label__239815007 sacroiliitis
+__label__373757009 saline
+__label__387390002 salt
+__label__41695006 scalp
+__label__102308008 scalpel
+__label__79601000 scapula
+__label__12402003 scar
+__label__58214004 schizo
+__label__68890003 schizoaffective
+__label__23056005 sciatic
+__label__298382003 scoliosis
+__label__72641008 sedation
+__label__372614000 sedative
+__label__112088009 selfishness
+__label__443675005 seminoma
+__label__91302008 sepsis
+__label__371089000 seratonin syndrome
+__label__67922002 serum
+__label__26079004 shakes
+__label__4740000 shingles
+__label__16982005 shoulder
+__label__36971009 sinus infection
+__label__11092001 sinus tachycardia
+__label__2095001 sinuses
+__label__87599003 skelaxin
+__label__240977001 skin biopsy
+__label__372130007 skin cancer
+__label__201091002 skin tags
+__label__53309004 skin test
+__label__89546000 skull
+__label__73430006 sleep apnea
+__label__39898005 sleep disorder
+__label__275280004 sniffle
+__label__72863001 snores
+__label__45352006 spasm
+__label__6789008 sperm
+__label__2748008 spinal
+__label__90584004 spinal cord injury
+__label__76107001 spinal stenosis
+__label__127783003 spirometry
+__label__78961009 spleen
+__label__65818007 stent
+__label__426933007 strep infection
+__label__39423001 stuttering
+__label__387248006 sulfasalazine
+__label__403194002 sunburn
+__label__102449007 tardive dyskinesia
+__label__398057008 tension headache
+__label__63901009 testicle pain
+__label__81996005 testicular torsion
+__label__69748006 thyroid
+__label__14304000 thyroid condition
+__label__12611008 tibia
+__label__85756007 tissue
+__label__90176007 tonsillitis
+__label__31764008 trapezius
+__label__372829000 traz
+__label__387305002 tretinoin
+__label__181623009 tricep
+__label__56335008 trich
+__label__17155009 trichotillomania
+__label__27612005 trigeminal nerve
+__label__14092002 tyramine
+__label__58696008 ulnar nerve
+__label__54150009 upper respiratory infection
+__label__31822004 urethritis
+__label__27171005 urinalysis
+__label__35039007 uterine
+__label__33879002 vaccination
+__label__76784001 vagina
+__label__387080000 valproic acid
+__label__51070004 varicocele
+__label__29092000 vein
+__label__21814001 ventricles
+__label__372754009 verapamil
+__label__34014006 viral illness
+__label__85670002 vitamin deficiencies
+__label__422400008 vomits
+__label__30285000 warts
+__label__697930002 white coat syndrome
+__label__720822008 withdraw symptoms
+__label__363101005 withdrawal syndrome
+__label__86739005 zinc

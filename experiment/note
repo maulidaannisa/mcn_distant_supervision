@@ -1,0 +1,6 @@
+
+CATATAN:
+
+untuk data psytar folder distant-with-ori terjadi kesalahan dalam pembuatan data training. Data distant tidak digabungkan dengan data yang original.
+
+Data yang digunakan berbeda dengan eksperimen pertama dan kedua. Menggunakan data baru dan code yang telah diperbaharui

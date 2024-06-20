@@ -1,0 +1,185 @@
+__label__367391008 feel a bit weird 
+__label__271782001 bit drowsy 
+__label__49218002 hip pain 
+__label__55300003 cramping 
+__label__84229001 fatigue 
+__label__404640003 dizzieness 
+__label__21522001 abdominal pain 
+__label__57676002 arthritis pain 
+__label__404640003 dizzines 
+__label__26079004 could not stop shaking 
+__label__422400008 threw up 
+__label__161891005 back ache 
+__label__57676002 arthritic pain 
+__label__69896004 ra 
+__label__57676002 athritic pain 
+__label__161891005 """back labor"" pains" 
+__label__386692008 excessive mestrual bleeding 
+__label__38341003 elevated blood pressure 
+__label__386705008 light headed 
+__label__422400008 puking 
+__label__37796009 migraine 
+__label__55300003 cramp 
+__label__418290006 extreme itching on legs and arms 
+__label__386692008 clotting, and horrible periods 
+__label__84229001 extreme tiredness 
+__label__367391008 feel dreadful 
+__label__95891005 """ fluey"" feelings in upper arms, legs" 
+__label__45352006 bad cramps 
+__label__9991008 abdominal cramps 
+__label__131148009 bled heavily 
+__label__69896004 rematoid arthro 
+__label__271782001 drowsiness 
+__label__422587007 light nausea 
+__label__193462001 can't sleep 
+__label__21522001 abdominal pains 
+__label__22298006 heart attack 
+__label__422587007 extreme nausea 
+__label__37796009 migraines 
+__label__22253000 aches 
+__label__202882003 plantar fasciitis 
+__label__193462001 cant sleep 
+__label__81680005 muscle aches in my neck 
+__label__22253000 achiness 
+__label__68962001 leg muscle discomfort 
+__label__88092000 less muscle mass 
+__label__13791008 debilitating 
+__label__22298006 cardio event 
+__label__129565002 damaging my muscles 
+__label__56265001 coronary disease 
+__label__55300003 buttocks cramps 
+__label__26544005 decrease in overall strength 
+__label__60862001 ringing in the ears 
+__label__84229001 fatigued 
+__label__26544005 lack of strength 
+__label__88092000 arm muscles melting 
+__label__29857009 chest ache 
+__label__22253000 ache 
+__label__271807003 rash 
+__label__161873000 heaviness in the legs 
+__label__77692006 constant sleepiness 
+__label__68962001 leg muscle pain 
+__label__88092000 atrophy 
+__label__68962001 achy muscles 
+__label__54981004 charley horse in my side 
+__label__54981004 charley horse in one or both breasts 
+__label__9991008 abdominal cramping 
+__label__386705008 light head 
+__label__22253000 afterpain 
+__label__55300003 cramping in back 
+__label__95891005 felt like i had the flu 
+__label__129565002 damage to my muscles 
+__label__49218002 hip hurts 
+__label__55300003 cramped 
+__label__49218002 aching in hips 
+__label__279039007 low back pains 
+__label__49218002 hip pains 
+__label__68962001 horrible muscle pains 
+__label__49218002 hip joint pain 
+__label__129565002 extreme muscle problems 
+__label__32914008 legs are restless 
+__label__25064002 extreme headaches 
+__label__57676002 arthritic type pain in all joints 
+__label__13791008 constantly weak 
+__label__22298006 heart attach 
+__label__25064002 constant headaches 
+__label__13791008 debilitated 
+__label__3424008 increase my heart rate 
+__label__129565002 damaging your muscles 
+__label__49218002 hip hurt 
+__label__57676002 aching joints 
+__label__68962001 aching muscles 
+__label__422587007 mild nausea 
+__label__81680005 muscle pain in neck 
+__label__88092000 losing muscle 
+__label__386807006 barely remember anything that has happened recently 
+__label__45352006 spasm 
+__label__32914008 attack of restless leg syndrome 
+__label__68962001 acute muscle pain 
+__label__235856003 damaged my liver 
+__label__68962001 bad muscle pains 
+__label__386807006 couldnt remember anything 
+__label__22253000 aching 
+__label__68962001 inflamatory muscle pain 
+__label__68962001 deep muscle pain 
+__label__49049000 parkinson 
+__label__95891005 felt flu-like 
+__label__22253000 constant aching/pain 
+__label__279039007 low back pain 
+__label__367391008 feel like shit all the time 
+__label__399153001 room spinning 
+__label__80449002 fatigue in legs 
+__label__80449002 fatigue in forearms 
+__label__84229001 fatigue, increased 
+__label__26544005 losing strength 
+__label__55300003 cramping in back muscles 
+__label__161891005 back aches 
+__label__8943002 gained a lot of weight 
+__label__81680005 neck hurt 
+__label__16386004 dry skin 
+__label__161891005 aching muscles in back 
+__label__26544005 extreme muscle weakness 
+__label__279038004 muscle pain in upper back 
+__label__26079004 hand tremors 
+__label__267044007 excercise intolerance 
+__label__84229001 constant fatigue 
+__label__418290006 intolerable itching 
+__label__13791008 drained 
+__label__57676002 achy joints 
+__label__161873000 felt like i had lead in my legs 
+__label__404640003 diziness 
+__label__88092000 loss of muscle in left leg 
+__label__49218002 aches in hip joint 
+__label__25064002 dull headaches 
+__label__79890006 anorexic 
+__label__386807006 affected my memory 
+__label__386807006 couldn't remember who i had dinner with last night 
+__label__386807006 couldn't remember where i left my dog 10 minutes before 
+__label__55300003 cramping feeling 
+__label__80449002 extreme muscle fatigue 
+__label__235856003 damaged his liver 
+__label__161891005 aches and pains in my back 
+__label__80449002 fatigue in arms 
+__label__55300003 body cramps 
+__label__271807003 bumps on both sides of my stomach that looks like chicken pots 
+__label__418290006 constant itching 
+__label__68962001 chronic muscle pain 
+__label__44054006 type 11 diabetic 
+__label__129565002 every muscle from my waist down was effected 
+__label__81680005 neck ache 
+__label__54981004 charley horses 
+__label__88092000 losing muscular 
+__label__399153001 severe vertigo 
+__label__60862001 problems with tinnitus 
+__label__68962001 chronic pain in all my muscles 
+__label__68962001 debilitating muscle pain in my back 
+__label__68962001 debilitating muscle pain in my arms 
+__label__131148009 bleed 
+__label__80313002 heart palpatations 
+__label__56265001 coronary problems 
+__label__13791008 disabling fatigue 
+__label__161891005 aching in back 
+__label__29857009 chest aches 
+__label__202882003 plantar fasciatis 
+__label__271807003 massive triangular rash on my forehead 
+__label__68962001 all-over muscle pain 
+__label__13791008 declining physical ability 
+__label__25064002 blinding headaches 
+__label__26544005 decrease in muscle strength 
+__label__77692006 excessive sleep 
+__label__79890006 anorexia 
+__label__26544005 loss of muscel strength 
+__label__77692006 excessive sleep requirements 
+__label__88092000 loss of muscle 
+__label__95891005 feel flu like 
+__label__68962001 lots of pain in the muscles 
+__label__26544005 acute weakness in the muscles of whole body 
+__label__55929007 a lot grouchier 
+__label__279038004 back pain upper 
+__label__279039007 back pain lower 
+__label__386033004 nerve problems in shoulder 
+__label__193462001 can't even sleep at night 
+__label__405729008 blood in bowel movements 
+__label__57676002 chronic bone/joint pain 
+__label__25064002 bad headache 
+__label__55929007 crabbiness 

@@ -1,0 +1,2062 @@
+__label__24936000 a detached from the body feeling
+__label__48694002 anxiety
+__label__203082005 fibromyalgia
+__label__399153001 vertigo
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__24936000 robot-like
+__label__386807006 trouble with memory
+__label__55929007 irritibility
+__label__8943002 weight gain
+__label__422587007 nausea
+__label__41888000 tmj
+__label__13746004 bipolar
+__label__231532002 pssd
+__label__79890006 lack of eating
+__label__84229001 extreme fatigue
+__label__225624000 panic attacks
+__label__48694002 anxiety
+__label__13746004 bipolar
+__label__84229001 very bad fatigue
+__label__14760008 constipation was really bad in first month
+__label__87715008 dry mouth
+__label__87715008 dry mouth
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__193462001 insomnia was horrid the first 2-3 days
+__label__231532002 slight sexual problems
+__label__193462001 insomnia
+__label__84229001 extreme fatigue
+__label__427368007  hot flashes
+__label__48694002 anxiety
+__label__596004 pmdd
+__label__248004009 do not think twice to hit someone
+__label__18193002 hypochondria worse
+__label__404640003 dizzy
+__label__42984000 initially extreme night sweats 
+__label__370143000 extremely severe depression
+__label__84229001 low energy
+__label__48694002 anxious
+__label__418290006 itching
+__label__48694002 anxiety
+__label__84229001 terrible fatigue
+__label__225624000 panic attacks
+__label__125667009 bruising
+__label__48694002 anxiety
+__label__404640003 dizziness
+__label__87388001 loss of sexual pleasure
+__label__44548000 hyper for quite a while
+__label__25064002 headaches
+__label__25064002 headaches
+__label__422587007 initially, some nausea
+__label__48167000 loss of concious memory
+__label__422587007 nausea
+__label__24936000 too numb to the world
+__label__48694002 increased anxiety
+__label__193462001 first month - sleeplessness
+__label__225624000 panic attacks
+__label__8943002 only bigger 
+__label__225624000 panic attacks
+__label__48694002 anxiety worsened
+__label__231532002 sexual side effects
+__label__404640003 dizzy
+__label__79499004 have not been myslef at sll
+__label__404640003 severe dizziness
+__label__193462001 sleepiness
+__label__25064002 head aches
+__label__48694002 anxiety
+__label__214264003 lethargy
+__label__161712005 menopause
+__label__214264003 lazy
+__label__42984000 initial night sweats
+__label__285303006 racing thoughts
+__label__422587007 a day and a half of nausea
+__label__48694002 anxious
+__label__44301001 suicide
+__label__1376001 ocd 
+__label__55929007 irritability
+__label__225457007 suicide
+__label__14760008 constipation 
+__label__271782001 sleepiness
+__label__427368007 hot flashes
+__label__193462001 sometime insomnia
+__label__48694002 anxiety
+__label__48694002 very anxious
+__label__68962001 muscle soreness
+__label__84229001 fatigue
+__label__48694002 anxiety
+__label__42984000 night sweats
+__label__225624000 panic attacks
+__label__48694002 anxiety
+__label__404640003 dizziness
+__label__48694002 increase in anxiety
+__label__193462001 could not sleep good at night
+__label__3424008 excellerated heart rate
+__label__271782001 very sleepy
+__label__57676002  joint pain
+__label__89362005 weight loss of about 10 lbs
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__8943002 gained 15 lbs
+__label__422587007 nausea
+__label__48694002 anxiety
+__label__6140007 dull boring mood
+__label__25064002 increases in my headaches
+__label__422587007 nausea is pretty bad
+__label__404640003 dizziness
+__label__225624000 panic attacks increased
+__label__193462001 insomnia
+__label__91175000 mini-seizures
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__87715008 arid dry mouth
+__label__77692006 slept for another 12hrs
+__label__79890006 loss of appetite
+__label__422587007 nausea
+__label__404640003 dizziness
+__label__25064002 some headaches
+__label__203082005 fibromyalgia type pain
+__label__193462001 difficulty sleeping
+__label__48694002 anxiety
+__label__55929007 irritability everyday
+__label__15405008 ejaculation delay
+__label__422587007 nausea
+__label__82272006 severe colds
+__label__79890006 lack of appetite
+__label__193462001 trouble sleeping
+__label__193462001 trouble sleeping, gone away after a few weeks
+__label__422587007 nausea
+__label__22253000 physically painful
+__label__30819006 dysphoria
+__label__225624000 panic attacks
+__label__62607004 no orgasm during sex
+__label__80313002 heart palpitations
+__label__48167000 loss of memory
+__label__193462001 insomnia
+__label__16331000 heart burn
+__label__55929007 irritable
+__label__367391008 felt so bad
+__label__231532002 completely destroyed sexually functioning
+__label__25064002 slight headache
+__label__422587007 nausea
+__label__422587007 nausea
+__label__62607004 loss of orgasm
+__label__48694002 anxiety
+__label__48694002 more anxiety
+__label__267036007 cant catch my breath
+__label__191667009 paranoia
+__label__37125009 pupils were hugely enlarged
+__label__62607004 inability to get an orgasm
+__label__38341003 hypertension
+__label__48694002 anxiety
+__label__14760008 constipation
+__label__14760008 constipation
+__label__48694002 anxiety
+__label__22253000 increased pain
+__label__48694002 anxiety
+__label__386705008 light headed feeling
+__label__214264003 lethargic
+__label__111487009 vivid nightmares
+__label__193462001 severe insomnia
+__label__386705008 really lightheadnessed
+__label__1376001 ocd
+__label__84229001 chronic fatigue
+__label__285303006 racing thoughts
+__label__84229001 fatigue
+__label__84229001 extreme fatigue
+__label__8943002 weight gain
+__label__84229001  fatigue 
+__label__404640003 dizziness
+__label__706873003 mental torture
+__label__48694002 anxiety
+__label__225457007 persistent thoughts of suicide
+__label__45352006 muscle spasms
+__label__20602000 couldn't care less
+__label__67233009 kept waking up
+__label__248490000 bloating
+__label__62607004  less ability to reach orgasm
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__62607004 inability to climax
+__label__25064002 mild headache
+__label__48694002 anxiousness
+__label__48694002 anxious 
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__6140007 felt pretty dull
+__label__191667009 paranoid
+__label__8943002 weight gain 
+__label__563001 wobbly vision
+__label__37796009 increased migraine frequency
+__label__8943002 weight gain
+__label__427368007 hot flashes, first 4 weeks
+__label__225457007 suicidal thoughts
+__label__386807006 couldn't remember stuff people said 
+__label__48694002 nighttime anxiety
+__label__193462001 slight insomnia
+__label__8943002 weight gain
+__label__422587007 nausea
+__label__48694002 anxious
+__label__60862001 sometimes ringing in my ear
+__label__720822008 chronic discontinuation syndrome
+__label__386807006 barely remember the last 3.5 months
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__231532002 sexual side effects
+__label__193462001 sleeplessness
+__label__193462001 sleeplessness
+__label__84229001 fatigue got much worse
+__label__68962001 muscle aches
+__label__225457007 suicidal thoughts
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__271782001 drowsiness
+__label__84229001 fatigue
+__label__193462001 insomnia
+__label__25064002 headache
+__label__42984000 night sweats
+__label__3424008 accelerated heart rate 
+__label__48694002 anxiety had increased 
+__label__225457007 contemplating sucidial actions a lot
+__label__193462001 sleepless in about three weeks
+__label__81680005 neck pain
+__label__225457007 suicide thoughts
+__label__367391008 initially, felt a little worse
+__label__422587007 nausea at first
+__label__422587007 nausea (at first)
+__label__26079004 body buzz
+__label__25064002 headaches
+__label__48694002 anxiety
+__label__62607004 cannot orgasm 
+__label__14760008 full of poop
+__label__422587007 nauseous
+__label__225457007 suicidal thoughts
+__label__48694002 anxiety
+__label__193462001 took me a day and a half to finally sleep
+__label__89362005 lost weight
+__label__422587007 initially; nausea
+__label__14760008 constipation
+__label__89362005 weight loss at the very beginning
+__label__87715008 dry mouth
+__label__271737000 anemia
+__label__37796009 migraines
+__label__48694002 anxiety
+__label__111487009 super-intense dreams
+__label__48694002 anxiety
+__label__422587007 nausea
+__label__84229001 fatigue
+__label__398057008 tension headaches
+__label__25064002 occasional head rush
+__label__14760008 huge constipation
+__label__84229001 fatigue
+__label__48694002 anxious
+__label__8943002 weight gain
+__label__25064002 initially, mild headaches
+__label__404640003 dizziness
+__label__193462001 some sleepiness 
+__label__55929007 irritability
+__label__84229001 loss of energy
+__label__22253000 pain
+__label__8943002 weight gain
+__label__48694002 added to my anxiety
+__label__62607004 inability to have orgasm
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__225457007 thought about suicide
+__label__6140007 not being able to express sadness
+__label__24936000 totally numb
+__label__422587007 nausea
+__label__193462001 keep me up
+__label__22253000 physical pain
+__label__48694002 anxiety
+__label__22253000 pain
+__label__231532002 sexual problems
+__label__32914008  rls
+__label__193462001  didn't sleep
+__label__20602000 feel that i don't have passion about anything 
+__label__698247007 heart arrhythmia
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__37796009 migraines
+__label__404640003 dizziness
+__label__62607004 unable to orgasm
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__84229001 lack of energy
+__label__422587007 nauseous
+__label__8943002 weight gain
+__label__8943002 weight gain
+__label__404640003 dizziness
+__label__596004 pmdd
+__label__48694002  anxiety 
+__label__271782001 drowsiness for the first few weeks 
+__label__14760008 constipation
+__label__25064002 headaches
+__label__68962001 muscle aches
+__label__20602000 apathy
+__label__25064002 slight headache
+__label__422587007 nausea
+__label__62607004 inability to organism
+__label__25064002 headache
+__label__25064002 headaches
+__label__8943002 weight gain
+__label__62607004 missed having orgasms
+__label__84229001 fatigue
+__label__48694002 anxiety
+__label__225624000 panic attacks
+__label__23986001 glaucoma
+__label__79890006 couldn't eat until around 9:00 this evening
+__label__193462001 insomnia, first few days
+__label__422587007 nausea
+__label__203082005 fibromyalgia 
+__label__32914008 restless legs first 2 weeks
+__label__89362005 weight loss
+__label__14760008 initially constipated
+__label__404640003 dizzy
+__label__87715008 dry mouth in the beginning
+__label__422587007 nausea
+__label__81680005 neck pain
+__label__55929007 irritable
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__193462001 never sleep
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__25064002 nonstop headache
+__label__62607004 inability to orgasm
+__label__193462001 insomnia
+__label__225457007 suicidal thoughts
+__label__36321004 talking in sleep
+__label__14760008 at first constipation
+__label__89362005 weight loss
+__label__87715008 dry mouth
+__label__370143000 major depression
+__label__367391008 feeling of not-being-right
+__label__404640003 dizzy
+__label__25064002 headache
+__label__79890006 no food sounds desirable
+__label__422587007 nausea
+__label__267038008 edema
+__label__60700002 sensioneural 
+__label__231532002 sexual problems
+__label__13644009 cholesterol is high
+__label__48694002 anxiety worse
+__label__285303006 9,846 thoughts in 2 minutes
+__label__37298006 biting nails
+__label__25064002 headaches
+__label__193462001 insomnia
+__label__247653006  negative thought
+__label__84229001 fatigue
+__label__84229001 energy level increased
+__label__74007000 marked reduction in sexual response and sensation
+__label__399153001 vertigo
+__label__48694002 anxiety
+__label__231532002 sexual side effects are severe
+__label__79890006 indifference to food
+__label__214264003 got nothing done all day
+__label__84229001 fatigue
+__label__37796009 severe migraines
+__label__57676002 minor joint soreness
+__label__6140007 emotions feel muted
+__label__42984000 night sweats on a few occasion 
+__label__62607004 sexual anorgasmia
+__label__79890006 other days no appetite 
+__label__8943002 biggest
+__label__48694002 anxiety
+__label__271782001 a bit sleepy
+__label__87715008 dry mouth
+__label__25064002 headaches everyday
+__label__271782001 a bit of sleepiness initially
+__label__271782001 some sleepiness
+__label__193462001 insomnia
+__label__193462001 insomnia for the first few weeks
+__label__193462001 insomnia
+__label__214264003 lethargic
+__label__48694002 anxiety
+__label__203082005 fibromyalgia
+__label__422587007 naseau
+__label__26079004 feel as though i am vibrating
+__label__111487009 intense dreams
+__label__48694002 increased anxiety the first few days
+__label__131148009 always bleeding, will not go away
+__label__55929007 irritability
+__label__267036007 shortness of breath
+__label__225624000 panic attacks
+__label__89362005 weight loss
+__label__422587007 nausea
+__label__8943002 weight gain
+__label__84229001 fatigue
+__label__394656005 leading to an overnight hospital
+__label__193462001 insomnia were unbearable
+__label__25064002 bad thumping headache
+__label__73595000 stressed out
+__label__25064002 dull headache constantly
+__label__247398009 neuropathy pain
+__label__214264003 rest all the time
+__label__422587007 nausea
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__25064002 headaches
+__label__191667009 paranoid
+__label__62607004 inability to reach orgasm
+__label__422587007 moderate nause
+__label__712759008 doom
+__label__48694002 anxiety
+__label__72366004 eating disoders
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__82313006 cut my wrists
+__label__8943002 gained back all of the weight i lost
+__label__404640003 dizziness
+__label__193462001 insomnia
+__label__193462001 insomnia
+__label__25064002 occassional, mild headaches
+__label__193462001 couldn't sleep much
+__label__422587007 nausea
+__label__48694002 anxious
+__label__427368007 internal hot flushing
+__label__422587007 nausea
+__label__422587007 a little naucious
+__label__48694002 anxiety
+__label__48694002 anxiey
+__label__67233009 interupted sleep
+__label__25064002 minor headaches, for about 3 weeks
+__label__214264003 lack of interest in anything except sleep
+__label__16331000 heartburn 
+__label__193462001 loss of sleep
+__label__8943002 weight gain
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__84229001 increased fatigue
+__label__225457007 thoughts of suicide
+__label__48694002 very anxious
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__79890006 loss of appetite
+__label__48694002 anxiety increased
+__label__40806005 derealization
+__label__427368007 hot flashes
+__label__69328002 distressing at first
+__label__79890006 loss of appetite in the beginning
+__label__84229001 fatigue
+__label__48694002 anxiety
+__label__8943002 5lb weight gain
+__label__225624000  panic attacks 
+__label__48694002 anxiety
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__37125009 pupils were massive
+__label__193462001 insomnia
+__label__20602000 just dont care
+__label__37125009 dilated pupils
+__label__14760008 chronic constipation
+__label__48694002 anxiety
+__label__55929007 irritability
+__label__55929007 irritability
+__label__25064002 headache
+__label__87715008 dry mouth sometimes
+__label__422587007 nauseus
+__label__422587007 real nausious
+__label__404640003 dizzy
+__label__48694002 anxiety
+__label__271782001 sleepiness
+__label__14760008 constipation
+__label__84229001 extreme fatigue
+__label__8943002 weight gain 
+__label__48694002 anxious
+__label__77692006 up for less hours at a time
+__label__231532002 post-ssri sexual dysfunction
+__label__87715008 dry mouth
+__label__214264003 lethargy
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__33184005 as if vague, kind of abstracted strings were pulling me and everyone else around me in accordance with eachother
+__label__404640003 dizziness
+__label__87715008 dry mouth in the first week
+__label__225457007 suicidal thoughts
+__label__55929007 major irritability
+__label__48694002 anxiety
+__label__404640003 dizziness
+__label__193462001 insomnia
+__label__87715008 dry mouth
+__label__404640003 very dizzy
+__label__397803000 erectile dysfunction
+__label__48694002 anxious
+__label__370143000 debilitating major depressive episode
+__label__25064002 mild headaches
+__label__48694002 anxiety
+__label__20602000 nothing moves or excites me
+__label__404640003 very dizzy
+__label__7011001 called the cops on my husband thinking he was a boyfriend who died almost 10 years ago and trying to kill me
+__label__87715008 dry mouth
+__label__231532002 sexual side effects
+__label__62607004 inability to reach orgasm
+__label__25064002 headache
+__label__26544005 muscle weakness
+__label__427368007 intense hot flashed
+__label__60862001 ringing of the ears
+__label__55929007 irritable
+__label__25064002 headaches
+__label__48694002 anxiety
+__label__193462001 keeps me awake at night
+__label__14760008 constipation
+__label__267036007 swallowed breath
+__label__48694002 occassional anxiety
+__label__427368007 hot flash shot 
+__label__25064002 headaches
+__label__422587007 nausea
+__label__193462001 insomnia
+__label__271782001 sleepiness
+__label__48694002 anxiety
+__label__712759008 doom
+__label__193462001 insomnia
+__label__15405008 delayed ejaculation
+__label__21897009 gad
+__label__193462001 have to take a sedative to sleep
+__label__79890006 slight loss of appetite
+__label__68962001 muscle soreness
+__label__271782001 want to sleep
+__label__422587007 naseua
+__label__43498006 fluid retention
+__label__8943002 got fat
+__label__48694002 anxiety
+__label__84229001 somewhat decrease in energy
+__label__21897009 gad
+__label__267036007 shortness of breath
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__14760008 severe constipation
+__label__370143000  severe depression
+__label__225457007 suicidal thoughts
+__label__25064002 slight headache
+__label__225624000 panic attcks
+__label__84229001  fatigue 
+__label__14760008 mild constipation
+__label__37796009 migranes
+__label__80313002 heart palpitations
+__label__89362005 lost some weight
+__label__87388001 no sexual enjoyment
+__label__55929007 irritable
+__label__8943002 weight gain
+__label__203082005 fibromyalgia
+__label__22253000 pain
+__label__394656005 hospitalized
+__label__404640003 dizziness
+__label__25064002 headaches
+__label__404640003 dizziness
+__label__193462001 difficulty sleeping
+__label__79890006 loss of appetite
+__label__225457007 suidical feelings
+__label__48694002 anxiety
+__label__58703003 post partum
+__label__79890006 loss of appetite
+__label__48694002 anxious
+__label__48694002 anxiety
+__label__231532002 sexual side-effects
+__label__214264003 listless
+__label__73595000 stress
+__label__214264003 hard for me to get ready and go to work
+__label__82313006 tried to kill myself
+__label__48694002 anxiety
+__label__225457007 feel suicidal
+__label__370143000 severe depression
+__label__42984000 woke up at 3am sweating
+__label__16001004 ear ache
+__label__225624000 panic attacks
+__label__25064002 headaches
+__label__48694002 anxiety
+__label__404640003 some dizziness
+__label__42984000 night sweats
+__label__26079004 beginning few days, hand tremors 
+__label__225624000 panic attacks
+__label__214264003 lethargic
+__label__48694002 anxious
+__label__48694002 anxiety
+__label__77692006 sleeping more
+__label__248490000 feel bloated all the time
+__label__89362005 weight loss
+__label__48694002 anxiety
+__label__60862001 constant ringing buzz in the ears
+__label__15405008 delayed ejaculation
+__label__404640003 dizziness
+__label__89362005 mild weight loss
+__label__225457007 suicidal feelings
+__label__25064002 headaches for a few days (gne now)
+__label__77692006 wanted to sleep all day
+__label__55929007 irritability
+__label__8943002 weight gain
+__label__386705008 light headedness
+__label__231532002 sexual dysfunction
+__label__55929007 more irritable
+__label__370143000  deep depression
+__label__422587007 nausea
+__label__84229001 fatigue
+__label__48694002 depression 
+__label__48694002 anxiety
+__label__62607004 unable to orgasm
+__label__25064002 mild headaches
+__label__193462001 insomnia
+__label__25064002 intial headache went away in a few days
+__label__191736004 wash my hands like 100x
+__label__25064002 headaches
+__label__225457007 wanted to kill myself several times
+__label__55929007 irritability
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__386033004 neuropathy
+__label__20602000 didn't care about anything
+__label__404640003 dizziness
+__label__74007000 loss of feeling during sex
+__label__8943002 gained 10 lbs 
+__label__271782001 initially, very sleepy
+__label__25064002 head aches
+__label__55929007 irritable
+__label__225624000 panick attacks 
+__label__404640003 extreme dizziness
+__label__1376001 ocd
+__label__404640003 dizziness
+__label__225624000 panic attacks
+__label__48167000 memory loss
+__label__16331000 occasional, incredibly uncomfortable waves of heat that shoot up from my stomach to my sternum
+__label__427368007 hot flashes
+__label__422587007 early on, nausea
+__label__25064002 headache that lasted about a week
+__label__79890006 loss of appetite
+__label__8943002 weight gain
+__label__42984000 severe night sweats
+__label__48694002 anxiety has returned 
+__label__80313002 heart pounding
+__label__214264003 wouldn't  wash my hair
+__label__87715008 dryness of mouth, at first
+__label__271782001 wanting to sleep
+__label__82313006 attempted to commit suicide
+__label__20602000 feel apathy
+__label__89362005 losing weight
+__label__77692006 sleep
+__label__14760008 constipation
+__label__29857009 chest pain
+__label__79890006 thought of food would make me sick to my stomach
+__label__422587007 abdomen is queasy
+__label__78004001 bulimia
+__label__62607004 anorgasmia
+__label__79823003 panicky
+__label__29857009 chest pains
+__label__48694002 anxiety just didn't stop
+__label__271594007 fainting
+__label__55929007 irritability
+__label__84229001 fatigue
+__label__422587007 nauseous
+__label__48694002 anxiety
+__label__193462001 constant insomnia
+__label__8943002 weight gain 
+__label__82313006 suicide attempt
+__label__37796009 migraine is still with me
+__label__231532002 sexual effects
+__label__87715008 dry mouth, went away after a month
+__label__81680005 neck hurts horribly
+__label__231532002 sexual dysfunction is not terrible
+__label__193462001 increased ability to sleep
+__label__26079004 tremors
+__label__225624000 panic attacks
+__label__422587007 slight nausea
+__label__13746004 bipolar
+__label__42984000 night sweating
+__label__422587007 initial nausea
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__26628009 changed my whole thought process
+__label__111487009 long term: extremely graphic nightmares
+__label__42984000 night sweats
+__label__193462001 sleeplessness
+__label__271782001 very sleepy
+__label__68962001 muscle aches
+__label__404640003 initially, dizziness
+__label__225457007 suicidal thoughts at times
+__label__87715008 dry mouth
+__label__48694002 anxiety
+__label__203082005 fibromyalgia 
+__label__89362005 initially; weight loss
+__label__79499004 feel so off
+__label__76107001 stenosis
+__label__271782001 drowsy during the day
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__422587007 nausea
+__label__397803000 inability to get an erection
+__label__427368007 hot flushes
+__label__22253000  constant pain
+__label__193462001 cannot sleep any longer than 3 hours per night
+__label__84229001 fatigue
+__label__191736004 rechecking everything in my apartment
+__label__89362005 weight loss
+__label__48694002 anxiety
+__label__55300003 muscle cramps
+__label__37910008 speeded-up metabolism
+__label__13746004 bi-polar
+__label__84229001 extreme fatigue
+__label__48694002 anxiety
+__label__57676002 joint pain
+__label__44376007 lasting dissociative symptoms
+__label__22253000 physical pain
+__label__271782001 felt uncontrollably sleepy
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__404640003 dizzy
+__label__48167000 memory loss
+__label__40593004 brief episodes of heart fibrillation
+__label__271782001 very sleepy all the time
+__label__193462001 sleeplessness
+__label__3424008 tachycardia
+__label__87715008 dry mouth
+__label__422587007 slight nausea
+__label__404640003 dizziness
+__label__193462001 insomnia
+__label__8943002 weight gain
+__label__91175000 seizures
+__label__39423001 stuttering
+__label__13746004 manic depression
+__label__422587007 too nauseaus
+__label__214264003 takes a while to get going in the morning
+__label__84229001 fatigue
+__label__79890006 inability to eat 
+__label__48694002 anxious
+__label__422587007 nauseous
+__label__48694002 anxiety
+__label__42984000 night sweats
+__label__8943002 weight gain
+__label__225457007 suicidal thoughts
+__label__404640003 mild, a little dizzy at first
+__label__193462001 insomnia
+__label__225624000 panic attacks
+__label__422587007 nausea
+__label__247803002  seasonal affect disorder
+__label__62607004 no orgasms
+__label__55929007 irritable
+__label__25064002 headaches
+__label__48694002 anxiousness
+__label__271594007 swoon
+__label__397803000 erectile disfunction
+__label__8943002 gained 14lbs
+__label__191667009 paranoia
+__label__58703003 wanted nothing to do with him
+__label__91175000 entire body seized up
+__label__48694002 increased anxiety
+__label__422587007 nausea
+__label__404640003 lasted a week or so - dizzy
+__label__48694002 anxious
+__label__20602000 just don't care
+__label__79890006 got my appetite back
+__label__48694002 anxiety
+__label__225624000 panic attacks 
+__label__231532002 sexual side affects
+__label__404640003 really dizzy
+__label__89362005 lose weight
+__label__20602000 apathy
+__label__84229001 fatigue
+__label__8943002 some weight gain
+__label__193462001 insomnia
+__label__20602000 feeling of not caring about anyone
+__label__8943002 gained some weight
+__label__48694002 anxiety
+__label__225624000 panic attacks
+__label__267036007 short winded
+__label__79499004 disconnected from my body
+__label__79890006 had to be put on valium so i could eat
+__label__62607004 anorgasmia
+__label__55929007 irritability
+__label__48694002 anxiety
+__label__225624000 panic attacks
+__label__37796009 migraine-like headaches
+__label__712759008 feeling of eminent doom 24/7
+__label__48694002 anxiety
+__label__8943002 gained 10 pounds
+__label__102612005 get sick when i drink alcohol
+__label__84229001 energy is really low
+__label__386705008 light headedness, went away after a few weeks
+__label__79890006 loss of appetite
+__label__87715008 dry mouth
+__label__84229001 fatigue
+__label__231532002 sexual problems
+__label__87715008 very dry mouth
+__label__25064002 headache
+__label__42984000 night sweating happens about twice a week
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__89362005 loss of weight
+__label__271782001 very sleepy throughout the day
+__label__58703003 depression after postpartum
+__label__193462001 insomnia
+__label__26079004 tremors
+__label__62607004 cannot have an orgasm
+__label__231532002 slight sexual side effects
+__label__24936000 feel numb
+__label__8943002 weight gain
+__label__62607004 loss of ability to have an orgasm
+__label__404640003 dizzy
+__label__386705008 light headed, first few days
+__label__409668002 sensitive to the light
+__label__193462001 mild insomnia
+__label__102612005 increases the effect of alcohol
+__label__87715008 extreme dry mouth
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__14760008 extremely constipated
+__label__89362005 weight loss
+__label__42984000 very very bad night sweats
+__label__193462001 restless sleep, first 4 weeks
+__label__399153001  increased episodes of vertigo
+__label__22253000 pain
+__label__422587007 nausea
+__label__79890006 loss of appetite
+__label__45352006 minor muscle spasms
+__label__73595000 stress
+__label__84229001 fatigue
+__label__48694002 anxiety
+__label__422587007 nausea
+__label__8943002 gained weight 
+__label__48694002 increased anxiety
+__label__84229001 fatigue
+__label__193462001 insomnia
+__label__25064002 from time to time headache
+__label__193462001 insomnia
+__label__422587007 nauseau
+__label__394656005 ended up in the hospital for 5 days
+__label__203082005 fibro pain
+__label__11381005 acne
+__label__6140007 very slow to anger
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__14760008 constipation
+__label__18193002 hypochondria
+__label__87715008 dry mouth
+__label__14760008 occasional, constipation at first
+__label__48694002 anxiety
+__label__42984000 night sweats
+__label__394656005 hospitalized
+__label__14760008 constipation, for a few weeks
+__label__48694002 anxiety
+__label__84229001 extreme fatige
+__label__48694002 anxiety
+__label__22253000 pain
+__label__84229001 constant fatigue
+__label__399153001 vertigo
+__label__32914008 restless legs
+__label__404640003 dizziness on occassion
+__label__203082005 fibro pain
+__label__279038004 severe middle back pain
+__label__55929007 irritability
+__label__193462001 insomnia
+__label__25064002 headache
+__label__397803000 for the entire time, erectile dysfunction
+__label__48694002 anxiety
+__label__8943002 hope to get rid of weight 
+__label__14760008 chronic constipation
+__label__422587007 nausea the first couple of days
+__label__248122005 binge eating
+__label__8943002 gained one pound a week for six months
+__label__225457007  think of suicide
+__label__87715008 dry mouth, went away after a few weeks
+__label__25064002 head rush that made me think i was having a stroke
+__label__48167000 memory loss
+__label__225624000 panic
+__label__48694002 anxiety
+__label__89362005 weight loss
+__label__422587007 little nauseaus first couple of days
+__label__193462001 horrible cycle of insomnia
+__label__8943002 weight gain
+__label__57676002 terrible joint pain
+__label__48694002 anxiety
+__label__422587007 slight nausea
+__label__42984000 night sweats
+__label__285303006 mind was racing
+__label__8943002 weight gain
+__label__87715008 dry mouth 
+__label__42984000 sweating at night 
+__label__48694002 anxiety
+__label__225624000 panic attacks
+__label__7011001 mild halloucinations
+__label__193462001 problems sleeping
+__label__87715008 dry mouth the first month
+__label__79890006 no appetite
+__label__25064002 wicked headache
+__label__62607004 inability to orgasm
+__label__87715008 dry mouth
+__label__48694002 anxiety
+__label__193462001 insomnia
+__label__48694002  anxiety
+__label__231532002 sexual dysfunction
+__label__25064002 more frequency and higher degree of pain with headaches
+__label__214264003 listless
+__label__225624000 panic attacks
+__label__89362005 weight loss in first 5 days
+__label__37796009 migraines
+__label__62607004 inability to reach orgasm, but only for a short time
+__label__83943005  temper tantrums
+__label__48167000 loss of memory
+__label__422587007 nausea
+__label__48694002 anxiety
+__label__48694002 at first had some anxiety 
+__label__271782001 increased sleepiness
+__label__370143000 severe depression
+__label__87715008 moderate to severe dry mouth
+__label__87388001 no sexual satisfaction
+__label__89362005 weightloss, gone away after a few weeks
+__label__193462001 insomnia
+__label__8943002 weight gain
+__label__225457007 recurrent thoughts of suicide
+__label__271782001 sleepiness
+__label__89362005 weight loss in beginning
+__label__231532002 adverse sexual side effects
+__label__84229001 severely fatigued
+__label__13746004 bipolar disorder
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__238131007 overweight
+__label__79499004 dont feel like myself 
+__label__404640003 dizzy feeling
+__label__8943002 weight gain
+__label__271782001 sleepiness
+__label__8943002 weight gain
+__label__225457007 suicidal thoughts 
+__label__386705008 light
+__label__62607004 unable to orgasm
+__label__58703003 depression after postpartum
+__label__48167000 memory loss
+__label__48694002 anxiety
+__label__55929007 irritated
+__label__89362005 initial weight loss
+__label__81680005 neck pain
+__label__48694002 anxiety
+__label__4210003 sensation of pressure behind my eyes
+__label__271782001 sleepiness
+__label__74007000 sexual sensitivity began to diminish
+__label__25064002 headache
+__label__102612005 inability to drink alcohol
+__label__394656005 admited me for 5 days
+__label__48694002 anxiety
+__label__25064002 headaches for 10 days
+__label__422587007 nausea at first
+__label__8943002 some weight gain
+__label__193462001 mild insomnia
+__label__80313002 severe palpitatios
+__label__48694002 anxiety
+__label__22253000 pain actually got worse
+__label__67233009 trouble staying asleep 
+__label__422587007 nausea
+__label__25064002 headaches
+__label__422587007 a little nausea
+__label__193462001 severe insomnia
+__label__225457007 feeling suicidal
+__label__247653006 negative obsessive thoughts
+__label__25064002 a bit of a headache
+__label__79890006 loss of appetite
+__label__22253000 pain
+__label__267036007 cannot breathe
+__label__422587007 lasted a week or so - nausea
+__label__397803000 difficulty getting an erection
+__label__8943002 weight gain 
+__label__8943002 gain weith
+__label__79890006 no appetite for about 2 months, went away
+__label__225457007 suicidial thoughts
+__label__285303006 9,846 thoughts in 2 minutes
+__label__55929007 irritability
+__label__26544005 weak muscles
+__label__48694002 anxiety
+__label__62607004 loss ability to orgasm
+__label__271782001 sleepy
+__label__48694002 anxiety is worse
+__label__48694002 anxiety
+__label__11381005 extreme acne around mouth and jaw
+__label__89362005 weight loss
+__label__25064002 headaches
+__label__24936000 emotionally numb
+__label__48694002 anxiety
+__label__214264003 not being able to get out of bed
+__label__89362005 weight loss
+__label__367391008 felt worse
+__label__427368007 horrid hot flashes
+__label__87715008 dry mouth
+__label__225624000 panic attack
+__label__386705008 lightheaded
+__label__404640003 dizziness
+__label__422587007 nausea
+__label__367391008 overall feeling like no other
+__label__422587007 nausea
+__label__55929007 more mad
+__label__20602000 just blah
+__label__404640003 dizziness
+__label__15405008 at first, delayed ejaculation, disappeared after a few months
+__label__102612005 alcohol has a stronger effect
+__label__55929007 irritability
+__label__79823003 terrible panic
+__label__271782001 sleepiness
+__label__57676002 joints so sore 
+__label__231532002 less and less sexual function over the years
+__label__193462001 insomnia
+__label__87715008 dry mouth
+__label__367391008 felt like crap for days
+__label__81680005 first 1-2 weeks, neck felt very sore
+__label__14760008 some constipation
+__label__48694002 anxiety
+__label__22253000 pain
+__label__427368007 hot flashes
+__label__16331000 heartburn
+__label__422587007 frequent nausea
+__label__271782001 some sleepiness
+__label__48694002 residual anxiety
+__label__418290006 itching
+__label__42984000 night sweats
+__label__193462001 insomnia
+__label__55929007 get mad 
+__label__24936000 just existed
+__label__386705008 lightheadedness
+__label__48694002 anxiety
+__label__48694002 anxiety was starting to get worse
+__label__397803000 lack of ability to obtain erection 
+__label__45352006 spasms
+__label__45352006 muscle spasms
+__label__48694002 anxiety
+__label__193462001 insomnia
+__label__225624000 panic attacks
+__label__14760008 first month: constipation
+__label__111487009 vivid dreams
+__label__42984000 terrible night sweats
+__label__25064002 headache
+__label__422587007 nausea at first
+__label__42984000 night sweating
+__label__8943002 hope i can lose the weight
+__label__422587007 short term nausea
+__label__14760008 constipation
+__label__55929007 easily irritated
+__label__225624000 panic attacks
+__label__48694002 anxiety
+__label__48694002 anxious
+__label__48167000  memory loss
+__label__22253000 pain
+__label__398057008 feelings of a band around head
+__label__271782001 drowsiness
+__label__193462001 a lot of trouble sleeping
+__label__87715008 dry mouth
+__label__81680005 sore neck
+__label__231532002 sexual dysfunction
+__label__8943002 weight gain
+__label__404640003 more and more dizzy by the week
+__label__25064002 headache
+__label__42984000 terrible night sweats (most nights)
+__label__89362005 weightloss
+__label__48694002 anxiety
+__label__58703003 post partum
+__label__80449002 extreme muscle fatigue
+__label__409668002 senceitivity to light
+__label__87715008 dry mouth
+__label__422587007 nausea
+__label__48694002 anxiety 
+__label__225624000 panic attack
+__label__267044007 felt sick when working out
+__label__14760008 constipation
+__label__20602000 lack of care for anything important
+__label__80313002 heart palpitations
+__label__404640003 dizziness
+__label__706873003 agony emotionally for weeks
+__label__386807006 problems with memory
+__label__225457007 suicide thoughts
+__label__1376001 ocd
+__label__404640003 dizziness to be worse
+__label__3424008 pulse ranged from 85 to 105-resting rate
+__label__214264003 lethargy
+__label__422587007 nausea
+__label__271782001 sleepiness
+__label__422587007 nausea subsided
+__label__20602000 just shrug my shoulders as my living room curtains caught fire 
+__label__313387002 slightly irritable to sounds
+__label__193462001 sleeplessness
+__label__57676002 joint pain
+__label__225457007 suicidal thoughts
+__label__48694002 anxiety
+__label__214264003 listlessness
+__label__14760008 constipation
+__label__73595000 stress
+__label__48694002 anxiety
+__label__20602000 didn't care about a thing
+__label__25064002 headache-seems to be fading
+__label__419076005 extreme allergic reaction
+__label__84229001 fatigue, first week
+__label__13746004  manic depressive
+__label__87715008 intial dry mouth went away in a few days
+__label__193462001 insomnia
+__label__399153001 vertigo 
+__label__25064002 first couple of weeks, headaches
+__label__55929007 irritable
+__label__40806005 derealisation
+__label__79499004 out of sorts feeling
+__label__14760008 totally constipated
+__label__42984000 night sweats
+__label__193462001 occasional sleeplessness
+__label__87715008 fairly intense dry mouth
+__label__422587007 nausea
+__label__48694002 anxiety
+__label__14760008 constipation
+__label__3424008 increased heart rate
+__label__25064002 headaches
+__label__37796009 a step from a migraine daily
+__label__14760008 chronic constipation
+__label__111487009 vivid nightmares
+__label__102612005 intensified affects of alcohol tremendously
+__label__214264003 extreme lethargy
+__label__42984000 night sweats
+__label__62607004 unable to have orgasm
+__label__214264003 didn't want to get out of bed
+__label__62607004 anorgasmic (difficulty achieving orgasm)
+__label__42984000 night sweats
+__label__62607004 unable to achieve orgasm
+__label__87715008 dry mouth
+__label__238131007 got fat
+__label__48694002 anxiety
+__label__67233009 problems staying asleep
+__label__62607004 miss orgasms
+__label__214264003 a little harder to get out of bed in the morning
+__label__399153001 head spinning
+__label__48694002 anxiety
+__label__422587007 nausea in morning
+__label__48694002 anxiety
+__label__79823003 panic
+__label__422587007 early on: nausea
+__label__25064002 headaches
+__label__193462001 not sleep well
+__label__48694002 anxiety
+__label__404640003 a lot of dizziness
+__label__14760008 constantly constipated
+__label__2073000 delusional
+__label__25064002 headaches
+__label__48694002 general anxiety got worse
+__label__238968009 vulvodynia
+__label__225624000 first 10 days, looong panic attack
+__label__68962001 nerve/muscle pain
+__label__48694002 anxiety
+__label__225457007 thoughts of suicide
+__label__8943002 constant weight gain
+__label__712759008 feelings of doom
+__label__42984000 wake up sweating
+__label__404640003 dizziness
+__label__247653006 obsessive thoughts
+__label__87715008 dry mouth
+__label__225457007 suicidal thoughts
+__label__404640003 dizziness
+__label__386705008 light headedness
+__label__42984000 soaked yourself, your pj's, and the sheets through with night sweats
+__label__271782001 sleepy
+__label__404640003 dizzy
+__label__271594007 fainting spells
+__label__55929007 irritable
+__label__89362005 weight loss
+__label__370143000 depression
+__label__397803000 keeps my johnson from working very well
+__label__404640003 dizziness
+__label__418290006 itching
+__label__48694002 anxiety got worse
+__label__62607004 no orgasm during sex
+__label__84229001 fatigue
+__label__87715008 little dry mouth
+__label__8943002 weight gain
+__label__386705008 lightheadedness
+__label__14760008 constipation
+__label__404640003 mild dizziness
+__label__399317006 moved very slow
+__label__25064002 headaches
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__422587007 nausea
+__label__422587007 a bit of nausea
+__label__271594007 syncope
+__label__62607004 anorgasmic at first
+__label__48694002 anxiety
+__label__14760008 constipation
+__label__55929007 irritability
+__label__193462001 continuing - insomnia
+__label__422587007 nauseous
+__label__8943002 some weight gain
+__label__62607004 unable to reach orgasm
+__label__37796009 terible migranes
+__label__24936000 emotionally detached
+__label__84229001 fatigue
+__label__48694002 increased anxiety
+__label__8943002 gain weight
+__label__48694002 anxiety
+__label__102612005 can't tolerate any alcohol
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__14760008 initially constipation but it went away after a few weeks
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__8943002 weight gain
+__label__33449004 "shredding" of my personality
+__label__193462001 insomnia
+__label__24936000 disconnected from life
+__label__48694002 anxiety
+__label__37125009 dialated pupils
+__label__87715008 dry mouth
+__label__271782001 in the beginning, drousy
+__label__25064002 headache from hell
+__label__55929007 kids' antics wig me out
+__label__42984000 night sweats
+__label__422587007 extreme ongoing and continual nausea
+__label__3424008 high pulse
+__label__404640003 from time to time dizziness
+__label__422587007 nauseated
+__label__8943002 weight started increasing
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__13746004 bipolar
+__label__370143000 severe depression
+__label__191480000 withdrawal symptoms from alcohol and marijuana use
+__label__399153001 vertigo
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__36971009 sinus swelling
+__label__271782001 sleepy
+__label__39423001 stutter
+__label__89362005 lost 7 lbs the 3 months
+__label__193462001 can't sleep well
+__label__422587007 first two weeks, very nauseous
+__label__404640003 dizzy
+__label__14760008 constipation
+__label__77692006 sleeping more
+__label__13746004 bipolar
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__84229001 fatigue
+__label__267036007 shortness of breath
+__label__225457007 thinking about suicide
+__label__427368007 during the first week, hot flashes
+__label__48694002 anxiety 
+__label__25064002 headaches
+__label__404640003 dizziness
+__label__386705008 light headed
+__label__48694002 depression.
+__label__25064002 head aches were gone
+__label__67233009 could not get back to sleep
+__label__193462001 difficulty sleeping
+__label__77692006 sleep and sleep and sleep
+__label__422587007 nausea
+__label__422587007 nausea first day only
+__label__48694002 anxious
+__label__87715008 dry mouth, first few days
+__label__55929007 irritable
+__label__48694002 anxiey
+__label__47505003 ptsd
+__label__214264003 listlessness
+__label__8943002 weight gain
+__label__58703003 post natal depression
+__label__48694002 anxiety
+__label__370143000 major depression
+__label__87715008 dry mouth at beginning
+__label__26079004 severe tremors
+__label__397540003 vision problems
+__label__6140007 dulled emotions, improved with time
+__label__14760008 constipation
+__label__48694002 anxiety
+__label__24936000 felt numb
+__label__84229001 extreme fatigue
+__label__25064002 headaches
+__label__48694002 anxious
+__label__25064002 occasonal headaches
+__label__397803000 impotence
+__label__193462001 sleep was not good
+__label__55929007 irritable
+__label__422587007 nausea
+__label__422587007 nausea
+__label__48694002 anxiety
+__label__13746004 bipolar depression
+__label__422587007 nausea
+__label__404640003 dizzyness
+__label__193462001 insomnia
+__label__84229001 fatigue
+__label__422587007 nausea
+__label__84229001 fatigue
+__label__89362005 weight loss-40 lbs in less than 2 months
+__label__37298006 a week or two, nail biting
+__label__84229001 fatique
+__label__82313006 attempted suicide
+__label__82313006 suicide attempt
+__label__25064002 headache
+__label__193462001 insomnia
+__label__15405008 delayed ejaculation
+__label__193462001 have to take sleeping pills
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__62607004 no orgasm
+__label__48694002 higher anxiety levels
+__label__48694002 anxiety
+__label__14760008 major constipation
+__label__271594007 fainting
+__label__102612005 extreme decrease in the amount it takes to get drunk
+__label__82313006 suicidal attempt
+__label__231532002 sexual dysfunction
+__label__404640003 feeling dizzy
+__label__193462001 insomnia
+__label__57676002  joint pain
+__label__422587007 nausea
+__label__225457007 suicidal thoughts
+__label__79890006 loss of appetite
+__label__29857009 chest pain
+__label__77692006 sleeping around 15 hours
+__label__48694002 anxiety
+__label__84229001 fatigue, very dibilitating
+__label__42984000 night sweats, gone away after a few weeks
+__label__77692006 sleep 13 hours 
+__label__6140007 mask the problem
+__label__225624000 panic attacks
+__label__24936000 numbing
+__label__225457007 suicidal ideation
+__label__214264003 don't really want to do anything 
+__label__13746004 bipolar disorder
+__label__55300003 muscle cramping
+__label__404640003 dizzy
+__label__25064002 headache
+__label__32914008 at the very beginning, jittery legs
+__label__77692006 spend most of my spare time in bed sleeping
+__label__267036007 couldn't catch my breath
+__label__422587007 mild nausea, first few weeks
+__label__285303006 mind raced at 100 miles a minute
+__label__1376001 jump off the deap end
+__label__398057008 tension in the front part of my head
+__label__87715008 dry mouth
+__label__48694002 anxiety
+__label__84229001  fatigue
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__48694002 increased anxiety
+__label__84229001 fatigue
+__label__20602000 apathy
+__label__271782001 drowsy throughout the day
+__label__214264003 lazy
+__label__193462001 severe insomnia first week
+__label__6140007 never be happy about anything, but never really sad
+__label__399317006 slow all day
+__label__422587007 nausea
+__label__48694002 increased anxiety
+__label__14760008 constipation
+__label__247653006 negative feelings
+__label__8943002 increase in weight gain
+__label__404640003 dizzy
+__label__42984000 night sweats
+__label__48694002 increased anxiety 
+__label__422587007 nausea
+__label__193462001 sleepless, in the first week
+__label__225624000 constant panic 
+__label__87715008 dry mouth
+__label__22253000 hurt so bad
+__label__394656005 hospitalized twice
+__label__66590003 increase in alcohol abuse/depenence
+__label__84229001 fatigue
+__label__225457007 want to kill myself
+__label__87715008 dry mouth, went away
+__label__84229001 fatigue
+__label__214264003 lethargy
+__label__25064002 initially headache
+__label__22253000 pain
+__label__25064002 headaches
+__label__48694002 anxious
+__label__20602000 feel apathy
+__label__7011001 hallucinations
+__label__48694002 increased anxiety, went way down on day 4 or 5
+__label__231532002 sexual one
+__label__48694002 anxiety
+__label__279039007 severe and chronic lower back pain
+__label__108365000 frequently developed into skin infections
+__label__225624000 panic attacks
+__label__48694002 anxiety
+__label__422587007 feel like i am going to vomit all the time
+__label__214264003 don't have the energy 
+__label__80313002 heart palpitations
+__label__80313002 heart palpitations
+__label__363346000 cancer
+__label__14760008 constipation(mild)
+__label__89362005 weight loss
+__label__84229001 fatigue
+__label__8943002 weight gain
+__label__24936000 just existing
+__label__404640003 feeling dizzy
+__label__24936000 detachment
+__label__17155009 trichotillomania
+__label__399153001 vertigo
+__label__48694002 anxiety
+__label__14760008 constipation
+__label__398057008 headaches at base of skull
+__label__25064002 increased headaches frequency
+__label__25064002 headaches
+__label__225624000 constantly, on the verge of a panic attack
+__label__8943002 weight gain
+__label__24936000 emotionally numb
+__label__367391008 felt so awful
+__label__422587007 nausea
+__label__271737000 anemia, will not go away
+__label__80313002 hear palpitations
+__label__84229001 fatigue
+__label__48694002 anxiety
+__label__422587007 slight nausea 
+__label__8943002 some weight gain
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__231532002 sexual side effects
+__label__404640003 dizziness
+__label__42984000 sweat at night
+__label__8943002 weight gain
+__label__4740000 shingles
+__label__24936000 disconnected feelings
+__label__193462001 sleeplessness
+__label__48694002 anxiety
+__label__25064002 headaches, first few weeks
+__label__48694002 residual anxiety
+__label__225457007 suicide
+__label__422587007 nausea
+__label__25064002 headaches
+__label__193462001 insomnia
+__label__79890006 loss of appetite
+__label__404640003 dizzy
+__label__89362005 weightlose
+__label__79499004 feeling off
+__label__42984000 night sweats
+__label__79823003 panic while driving
+__label__48694002 anxiety
+__label__422587007 nausea, first week
+__label__214264003 extreme lethargy
+__label__3424008 increased heart rate
+__label__48694002 anxiety
+__label__62607004 couldn't orgasm
+__label__48694002 anxiety
+__label__48694002 increased anxiety
+__label__193462001 moderate insomnia
+__label__48694002 anxiety
+__label__87715008 dry mouth
+__label__14760008 constipation (short term)
+__label__267036007 breathing returned to normal
+__label__399153001 waves like vertigo but whilst sitting
+__label__231532002 sexual side effects
+__label__225450009 omicidal thoughts
+__label__111487009 extreme dreams
+__label__48694002 anxiety
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__367391008 overall awful feeling
+__label__84229001 extreme fatigue
+__label__422587007 nausia
+__label__422587007 nauseated for the first few days
+__label__231532002 sexual side effects
+__label__193462001 slight insomnia
+__label__193462001 difficulty with sleeping
+__label__271782001 drowsiness
+__label__48694002 anxious
+__label__60862001 subtle ringing in my ears
+__label__1475003 fever blisters
+__label__225457007  think of suicide
+__label__271782001 drowsiness
+__label__8943002 weight gain
+__label__422587007 extreme nausea
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__89362005 weight loss
+__label__42984000 bad night sweats
+__label__193462001 trouble sleeping
+__label__24936000  semi-zombie
+__label__225624000 panic attack
+__label__91019004 tinges
+__label__55929007 losing my patience with my dog
+__label__267036007 breathing was so messed up
+__label__25064002 headache
+__label__48694002 anxiety
+__label__45150006 heard voices
+__label__8943002 weight gain
+__label__91175000 seizures
+__label__8943002 some initial weight gain
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__70323002 eye strain
+__label__214264003 barely get out of bed
+__label__80313002 heart palpitations
+__label__48694002 occassional anxiety
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__84229001 slight fatigue
+__label__231532002 sexual side effects
+__label__271594007 fainted
+__label__44695005 brief paralysis
+__label__422587007 nausea for the first week
+__label__111409009 interstitial cystitis
+__label__225624000 panic attacks
+__label__267036007 shortness of breath
+__label__415510005 just sat on the couch every day staring at the tv
+__label__14760008 constipation
+__label__68962001 muscle pains
+__label__14760008 serious constipation
+__label__37796009 migraines
+__label__193462001 difficulty sleeping
+__label__42984000 night sweats
+__label__79499004 feels like someone else is in your body
+__label__367391008 feel so crummy
+__label__48694002 increase in anxiety
+__label__225457007 suicidal ideation
+__label__231532002 sexual problems
+__label__44376007 dissociative episodes
+__label__399153001 vertigo
+__label__422587007 very nausous
+__label__48694002 anxiety
+__label__48694002 anxiety times 1000
+__label__422587007 nauseous
+__label__386807006 very bad memory
+__label__55929007 irritability
+__label__422587007 nauseated
+__label__55929007 irritability
+__label__48694002 anxious
+__label__8943002 gained weight
+__label__225624000 increase in panic attacks
+__label__225624000 panic attack
+__label__80313002 heart palpatations
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__13746004 bipolar
+__label__214264003 lethargic
+__label__84229001 overwhelming fatigue
+__label__20602000 apathetic
+__label__55929007 irritable
+__label__79499004 feel outside of yourself
+__label__8943002 weight gain has been small
+__label__247917007 catatonic
+__label__276296007 felt in a daze
+__label__225624000 panic attacks
+__label__404640003 insane dizziness
+__label__48694002 anxiety
+__label__422587007 nauseous
+__label__14760008 constipation
+__label__8943002 gained 5lbs
+__label__404640003 dizzy
+__label__48694002 anxiety
+__label__193462001 sleeplessness
+__label__422587007 nauseaus
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__37125009 pupils dialated
+__label__191736004 rechecking everything in my apartment
+__label__22253000 pain has broken through
+__label__48694002 anxiety
+__label__111487009 bad vivid dreams
+__label__267036007 very hard to take a deep breath 
+__label__48694002 anxiety
+__label__13746004 manic depression
+__label__404640003 feel dizzy
+__label__48694002 anxiety
+__label__14760008 some constipation
+__label__73595000 stressed out
+__label__18193002 hypochondria
+__label__214264003 wouldn't bathe
+__label__24936000 disconnected from life
+__label__214264003 desire to just do nothing
+__label__231532002 initially had some sexual problems
+__label__404640003 dizziness
+__label__87715008 dry mouth
+__label__48694002 anxiety
+__label__404640003 dizzy
+__label__48694002 anxiety
+__label__25064002 headache
+__label__42984000 night sweats
+__label__8943002 weight gain
+__label__404640003 dizziness
+__label__1376001 ocd
+__label__193462001 insomnia
+__label__89362005 weight loss
+__label__248490000 bloating
+__label__193462001 insomnia
+__label__37796009 migraine
+__label__48694002 anxiety
+__label__367391008  horrible feeling
+__label__404640003 dizziness
+__label__193462001 bouts of sleeplessness
+__label__386705008 still feel lightheaded
+__label__8943002 gained 13 lbs
+__label__313387002 extreme sensitivity to sound
+__label__111487009 vivid nightmares
+__label__231532002 sexual side effects 
+__label__404640003 dizziness
+__label__161712005 menopause
+__label__14760008 constipation
+__label__248122005 eating disorder
+__label__422587007 severe nausea
+__label__422587007 nausea
+__label__73589001 herniation
+__label__87715008 dry mouth
+__label__8943002 initial weight gain
+__label__48694002 anxiety
+__label__386705008 lightheadedness
+__label__48694002 anxiety
+__label__225450009 feel homicidal
+__label__111487009 vivid nightmares
+__label__48694002 anxious
+__label__26079004 tremor
+__label__81680005 neckaches
+__label__8943002 weight gain
+__label__25064002 headaches 
+__label__214264003 don't feel like doing anything
+__label__48694002 anxiety
+__label__193462001 insomnia
+__label__73595000 stress
+__label__48694002 anxiety
+__label__25064002 headaches
+__label__48694002 anxiety
+__label__8943002 gained about 15 lb
+__label__48694002 anxiety
+__label__39423001 stutter
+__label__89362005 started losing weight
+__label__48694002 anxiety
+__label__87715008 seriously dry mouth
+__label__193462001 insomnia
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__193462001 difficulty sleeping
+__label__20602000 not give a rats ass about anything
+__label__25064002 headache
+__label__214264003 wanted to lay in bed
+__label__398057008 halo around head feeling
+__label__37796009 migraines
+__label__58214004 slight schizophrenia
+__label__193462001 not sleeping
+__label__271782001 sleepy
+__label__193462001 insomnia
+__label__271737000 57 of hemoglobin concentration out of 135
+__label__6140007 loss of emotional range
+__label__25064002 headache
+__label__225457007 often suicidal thoughts
+__label__225457007 wanted to end my life
+__label__48694002 anxiety
+__label__24936000 wasn't living
+__label__48694002 anxiety
+__label__247653006  negative thought
+__label__271782001 sleepy
+__label__48694002 anxiety
+__label__8943002 gained 18 pound
+__label__48694002 increase in anxiety
+__label__193462001 wasn't able to sleep at night 
+__label__79890006 couldnt eat
+__label__87715008 severe cotton mouth
+__label__73595000 extremely stressful.
+__label__225457007 suicide thoughts
+__label__225624000 panic attacks
+__label__26079004 tremors
+__label__48694002 anxiety
+__label__397803000 problem with erection
+__label__193462001 difficult sleep
+__label__24936000 emotional numbness
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__84229001 improvement in my energy levels
+__label__26079004 severe tremors
+__label__214264003 listlessness
+__label__247653006 weighed down by my thoughts
+__label__68962001 muscle pain
+__label__87715008 dry mouth
+__label__48694002  anxiety
+__label__25064002 headache 
+__label__26284000 mouth sores
+__label__225624000 panic attack
+__label__8943002 5 lb weight gain initially
+__label__48694002 anxiety
+__label__32914008 restless leg syndrome
+__label__247653006 negative feelings
+__label__422587007 non stop nausea
+__label__367391008 really awful
+__label__111487009 intense dreams
+__label__32914008 restless legs syndrome
+__label__404640003 dizziness
+__label__404640003 dizziness
+__label__231532002 sexual dysfunction
+__label__596004 pms depression
+__label__84229001 extreme fatigue
+__label__271782001 sleepiness
+__label__87715008 extreme dry mouth
+__label__427368007 at the very beginning, hot flashes
+__label__48694002 anxiety
+__label__20602000 slight apathy
+__label__367391008 feel very ill
+__label__77692006 slept a lot
+__label__279039007 muscle pain in lower back
+__label__14760008 constipation
+__label__84229001 chronic fatigue
+__label__214264003 didn't want to get out of bed
+__label__48694002 anxiety
+__label__79890006 could not eat for days
+__label__57676002 pretty bad joint pain for last week
+__label__79890006 not feel hungry all the time
+__label__8943002 weight gain
+__label__367391008 felt horrible
+__label__225457007 suicidal thoughts
+__label__48694002 anxiety
+__label__20602000 feeling of not caring about anything 
+__label__11381005 acne
+__label__405729008 rectal bleeding
+__label__370143000 extremely severe depression
+__label__422587007 waves of nausea
+__label__48694002 anxiety
+__label__225457007 suicidal ideation
+__label__386705008 light-headed feeling
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__26079004 tremors
+__label__193462001 horrible insomnia
+__label__225457007 s/i
+__label__84229001 fatigue
+__label__422587007 nausea
+__label__22253000 body pain
+__label__84229001 extreme fatigue
+__label__399153001 vertigo
+__label__193462001 insomnia
+__label__214264003 didn't care if i ever got out of bed
+__label__67233009 trouble staying asleep 
+__label__84229001 fatigued
+__label__17155009 trichotillomania
+__label__48694002 anxiety
+__label__404640003 dizzy
+__label__404640003 dizziness
+__label__24936000 loss of emotional attachment with partner
+__label__422587007 want to hurel
+__label__48694002 slight increase in anxiety in the begining
+__label__271782001 somnolence
+__label__404640003 dizziness
+__label__87715008 dry mouth
+__label__422587007 nausea
+__label__79890006 not being able to eat
+__label__79890006 loss of appetite
+__label__25064002 headache for 5 days
+__label__48694002 some anxiety for the first day or two
+__label__8943002 weight gain
+__label__404640003 feeling dizzy 
+__label__422587007 nausea
+__label__42984000 increased sweating at night
+__label__48694002 anxiety
+__label__225457007 suicidal thoughts
+__label__225457007 suicidal thoughts
+__label__193462001 don't even know if i did sleep
+__label__422587007 nausea
+__label__225624000 panic attacks
+__label__80449002 fatigue within my muscles
+__label__48167000 difficulty remembering most of that year
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__10743008 irritable bowel
+__label__45150006 auditory hallucinations everyday
+__label__422587007 nausea on the first day
+__label__271782001 incredible drowsiness
+__label__14760008 major constipation
+__label__42984000 terrible night sweats
+__label__25064002 headaches
+__label__422587007 feeling nauseated
+__label__89362005 weight loss
+__label__48694002 anxiety
+__label__193462001 insomnia
+__label__386807006 bad memory
+__label__48694002 anxiety
+__label__409668002 extreme sensitivity to light
+__label__84229001 fatigue
+__label__386807006 hardly remember
+__label__80182007 period screwed up
+__label__8943002 weight gain
+__label__48694002 anxiety
+__label__422587007 severe nausea
+__label__193462001 insomnia
+__label__422587007 nasea
+__label__422587007 first three days nausea
+__label__214264003 lethargy
+__label__21897009 gad
+__label__418290006 mild itching
+__label__48694002 anxiety
+__label__386807006 memory isnt as good
+__label__84229001 so fatigued 
+__label__225457007 suicidal thoughts
+__label__25064002 headaches
+__label__422587007 nausea
+__label__62607004 inability to orgasm
+__label__8943002 weight gain
+__label__214264003 very listless all day
+__label__25064002 headaches
+__label__84229001 low energy
+__label__48694002 anxiety
+__label__48694002 anxiety
+__label__404640003 dizziness
+__label__48694002 anxiety
+__label__32914008 legs became restless
+__label__62607004 cannot orgasm
+__label__18265008 lasted a week or so - bug eyed
+__label__370143000 severe depression 
+__label__214264003 laid down and stayed there all day
+__label__422587007 nausea, went away after a month
+__label__231532002 sexual dysfunction 
+__label__193462001 have to take something to make me sleep
+__label__231532002 sexual
+__label__8943002 moderate weight gain
+__label__24936000 numb brain
+__label__14760008 constipation
+__label__394656005 come to hospital
+__label__48694002 anxiety
+__label__37796009 migraines
+__label__404640003 dizziness
+__label__79890006 no appetite
+__label__404640003 alot of dizziness
+__label__87715008 dry mouth
+__label__60862001 tinnitus
+__label__8943002 weight gain
+__label__82313006 suicidal attempt
+__label__225457007 suicidal thoughts
+__label__37910008 sped up my metabolism
+__label__161891005 back pain
+__label__422587007 initially nausea
+__label__422587007 nausea, a lil
+__label__225457007 want to kill myself
+__label__48694002 anxiety
+__label__404640003 dizzy
+__label__42984000 moderate night sweats
+__label__397803000 erectile disfunction
+__label__48694002 anxiety
+__label__225457007 think of suicide, almost constant
+__label__13746004 somewhat bipolar
+__label__73595000 unbelievable stress level
+__label__55929007 severe irratibility
+__label__55929007 irritability
+__label__422587007 nausea
+__label__25064002 major headaches
+__label__21897009 gad
+__label__48694002 anxiety
+__label__231532002 sexual side effects
+__label__68962001 muscle pain
+__label__21897009 general anxiety
+__label__20602000 general apathy
+__label__21897009 gad
+__label__25064002 headache
+__label__399317006 typing this slowly
+__label__87715008 cotton mouth
+__label__55929007 irritability
+__label__214264003 lethargic
+__label__404640003 first two weeks a little dizzy
+__label__25064002 headaches
+__label__8943002 weight gain
+__label__67233009 difficulty sleeping for more than 1 hour at a time
+__label__42984000 night sweats
+__label__55929007 increased irritability
+__label__404640003 dizziness
+__label__89362005 loss of weight
+__label__386807006 memory sucks
+__label__20602000 very apathetic
+__label__22253000 pain
+__label__22253000 pain
+__label__62607004 inability to reach orgasm
+__label__20602000 lack of feeling for anything
+__label__55929007 lack of patience
+__label__214264003 wanted to do nothing
+__label__42984000 night sweats
+__label__14760008 constipation
+__label__422587007 nausea
+__label__422587007 nausea for 1st month
+__label__67233009 trouble staying asleep
+__label__1376001 jump off the dead end
+__label__20602000 no cares for anything 
+__label__225457007 have suicidal thoughts
+__label__24936000 feel disconnected from my emotions
+__label__397540003 vision problems
+__label__14760008 constipation
+__label__386807006 often impaired my memory
+__label__67233009 waking up every night 
+__label__84229001 fatigue
+__label__422587007 first couple of weeks, mild nausea
+__label__26079004 tremors
+__label__87715008 dry mouth
+__label__48694002 anxious
+__label__77692006 sleeping a lot
+__label__84229001 lack of energy
+__label__8943002 seven pounds heavier
+__label__79890006 loss of appetite
+__label__193462001 insomnia
+__label__404640003 two weeks, dizziness
+__label__48694002 anxiety
+__label__84229001 completely depleted of all energy
+__label__48694002 anxious
+__label__712759008 feelings of doom
+__label__111487009 dreams are vivid, intense, long, and complex
+__label__20602000 apathy
+__label__193462001 insomnia
+__label__18193002 hypochondria
+__label__14760008 constipation
+__label__25064002 headaches early on
+__label__87715008 dry mouth
+__label__57676002 terrible joint pain
+__label__48694002 anxiety
+__label__193462001 initially, insomnia which subsided
+__label__404640003 dizzy
+__label__422587007 nausea
+__label__89458003 general stupor
+__label__193462001 insomnia
+__label__48694002 increased anxiety
+__label__79890006 no appetite
+__label__48694002 anxiety
+__label__422587007 nauseated the first week
+__label__271782001 sleepy
+__label__77692006 sleeping for a long time
+__label__14760008 constipation
+__label__79823003 panic
+__label__214264003 hardly get out of bed
+__label__6140007 less life
+__label__80313002 palpitations
+__label__79890006 loss of appetite
+__label__68962001 muscle pain
+__label__42984000 sweating at night
+__label__231532002 complete loss of sexual function
+__label__225624000 panic attack
+__label__404640003 short term dizziness
+__label__214264003 feel lazy
+__label__111487009 vivid nightmares
+__label__285303006 racing brain
+__label__3424008 a rapid heart rate
+__label__14760008 constipation
+__label__48694002 increased anxiety
+__label__193462001 insomnia
+__label__14760008 constapation
+__label__225624000 panic attacks
+__label__193462001 insomnia
+__label__15405008 delayed ejaculation
+__label__48694002 anxiety
+__label__203082005 fibro pain
+__label__404640003 dizzy
+__label__16331000 heart burn
+__label__48694002 anxiety
+__label__248004009 throwing things across the room in anger
+__label__193462001 mild insomnia for the first 3 days
+__label__79499004 felt "out of body" most of the time
+__label__404640003 dizzy
+__label__48694002 anxiety
+__label__422587007 almost constant nausea
+__label__225457007 suicidal thoughts
+__label__8943002 weight gain  
+__label__48694002 anxiety
+__label__238131007 overweight
+__label__6140007 blunting of my emotional life
+__label__386705008 sometimes lightheadedness
+__label__32914008 restless legs
+__label__48694002 anxiety
+__label__193462001 problems sleeping thru the night
+__label__225457007 suicidal thoughts
+__label__87715008 at first i had super dry mouth
+__label__48694002 slight anxiety increase
+__label__79890006 didn't want to eat first two weeks
+__label__48694002 anxiety
+__label__8943002 weight gain
+__label__271782001 sleepiness
+__label__48694002 anxiety
+__label__84229001 fatigue
+__label__397803000 erectile dysfunction
+__label__191736004 counting every single footstep
+__label__386705008 light headed
+__label__48694002 anxiety
+__label__79890006 lack of appetite
+__label__83943005  temper tantrums
+__label__25064002 sligth headaches
+__label__80313002 heart palpatations
+__label__399153001 vertigo
+__label__25064002 headaches
+__label__6140007 emotional range might be a little muted
+__label__267036007 shortness of breath
+__label__422587007 nauseous
+__label__59282003 pes 
+__label__48694002 anxious
+__label__79890006 no appetite
+__label__84229001 extreme fatigue
+__label__79823003 panic
+__label__271782001 drowsiness
+__label__79890006 continuing - total loss of appetite
+__label__48167000 lack of memory
+__label__84229001 fatigue
+__label__271782001 drowsy all of the time
+__label__225457007 increased suicidal ideation
+__label__48694002 anxious
+__label__422587007 nauseous
+__label__231532002 completely destroyed my sexual functioning
+__label__48694002 anxiety worse
+__label__193462001 insomnia
+__label__62607004 orgasm inability
+__label__25064002 headaches the first few days
+__label__42984000 wake up nightly with soaked clothes
+__label__706873003 mental anguish
+__label__48694002 anxiety
+__label__55929007 short tempered
+__label__84229001 fatigue
+__label__7011001 full blown hallucinations
+__label__80313002 heart palpitations
+__label__25064002 constant headache
+__label__40930008 hypothyroidism
+__label__422587007 nausea
+__label__271782001 somnolence
+__label__225457007 thought of suicide
+__label__48694002 ongoing increased anxiety 
+__label__271782001 initial sleepiness
+__label__79890006 loss of appetite
+__label__8943002 weight gain
+__label__8943002 weight gain
+__label__84229001 fatigue
+__label__48694002 anxiety
+__label__32914008 restless leg syndrome
+__label__87715008 dry mouth
+__label__91175000 promotes seizures
+__label__48167000 loss of memory seems to be ongoing
+__label__16001004 ear ache
+__label__193462001 sleepless
+__label__60046008 pleural effusion
+__label__37796009 migraine
+__label__79890006 got my appetite back
+__label__48694002 anxiety
+__label__89362005 lose weight
+__label__42984000 night sweats
+__label__48694002 anxiety
+__label__29857009 second week, chest pains
+__label__48694002 increased anxiety , only for first few weeks
+__label__271782001 sleepy
+__label__16331000 heartburn
+__label__48694002 anxious
+__label__48694002 anxiety
+__label__404640003 dizziness
+__label__71315007 hurts to have sex
+__label__26079004 night tremors
+__label__24936000 brain has become numb
+__label__48694002 anxiety
+__label__404640003 dizziness but only at first
+__label__193462001 pretty bad insomnia 
+__label__48694002 first couple weeks, more anxious
+__label__48694002 anxiety
+__label__193462001 insomnia
+__label__55929007 being easily angered
+__label__26079004 occasional tremors
+__label__231532002 sexual
+__label__33449004 personality disorder
+__label__193462001 insomnia
+__label__87715008 dry mouth
+__label__73595000 severe stress
+__label__25064002 headache
+__label__24936000 made me numb
+__label__20602000 totally apathetic
+__label__225457007 suicidal thoughts
+__label__16331000 heart burn, each day
+__label__225624000 panic attack
+__label__48694002 anxiety
+__label__79890006 loss of appetite
+__label__225457007 for a week, horrible suicidal thoughts
+__label__231532002 pssd
+__label__49727002 coughing
+__label__25064002 headaches for a couple of days
+__label__422587007 first 10 days, nausea
+__label__79890006 first week - no appetite
+__label__89362005 weight loss
+__label__397803000 male killing drug
+__label__82313006 tried suicide
+__label__57676002  joint pain

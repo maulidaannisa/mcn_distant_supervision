@@ -1,0 +1,24 @@
+SELECT DISTINCT ?item ?itemLabel ?sct ?cui ?icd ?wiki_url WHERE {
+  {
+    SELECT ?item ?sct WHERE {
+      ?item wdt:P5806 ?sct.
+    }
+  } UNION {
+    SELECT ?item ?cui WHERE {
+      ?item wdt:P2892 ?cui.
+    }
+  } UNION {
+    SELECT ?item ?icd WHERE {
+      ?item wdt:P494 ?icd.
+    }
+  }
+  OPTIONAL {
+    ?wiki_url schema:about ?item;
+              schema:inLanguage "en".
+    FILTER (STRSTARTS(STR(?wiki_url), "https://en.wikipedia.org/"))
+  }
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en".
+    ?item rdfs:label ?itemLabel.
+  }
+}

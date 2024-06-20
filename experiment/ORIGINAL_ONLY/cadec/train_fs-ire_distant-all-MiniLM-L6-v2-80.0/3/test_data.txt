@@ -1,0 +1,156 @@
+__label__22253000 pains 
+__label__21522001 severe stomach pain 
+__label__57676002 pain in major joints 
+__label__68962001 muscular pains 
+__label__79890006 loss of apetite 
+__label__131148009 bleeding problem 
+__label__386705008 lightheaded 
+__label__386692008 period all month long 
+__label__55300003 severe cramping 
+__label__422400008 vomiting 
+__label__49218002 pain in my hips 
+__label__422587007 severe nausea 
+__label__16386004 skin is so dry 
+__label__422587007 slight nausea 
+__label__279039007 pain in my lower back 
+__label__8943002 weight gain 
+__label__3424008 rapid heart beat 
+__label__49218002 pain in my hip 
+__label__131148009 bleeding problems 
+__label__271807003 skin rash 
+__label__418290006 itchy 
+__label__386807006 memory trouble 
+__label__60862001 tinnitus 
+__label__57676002 pain in my joints 
+__label__68962001 pain in muscles 
+__label__26544005 strength decrease dramatically 
+__label__88092000 muscle wasting 
+__label__56265001 heart issues 
+__label__367391008 ill feeling 
+__label__49218002 pain of the hip joint 
+__label__22253000 painful 
+__label__55300003 muscle spasms 
+__label__88092000 muscles have diminished 
+__label__95891005 flu-like symptoms 
+__label__13791008 weak 
+__label__55300003 mussle spasm 
+__label__57676002 pain in every joint 
+__label__386807006 memory problems 
+__label__57676002 pain in joints 
+__label__22298006 massive heart attack 
+__label__161891005 pain in my abdomen 
+__label__54981004 charley horses in the abdomen 
+__label__54981004 charley horses in sides 
+__label__32914008 restless legs syndrome (rls) 
+__label__161891005 pain in back 
+__label__279039007 pain in lower back 
+__label__84229001 needed to rest every few minutes 
+__label__57676002 painful inflammed joints 
+__label__77692006 just wanted to sleep 
+__label__22253000 painfull 
+__label__26544005 no strength 
+__label__399153001 vertigo like attacks 
+__label__26544005 mussel weakness 
+__label__399153001 vertigo like episodes 
+__label__68962001 pain muscle 
+__label__25064002 on the back of the head pain in every tendon 
+__label__49218002 pain in my left hip 
+__label__68962001 severe muscle pain 
+__label__193462001 sleeplesness 
+__label__404640003 dizzyness 
+__label__193462001 sleepless nights 
+__label__29857009 chestpain 
+__label__22253000 pressure pain 
+__label__80449002 over-streesed muscles 
+__label__38341003 high blood pressure 
+__label__81680005 pain neck 
+__label__161873000 legs always feeling like lead 
+__label__129565002 neck muscel problems 
+__label__404640003 intense dizziness 
+__label__55300003 night muscle cramps 
+__label__235856003 liver problems 
+__label__68962001 severe myalgia 
+__label__386807006 memory lapses 
+__label__54981004 charlie horse in feet 
+__label__29857009 intense chest pains 
+__label__88092000 muscles deteriorated 
+__label__26544005 severe muscle weakness 
+__label__95891005 flu-like syptoms 
+__label__68962001 muscular pain 
+__label__80449002 muscle weariness in legs 
+__label__13791008 very weak 
+__label__386807006 memory weakened 
+__label__55929007 irritibility 
+__label__56265001 heart problems 
+__label__77692006 no amount of sleep makes me feel rested 
+__label__55300003 muscles cramp 
+__label__68962001 myalgia 
+__label__26079004 tremors 
+__label__271807003 rush all over my face 
+__label__68962001 painful muscles 
+__label__80313002 palpatations 
+__label__13791008 weak all the time 
+__label__25064002 severe headache 
+__label__386807006 memory problem 
+__label__80449002 muscle tiring 
+__label__80449002 tire very quickly muscles 
+__label__68962001 severe myalgias 
+__label__129565002 myopathies 
+__label__68962001 overall muscle soreness 
+__label__26544005 significant strength reduction 
+__label__57676002 painful inflamation of joints 
+__label__279038004 pain inbetween both shoulder blades 
+__label__60862001 tinnitus (left ear) 
+__label__129565002 permanent damage to my muscles 
+__label__386033004 neurophaty 
+__label__13791008 weak & wobbley wrists 
+__label__193462001 severe insomnia 
+__label__161891005 pain in the back 
+__label__49218002 pain in my hipjoints 
+__label__55300003 mussel spasms 
+__label__55300003 mussel cramps 
+__label__68962001 severe muscle aches 
+__label__68962001 pain in almost every muscle 
+__label__88092000 muscles wasting 
+__label__22253000 pain so bad 
+__label__22298006 mild heart attack 
+__label__95891005 flu-symptoms 
+__label__81680005 pains neck 
+__label__49218002 pains hips 
+__label__69896004 rheumatoid arthtitis 
+__label__68962001 muscule aches & pains 
+__label__267044007 impaired my ability to exercise 
+__label__161873000 legs feel leaden 
+__label__37796009 worse headache than usual (i have migraine) 
+__label__418290006 itchy crawly feeling 
+__label__84229001 persistent fatigue 
+__label__57676002 minor joint soreness 
+__label__68962001 severe muscle aces 
+__label__25064002 severe headaces 
+__label__235856003 trouble with my liver 
+__label__45352006 spasms in upper thighs 
+__label__81680005 slight neck pain 
+__label__129565002 myopathy 
+__label__367391008 i didn't feel right 
+__label__95891005 flu-like symtoms 
+__label__161891005 pains in her back 
+__label__44054006 type ii diabetic 
+__label__49049000 parkinson/s 
+__label__49218002 pain in hips 
+__label__25064002 pain from the headache 
+__label__13791008 was incredibly week 
+__label__84229001 much fatigue 
+__label__84229001 sever fatigue 
+__label__26544005 strength depletion 
+__label__202882003 severe plantar faciitis 
+__label__26079004 tremors although the body 
+__label__55929007 very grouchy 
+__label__22253000 pains so bad 
+__label__271782001 hard to stay awake 
+__label__88092000 muscle wasting in the arms 
+__label__88092000 muscle wasting in the shoulders 
+__label__68962001 muscule pain 
+__label__161891005 pains back 
+__label__9991008 intestinal/stomach pain 
+__label__405729008 blood in stool 
+__label__55300003 muscle spasm 

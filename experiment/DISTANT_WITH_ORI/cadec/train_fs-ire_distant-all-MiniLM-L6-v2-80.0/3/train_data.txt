@@ -1,0 +1,2984 @@
+__label__193462001 a sleep disorder in which people have trouble sleeping
+__label__80313002 a feeling that the heart is beating too fast or too slow
+__label__80313002 Palpitations are perceived abnormalities of the heartbeat characterized by awareness of cardiac muscle contractions in the chest, which is further characterized by the hard, fast and/or irregular beatings of the heart.
+__label__80313002 the hard, fast and/or irregular beatings of the heart
+__label__69896004 Rheumatoid arthritis (RA)
+__label__69896004 RA
+__label__56265001 CVD
+__label__21522001 Abdominal pain, also known as a stomach ache
+__label__21522001 a pain in the stomach
+__label__21522001 Abdominal pain, also known as stomach pain
+__label__129565002 a disease of the muscle in which the muscle fibers do not function properly
+__label__129565002 the muscle
+__label__29857009 Chest pain is pain or discomfort in the chest, typically the front of the chest
+__label__29857009 a pain in the chest
+__label__29857009 Chest
+__label__405729008 stools
+__label__405729008 fresh blood
+__label__3424008 Tachycardia (also known as tachyarrhythmia)
+__label__3424008 your heart rate
+__label__77692006 a neurological disorder of excessive time spent sleeping or excessive sleepiness
+__label__26079004 A tremor
+__label__55300003 A cramp
+__label__68962001 the medical term for muscle pain
+__label__68962001 muscle pain and muscle ache
+__label__26544005 a lack of muscle strength
+__label__32914008 Restless legs syndrome (RLS) or Willis-Ekbom disease (WED)
+__label__32914008 WED
+__label__32914008 RLS
+__label__32914008 Restless legs syndrome (RLS), now known as Willis-Ekbom Disease (WED),
+__label__235856003 Liver disease (also called hepatic disease)
+__label__235856003 a disease where the liver does not work properly
+__label__235856003 disease
+__label__235856003 Liver
+__label__235856003 a type of damage to or disease of the liver
+__label__386033004 Peripheral neuropathy, often shortened to neuropathy,
+__label__386033004 Peripheral neuropathy,
+__label__45352006 A spasm
+__label__81680005  neck pain, also known as cervicalgia,
+__label__81680005 Neck pain, also known as cervicalgia
+__label__81680005 Neck
+__label__367391008 a feeling of general discomfort, uneasiness, or pain
+__label__271782001 a state of strong desire for sleep
+__label__54981004 A charley horse
+__label__44054006 Type 2 diabetes (also called adult-onset diabetes or T2D)
+__label__44054006 diabetes
+__label__44054006 T2D
+__label__44054006 Type 2 diabetes (T2D), formerly known as adult-onset diabetes,
+__label__44054006 a type of diabetes
+__label__271807003 A rash
+__label__57676002 Arthralgia (from Greek arthro-, joint + -algos, pain)
+__label__8943002 that body weight increases
+__label__8943002 an increase in body weight
+__label__161891005 pain in the back area
+__label__271807003 An exanthem
+__label__271807003 a widespread rash occurring on the outside of the body and usually occurring in children
+__label__271807003 a very common rash
+__label__80449002 muscles
+__label__80449002 Muscle
+__label__267044007 Exercise
+__label__49218002 pain in the hip or disease-related pain of the hip
+__label__49218002 pain in the hip
+__label__49218002 hip pain
+__label__22298006 A myocardial infarction (MI), commonly known as a heart attack,
+__label__22298006 MI
+__label__22298006 A heart attack or myocardial infarction (MI)
+__label__22298006 the heart
+__label__84229001 a feeling of tiredness
+__label__49049000 PD
+__label__49049000 Parkinson's disease or simply Parkinson's disease
+__label__49049000 Parkinson's disease (PD), or simply Parkinson's,
+__label__25064002 A headache
+__label__271782001 REM
+__label__202882003 a disease of the plantar fascia
+__label__202882003 The plantar fascia
+__label__279038004 pain in the middle of the back
+__label__279038004 Middle back pain, also known as thoracic back pain
+__label__193462001 acute
+__label__193462001 Sleep aids
+__label__193462001 unable to sleep
+__label__193462001 severe insomnia
+__label__193462001 sleeping poorly
+__label__193462001 not sleeping well
+__label__193462001 insomnia
+__label__193462001 Insomniacs
+__label__193462001 sleeplessness
+__label__193462001 insomina
+__label__193462001 sleeping difficulties
+__label__193462001 no longer sleeps
+__label__193462001 Paul Kern
+__label__193462001 sleep problems
+__label__193462001 Insomina
+__label__193462001 Insomia
+__label__193462001 Sleep normally
+__label__193462001 Difficulty sleeping
+__label__193462001 troubles with sleep
+__label__193462001 Sleeping aid
+__label__193462001 sleep aid
+__label__193462001 Insomania
+__label__193462001 Terminal insomnia
+__label__193462001 Causes of insomnia
+__label__193462001 Primary insomnia
+__label__193462001 sleep disorders
+__label__193462001 trouble sleeping
+__label__193462001 Sleeplessness
+__label__193462001 having difficulty sleeping
+__label__193462001 Trouble sleeping
+__label__193462001 for insomnia
+__label__193462001 insomnia symptoms
+__label__193462001 Insomnias
+__label__193462001 Sleep Aids
+__label__193462001 not able to sleep well
+__label__193462001 sleep medicines
+__label__193462001 Total insomnia
+__label__193462001 sleeping aids
+__label__193462001 Paul Kern (insomniac)
+__label__193462001 Chronic insomnia
+__label__193462001 inability to sleep
+__label__193462001 Mild Insomnia
+__label__193462001 Primary Insomnia
+__label__193462001 Sleep aid
+__label__193462001 Inability to sleep
+__label__193462001 sleep
+__label__193462001 while struggling to sleep
+__label__193462001 Insomnia disorders
+__label__193462001 Insomnia
+__label__193462001 Sleep drug
+__label__193462001 moderate to severe insomnia
+__label__193462001 primary insomnia
+__label__193462001 Trouble Sleeping
+__label__193462001 sleep medications
+__label__193462001 without proper rest
+__label__193462001 sleep aids
+__label__193462001 insomniac
+__label__193462001 no sleep
+__label__193462001 difficulty with sleep
+__label__193462001 sleep disruption
+__label__193462001 Insomnia II
+__label__193462001 disrupted sleep
+__label__193462001 sleep drug
+__label__193462001 chronic insomnia
+__label__193462001 difficulty sleeping
+__label__193462001 not enough
+__label__193462001 insomniac tendencies
+__label__193462001 insomniacs
+__label__193462001 Insomniac (health)
+__label__193462001 severe or debilitating insomnia
+__label__193462001 sleeping problems
+__label__193462001 lack of sleep
+__label__80313002 fast heart rate
+__label__80313002 Heart palpitations
+__label__80313002 palpitation
+__label__80313002 Ectopic heart beats
+__label__80313002 Palpitations
+__label__80313002 Palpitating
+__label__80313002 the sensation of the heart beating too fast, irregularly, or skipping beats (palpitations)
+__label__80313002 beating too fast or hard
+__label__80313002 Heart palpitation
+__label__80313002 Sympathetic overdrive
+__label__80313002 heart palpitations
+__label__80313002 palpitations of the heart
+__label__80313002 Pounding heart
+__label__80313002 Palpitant
+__label__80313002 Palpitation
+__label__80313002 palpitated
+__label__80313002 Palpitate
+__label__80313002 palpitations
+__label__80313002 heart palpitation
+__label__80313002 irregular heart rate
+__label__80313002 a feeling of the heart beating too fast, too hard, or skipping beats
+__label__80313002 Palpitates
+__label__80313002 a sensation of the heart beating too hard, fast, or irregularly
+__label__80313002 Palpitated
+__label__404640003 feeling faint
+__label__404640003 Merlasma
+__label__404640003 disequilibration
+__label__404640003 💫
+__label__404640003 dizzy
+__label__404640003 Dizziness and Vertigo
+__label__404640003 Feeling faint
+__label__404640003 Dizzy
+__label__404640003 giddiness
+__label__404640003 Giddiness
+__label__404640003 vertigo
+__label__404640003 disequilibrium
+__label__404640003 giddy
+__label__404640003 dizziness
+__label__404640003 Dizzyness
+__label__404640003 feeling dizzy
+__label__404640003 🥴
+__label__404640003 Disequilibrium syndrome
+__label__404640003 Disequilibrium (medicine)
+__label__404640003 dizzy spells
+__label__404640003 dizzy and nauseated
+__label__404640003 Dizzy (medicine)
+__label__404640003 😵
+__label__404640003 Dizziness
+__label__404640003 dizzines
+__label__399153001 Antivertigo agent
+__label__399153001 sensation of the world spinning
+__label__399153001 Anti-vertigo agents
+__label__399153001 Anti-vertigo medications
+__label__399153001 Unsteadiness
+__label__399153001 vertigo-like
+__label__399153001 anti-vertigo medication
+__label__399153001 vertigo
+__label__399153001 Antivertigo agents
+__label__399153001 Anti-vertigo drugs
+__label__399153001 HINTS test
+__label__399153001 Dizzy – with the room spinning around me
+__label__399153001 Antivertigo medication
+__label__399153001 Anti-vertigo drug
+__label__399153001 Antivertigo
+__label__399153001 Vertiginous syndromes
+__label__399153001 spinning sensation
+__label__399153001 Vertigo
+__label__399153001 Anti-vertigo agent
+__label__399153001 Problems with balance and spatial orientation
+__label__399153001 world spinning
+__label__399153001 loss of equilibrium
+__label__399153001 Peripheral vertigo
+__label__399153001 vertiginous
+__label__399153001 Anti-vertigo
+__label__399153001 Virtigo
+__label__399153001 Antivertigo drug
+__label__399153001 anxiety
+__label__399153001 Vertigo (medical)
+__label__399153001 Hints exam
+__label__399153001 peripheral vertigo
+__label__399153001 Hints test
+__label__399153001 vertigo (medical)
+__label__399153001 Anti-vertigo medication
+__label__399153001 Three Vertigos
+__label__399153001 dizziness
+__label__399153001 Vertiginous
+__label__399153001 Spinning death
+__label__399153001 Antivertigo drugs
+__label__399153001 light-headedness
+__label__399153001 the sensation of the world spinning around them
+__label__399153001 Antivertigo medications
+__label__399153001 a sense of the world spinning
+__label__399153001 Feeling like the world is spinning
+__label__399153001 feeling like the world is spinning
+__label__69896004 rheumatic arthritis
+__label__69896004 rheumatoid arthritis (RA)
+__label__69896004 Arthritis, rheumatoid
+__label__69896004 rheumatism
+__label__69896004 Rhuematic arthritis
+__label__69896004 Rheumatoid arteritis
+__label__69896004 Rheumatoid Arthritis
+__label__69896004 rheumatiod arthritis
+__label__69896004 arthritis, rheumatoid
+__label__69896004 rheumatoid arthritic
+__label__69896004 rheumatoid arthritis disease
+__label__69896004 rheumatoid
+__label__69896004 Rheumatoid Arthiritis
+__label__69896004 Inflammatory Arthritis
+__label__69896004 Rheumatic gout
+__label__69896004 rheumatoid arthritis
+__label__69896004 Rheumatic arthritis
+__label__69896004 DAS28
+__label__69896004 Rheumatiod arthritis
+__label__69896004 RA
+__label__69896004 Rhematoid Arthiritis
+__label__69896004 rheumatoid cachexia
+__label__69896004 Rheumatoid foot
+__label__69896004 polyarthritis
+__label__69896004 arthritic
+__label__69896004 Rheumatoid arthritis
+__label__422587007 vomiting
+__label__422587007 🤢
+__label__422587007 postoperative nausea and vomiting
+__label__422587007 nausea
+__label__422587007 Nauseating
+__label__422587007 nauseous
+__label__422587007 motion sickness
+__label__422587007 Qualmishness
+__label__422587007 feeling of sickness
+__label__422587007 nauseous remedies
+__label__422587007 like I have to vomit
+__label__422587007 sick
+__label__422587007 nauseating
+__label__422587007 nauseated
+__label__422587007 seasickness
+__label__422587007 Nausea
+__label__422587007 Gastrointestinal distress
+__label__422587007 Nauseous
+__label__422587007 naseua
+__label__422587007 Nauseated
+__label__37796009 common migraine
+__label__37796009 Migraineur
+__label__37796009 migraine attacks
+__label__37796009 Migraines
+__label__37796009 Migraine treatment drug
+__label__37796009 Anti-migraine
+__label__37796009 Migraine disorders
+__label__37796009 migraines
+__label__37796009 aura phase
+__label__37796009 antimigraine drugs
+__label__37796009 migraine disorder
+__label__37796009 antimigraine
+__label__37796009 a sick headache
+__label__37796009 migraine clinics
+__label__37796009 Amigrainous migraine
+__label__37796009 chronic migraines
+__label__37796009 Migraine
+__label__37796009 anti-migraine
+__label__37796009 Reciprocus capitis dolor
+__label__37796009 Basilar artery migraine 
+__label__37796009 Migraine headaches
+__label__37796009 Migrane
+__label__37796009 Migraine headache
+__label__37796009 Mígreni
+__label__37796009 Bickerstaff's migraine
+__label__37796009 Chronic migraine
+__label__37796009 migraine headaches
+__label__37796009 Status migrainosus
+__label__37796009 status migrainosus
+__label__37796009 chronic migraine
+__label__37796009 migraine drugs
+__label__37796009 megrims
+__label__37796009 Migren
+__label__37796009 Migreni
+__label__37796009 migraine article
+__label__37796009 Facial migraine
+__label__37796009 Migraine journal
+__label__37796009 basilar migraine
+__label__37796009 Migraine medication
+__label__37796009 migrainous
+__label__37796009 Basilar artery migraines
+__label__37796009 migraine pathogenesis
+__label__37796009 migraine triggers
+__label__37796009 Classical migraine
+__label__37796009 Acute migraine
+__label__37796009 migranes
+__label__37796009 migraine disorders
+__label__37796009 Mígren
+__label__37796009 Status migraine
+__label__37796009 migraine headache
+__label__37796009 Basilar migraine
+__label__37796009 classical migraine
+__label__37796009 migraine
+__label__37796009 main migraine article
+__label__37796009 Stress migraine
+__label__37796009 Megrims
+__label__37796009 Basilar type migraine
+__label__37796009 Common migraine
+__label__37796009 migraines,
+__label__37796009 depolarization theory
+__label__37796009 psychological migraines
+__label__37796009 Migraine heads
+__label__22253000 acute
+__label__22253000 musculoskeletal pain
+__label__22253000 gate theory of pain
+__label__22253000 painless
+__label__22253000 "hurt"
+__label__22253000 Body-self neuro-matrix
+__label__22253000 Acute pain
+__label__22253000 burning
+__label__22253000 acute surgical pain
+__label__22253000 soreness
+__label__22253000 three dimensions of pain
+__label__22253000 postoperative pain
+__label__22253000 IASP five-category pain profile
+__label__22253000 Physiological pain
+__label__22253000 Rhizopathy
+__label__22253000 pain sensations
+__label__22253000 Physiology of pain
+__label__22253000 physically painful
+__label__22253000 Gate control
+__label__22253000 Pain sense
+__label__22253000 duration
+__label__22253000 nociceptive
+__label__22253000 Gate control hypothesis
+__label__22253000 Incident pain
+__label__22253000 neuropathic pain
+__label__22253000 forms of pain
+__label__22253000 Pain physiology
+__label__22253000 Pain and nociception
+__label__22253000 Pain Management
+__label__22253000 agonizing
+__label__22253000 pain signals
+__label__22253000 Chronic benign pain
+__label__22253000 gate control theory
+__label__22253000 Pain (physical)
+__label__22253000 neurogenic pain
+__label__22253000 Pain signal
+__label__22253000 Discomfort
+__label__22253000 Excruciation
+__label__22253000 Rhitzopathy
+__label__22253000 Non-organic pain
+__label__22253000 neuropathic
+__label__22253000 discomfort
+__label__22253000 gate control theory of pain
+__label__22253000 comfort
+__label__22253000 Breakthrough pain
+__label__22253000 pain crises
+__label__22253000 pain state
+__label__22253000 Multidimensional pain inventory
+__label__22253000 Chornic postoperative pain
+__label__22253000 Postoperative pain
+__label__22253000 pain
+__label__22253000 dolor
+__label__22253000 Painfulness
+__label__22253000 Pain (biological)
+__label__22253000 Aches
+__label__22253000 Pain signals
+__label__22253000 Multidimensional Pain Inventory
+__label__22253000 physical pain
+__label__22253000 Painful
+__label__22253000 Painless
+__label__22253000 nociceptive pain
+__label__22253000 forms of pain signals
+__label__22253000 acute pain
+__label__22253000 tender
+__label__22253000 pains
+__label__22253000 Pain (biology)
+__label__22253000 Pain theory
+__label__22253000 spine pain
+__label__22253000 uncomfortable
+__label__22253000 Pain medicine
+__label__22253000 Algesis
+__label__22253000 physical pain centers
+__label__22253000 Soreness
+__label__22253000 persistent postoperative pain
+__label__22253000 hurt
+__label__22253000 assessing
+__label__22253000 Types of pain
+__label__22253000 pain processing areas
+__label__22253000 Pain
+__label__22253000 insensitivity to pain
+__label__22253000 Dolor
+__label__22253000 Dimensions of pain
+__label__22253000 agony
+__label__22253000 Ache (sensation)
+__label__22253000 Nociceptive pain
+__label__22253000 Pediatric Pain
+__label__22253000 Nociplastic
+__label__22253000 painful
+__label__22253000 ache
+__label__22253000 intensity
+__label__22253000 incident pain
+__label__22253000 Pain sensation
+__label__22253000 Physical pain
+__label__22253000 Gate theory of pain
+__label__22253000 Gate control theory of pain
+__label__22253000 breakthrough pain
+__label__22253000 Persistent postoperative pain
+__label__22253000 visceral pain
+__label__22253000 aches
+__label__22253000 nociception
+__label__22253000 pain sensation
+__label__22253000 pain signal
+__label__60862001 ear-ringing
+__label__60862001 Tinnitis
+__label__60862001 symptoms
+__label__60862001 ringing in the ears
+__label__60862001 Pulsatile tinnitus
+__label__60862001 Treating tinnitus
+__label__60862001 ringing in the ears (tinnitus)
+__label__60862001 pulsatile tinnitus
+__label__60862001 Tinnitius
+__label__60862001 ringing or hissing in my ears
+__label__60862001 ringing sensations
+__label__60862001 Tinitus
+__label__60862001 ringing in his ears
+__label__60862001 ear ringing
+__label__60862001 Causes of tinnitus
+__label__60862001 Tinnitus
+__label__60862001 Cognitive behavioural treatment of tinnitus
+__label__60862001 Somatic Tinnitus
+__label__60862001 Tinitis
+__label__60862001 ringing
+__label__60862001 Ear ringing
+__label__60862001 hearing loss
+__label__60862001 Ringing (medicine)
+__label__60862001 high-pitched whine
+__label__60862001 ringing in ears
+__label__60862001 Ringing in the ears
+__label__60862001 ringing in the ears with the heartbeat
+__label__60862001 ringing or buzzing in the ears
+__label__60862001 tinnitus
+__label__60862001 tinnitis
+__label__60862001 tinnitus aurium
+__label__21522001 abdominal discomfort
+__label__21522001 Gastric distress
+__label__21522001 Stomach discomfort
+__label__21522001 Stomach ache
+__label__21522001 flank pain
+__label__21522001 abdominal pain
+__label__21522001 stomach cramps
+__label__21522001 epigastric pain
+__label__21522001 Tummy ache
+__label__21522001 Sore stomach
+__label__21522001 abdominal pains
+__label__21522001 Stomachaches
+__label__21522001 stomach ache
+__label__21522001 Abdominal Pain
+__label__21522001 abdominal
+__label__21522001 Stomach aches
+__label__21522001 Belly-ache
+__label__21522001 epigastric
+__label__21522001 Gastralgia
+__label__21522001 Epigastric pain
+__label__21522001 pain
+__label__21522001 Stomach pains
+__label__21522001 Abdominal discomfort
+__label__21522001 stomach aches
+__label__21522001 Abdominal cramps
+__label__21522001 abdominal cramps and pain
+__label__21522001 Upset stomach
+__label__21522001 stomach aches/cramps
+__label__21522001 abdominal/gastrointestinal pain
+__label__21522001 cramps
+__label__21522001 abdominal pain or tenderness
+__label__21522001 stomach pain
+__label__21522001 Gastrointestinal cramps
+__label__21522001 Ab pain
+__label__21522001 Abdominal and pelvic pain
+__label__21522001 abdomen
+__label__21522001 bilious colic
+__label__21522001 lower abdominal pain
+__label__21522001 abdominal cramping
+__label__21522001 Flank pain
+__label__21522001 stomach pains
+__label__21522001 stomach discomfort
+__label__21522001 Tummyache
+__label__21522001 Ab Pain
+__label__21522001 pelvic pain
+__label__21522001 gastrointestinal upset
+__label__21522001 stomach upset
+__label__21522001 Stomach pain
+__label__21522001 Abdominal pain
+__label__21522001 quadrant of the abdomen
+__label__21522001 Belly ache
+__label__21522001 gastric distress
+__label__21522001 Stomachache
+__label__21522001 abdominal cramps
+__label__21522001 stomachache
+__label__21522001 Belly pain
+__label__21522001 gastric pain
+__label__21522001 upset stomach
+__label__21522001 Lower abdominal pain
+__label__21522001 Sore tummy
+__label__21522001 Pain in the upper abdomen
+__label__21522001 subacute abdominal pain
+__label__21522001 severe abdominal pain
+__label__21522001 Gastric pain
+__label__21522001 abdominal strain
+__label__21522001 Abdominal pain upper
+__label__129565002 muscular diseases
+__label__129565002 muscle weakness
+__label__129565002 muscular disease
+__label__129565002 unhealthy muscle
+__label__129565002 muscle damage
+__label__129565002 muscle disorders
+__label__129565002 myopathies, structural, congenital
+__label__129565002 capture myopathy
+__label__129565002 Muscle death
+__label__129565002 progressive myopathy
+__label__129565002 muscle fibre degeneration
+__label__129565002 systemic muscle diseases
+__label__129565002 Myopathy
+__label__129565002 Muscular disease
+__label__129565002 Myopathies
+__label__129565002 myofibrillar myopathy
+__label__129565002 remarkable damage
+__label__129565002 myopathy
+__label__129565002 Myofibrillar myopathy
+__label__129565002 exertional myopathy
+__label__129565002 Muscle disease
+__label__129565002 Myopathies, structural, congenital
+__label__129565002 Muscle weakness
+__label__129565002 Muscle damage
+__label__129565002 Myopathic
+__label__129565002 myopathic
+__label__129565002 Capture myopathy
+__label__129565002 myopathies
+__label__129565002 Myopathy, mitochondrial progressive, with congenital cataract, hearing loss and developmental delay (MPMCHD)
+__label__129565002 Myopathy, isolated mitochondrial, autosomal dominant (IMMD)
+__label__129565002 Hereditary myopathy
+__label__129565002 muscle
+__label__29857009 chest discomfort
+__label__29857009 Chest Pain Center
+__label__29857009 Chest pressure
+__label__29857009 pains in the chest
+__label__29857009 chest-pain
+__label__29857009 Chest pains
+__label__29857009 Chest discomfort
+__label__29857009 Non-cardiac chest pain
+__label__29857009 chest pain
+__label__29857009 chest pressure
+__label__29857009 Chest Pain
+__label__29857009 Chest Pains
+__label__29857009 chest tightness
+__label__29857009 Chest cramp
+__label__29857009 Chest pain
+__label__29857009 chest pains
+__label__29857009 Chest tightness
+__label__29857009 Chest cramps
+__label__29857009 chest
+__label__422400008 Dry vomit
+__label__422400008 Vomitus
+__label__422400008 Emetology
+__label__422400008 Excessive vomiting
+__label__422400008 Toss cookies
+__label__422400008 Nauseant
+__label__422400008 emetic stimuli
+__label__422400008 🤮
+__label__422400008 Drive the porcelain bus
+__label__422400008 Cheektowaga scream
+__label__422400008 Vomiting
+__label__422400008 vomited
+__label__422400008 upchucking
+__label__422400008 Technicolor Yawn
+__label__422400008 emesis
+__label__422400008 Dry vomiting
+__label__422400008 Eject
+__label__422400008 Puke
+__label__422400008 Emetia
+__label__422400008 throw them up
+__label__422400008 Antiperistalis
+__label__422400008 Negative chug
+__label__422400008 Barking groceries
+__label__422400008 be sick
+__label__422400008 physically sick
+__label__422400008 vomiting
+__label__422400008 purging
+__label__422400008 Dry puking
+__label__422400008 induce vomiting
+__label__422400008 antiemetic
+__label__422400008 Vommit
+__label__422400008 Emetologist
+__label__422400008 regurgitate
+__label__422400008 aspiration
+__label__422400008 Shouting groceries
+__label__422400008 Projectile vomiting
+__label__422400008 Vomitting
+__label__422400008 emetogenic
+__label__422400008 Stercocaceous
+__label__422400008 emetic drugs
+__label__422400008 Involuntary personal protein spill
+__label__422400008 Induce antiperistalsis
+__label__422400008 Worship the porcelain god
+__label__422400008 Tactical chunder
+__label__422400008 projectile vomiting
+__label__422400008 emetics
+__label__422400008 Throwing Up
+__label__422400008 Blowing Chunks
+__label__422400008 Ralphing
+__label__422400008 Boak (slang)
+__label__422400008 Puker
+__label__422400008 regurgitated
+__label__422400008 Organic output
+__label__422400008 regurgitation
+__label__422400008 Throwing up
+__label__422400008 vomitting
+__label__422400008 throwing up
+__label__422400008 Hoark
+__label__422400008 Dry puke
+__label__422400008 forceful vomiting
+__label__422400008 chunder
+__label__422400008 Puked
+__label__422400008 Psychadelic spit
+__label__422400008 Vomited
+__label__422400008 Technicolor Yodel
+__label__422400008 stimulate vomiting
+__label__422400008 Yakk
+__label__422400008 hurl
+__label__422400008 Human vomit
+__label__422400008 Emetics
+__label__422400008 Dry heaving
+__label__422400008 vomits
+__label__422400008 Projective vomiting
+__label__422400008 Throw Up
+__label__422400008 cat's barf
+__label__422400008 Projectile vomit
+__label__422400008 emetic
+__label__422400008 Hoarf
+__label__422400008 thrown back up
+__label__422400008 Heaving
+__label__422400008 Vomit
+__label__422400008 Screaming out groceries
+__label__422400008 Repulsion (biology)
+__label__422400008 emetic inputs
+__label__422400008 gastric distress
+__label__422400008 Boke (slang)
+__label__422400008 Technicolor yawn
+__label__422400008 Screaming groceries
+__label__422400008 Chunder
+__label__422400008 Violent vomiting
+__label__422400008 Emetogenic
+__label__422400008 as its name implies
+__label__422400008 Shouting out groceries
+__label__422400008 Threw up
+__label__422400008 pavement pizza
+__label__422400008 Barfing
+__label__422400008 Pavement Pizza
+__label__422400008 regurgitates
+__label__422400008 Vomits
+__label__422400008 emetic purging
+__label__422400008 vomitive
+__label__422400008 vomit
+__label__422400008 Driving the porcelain bus
+__label__422400008 nauseant
+__label__422400008 Throw up
+__label__422400008 vomitus
+__label__422400008 Blow chunks
+__label__422400008 Upchucking
+__label__422400008 Emetic
+__label__422400008 puke
+__label__422400008 throw up
+__label__422400008 Emesis
+__label__422400008 nauseating
+__label__422400008 Repulsive force (biology)
+__label__422400008 Puking
+__label__422400008 heaving
+__label__422400008 Anacathartic
+__label__422400008 Abdominal voorheaves
+__label__422400008 Vomitive
+__label__405729008 Hematoschezia
+__label__405729008 bloody stool
+__label__405729008 admixture of blood in the stool
+__label__405729008 BRBPR
+__label__405729008 bloody stools
+__label__405729008 fresh red blood rectally
+__label__405729008 blood is present in the stool
+__label__405729008 rectal bleeding
+__label__405729008 fresh blood in stool
+__label__405729008 frank blood in the stools
+__label__405729008 defecating blood
+__label__405729008 Bright red blood per rectum
+__label__405729008 fresh blood in the stool
+__label__405729008 bloody bowel movements
+__label__405729008 hematochezia
+__label__405729008 Hematozecia
+__label__405729008 fresh red blood
+__label__405729008 haematochezia
+__label__405729008 Hematochezia
+__label__405729008 Haematochezia
+__label__405729008 blood in the stool
+__label__418290006 generalized itching
+__label__418290006 Itching
+__label__418290006 itching.
+__label__418290006 Itch cycle
+__label__418290006 skin itch
+__label__418290006 Stop scratching
+__label__418290006 Generalised pruritus of unknown aetiology
+__label__418290006 Pruritic
+__label__418290006 itchy skin
+__label__418290006 itching
+__label__418290006 pruriginous
+__label__418290006 Pruritus
+__label__418290006 nonpruritic
+__label__418290006 itch
+__label__418290006 pruritus
+__label__418290006 Chronic pruritus of unknown origin
+__label__418290006 pruritic rash
+__label__418290006 Puritis
+__label__418290006 puritis
+__label__418290006 Itch
+__label__418290006 Itchy skin
+__label__418290006 'itchiness'
+__label__418290006 Itchy
+__label__418290006 pruritis
+__label__418290006 Itches
+__label__418290006 itchiness
+__label__418290006 pruritic
+__label__418290006 not itchy
+__label__418290006 essential pruritus
+__label__418290006 Itchiness
+__label__418290006 Anogenital pruritus
+__label__418290006 Methylamphetamine-induced pruritus
+__label__418290006 Skin itch
+__label__418290006 Pruritis
+__label__418290006 itchy
+__label__418290006 Yeuk
+__label__3424008 Exercise-induced ventricular tachycardia
+__label__3424008 rapid pulse
+__label__3424008 fast heart rate
+__label__3424008 abnormally fast heart rates
+__label__3424008 Elevated heart rate
+__label__3424008 reflex tachycardia
+__label__3424008 the heart to accelerate
+__label__3424008 tachycardia
+__label__3424008 abnormally fast heartbeat
+__label__3424008 Tachydysrhythmias
+__label__3424008 Fast heart rate
+__label__3424008 rapid heartbeat
+__label__3424008 accelerated heartbeat
+__label__3424008 Exercise-induced VT
+__label__3424008 accelerated heart rate
+__label__3424008 Rapid heart rate
+__label__3424008 Rapid heart beat
+__label__3424008 increased
+__label__3424008 Y complex tachycardia
+__label__3424008 Tachycardia
+__label__3424008 tachydysrhythmias
+__label__3424008 fast
+__label__3424008 Tachycardic
+__label__3424008 Rapid heartbeat
+__label__3424008 Takicardia
+__label__3424008 Increased heart rate
+__label__3424008 fast heart beats
+__label__3424008 a fast heart rate
+__label__3424008 Increase in heart rate
+__label__3424008 abnormally fast heart rhythm
+__label__3424008 Fast heartbeat
+__label__3424008 heart rate may be rapid
+__label__3424008 Rapid Heartbeat
+__label__3424008 Cardiac arrhythmia/tachycardia
+__label__3424008 reflexive increase in the heart rate
+__label__3424008 rapid heart beating
+__label__3424008 High heartrate
+__label__3424008 racing heartbeats
+__label__3424008 Wide complex tachycardia
+__label__3424008 fast heartbeat
+__label__3424008 increased heart rate
+__label__3424008 Tachacardia
+__label__3424008 increase in heart rate
+__label__3424008 Reflex tachycardia
+__label__3424008 Abnormally fast heartbeat
+__label__3424008 accelerated
+__label__3424008 racing heart
+__label__3424008 High pulse rate
+__label__3424008 beat faster than normal
+__label__3424008 abnormally fast heart rate
+__label__3424008 very fast heart rate
+__label__3424008 fast heart rhythm
+__label__3424008 an increased heart rate
+__label__3424008 wide complex tachycardia
+__label__3424008 rapid heart beat
+__label__3424008 rapid
+__label__3424008 elevated heart rate
+__label__3424008 Tachyarrhythmias
+__label__3424008 rapid heart rate
+__label__3424008 Tachyarrhythmia
+__label__3424008 High heart rate
+__label__3424008 high heart rate
+__label__3424008 heart races
+__label__3424008 tachycardia (rapid heart rate)
+__label__3424008 Chaotic atrial tachycardia
+__label__3424008 fast heart beating
+__label__3424008 A fast
+__label__3424008 heart beats faster
+__label__3424008 a rapid heart rate
+__label__3424008 tachyarrhythmia
+__label__3424008 too fast
+__label__3424008 heart rate
+__label__3424008 Elevated pulse
+__label__3424008 tachycardic
+__label__3424008 greater than 100 beats per minute
+__label__3424008 Fast pulse
+__label__3424008 Tahicardia
+__label__77692006 sleeping too much
+__label__77692006 Secondary hypersomnia
+__label__77692006 Excessive sleeping
+__label__77692006 excessive sleepiness
+__label__77692006 Primary Hypersomnia
+__label__77692006 oversleeping
+__label__77692006 Hypersomnolence
+__label__77692006 Hypersomnea
+__label__77692006 hypersomnias
+__label__77692006 Oversleeping
+__label__77692006 hypersomnia differential diagnosis
+__label__77692006 sleepiness
+__label__77692006 hypersomnolence
+__label__77692006 Hypersomnias
+__label__77692006 Hypersomnia
+__label__77692006 Secondary Hypersomnia
+__label__77692006 hypersomnia
+__label__77692006 excessive sleeping
+__label__26079004 Psychogenic tremor
+__label__26079004 head tremor
+__label__26079004 Pill-rolling tremor
+__label__26079004 nerve tremor
+__label__26079004 muscle tremors
+__label__26079004 Primary orthostatic tremor
+__label__26079004 Hysterical tremor
+__label__26079004 psychogenic tremor
+__label__26079004 Physiological tremor
+__label__26079004 Muscle tremor
+__label__26079004 Titubation
+__label__26079004 titubation
+__label__26079004 Orthostatic tremor
+__label__26079004 Postural tremor
+__label__26079004 shaking and tremors
+__label__26079004 Shaking
+__label__26079004 inability to maintain steady motion
+__label__26079004 Shakiness
+__label__26079004 Postural Tremor
+__label__26079004 shakiness
+__label__26079004 Pill-rolling
+__label__26079004 tremor
+__label__26079004 Tremors
+__label__26079004 Parkinsonian tremor
+__label__26079004 shaking
+__label__26079004 Tremor
+__label__26079004 orthostatic tremor
+__label__26079004 Tremulousness
+__label__26079004 dystonic tremor
+__label__26079004 Resting tremor
+__label__26079004 Muscle quivering
+__label__26079004 resting tremor
+__label__26079004 tremors
+__label__26079004 Dystonic tremor
+__label__26079004 tremulous
+__label__26079004 muscle tremor
+__label__26079004 trembling
+__label__26079004 tremors,
+__label__26079004 Involuntary motion
+__label__26079004 tremble uncontrollably
+__label__26079004 tremulousness
+__label__26079004 palatal tremor
+__label__26079004 Trembling
+__label__26079004 Muscle temor
+__label__26079004 jitters
+__label__26079004 physiological tremor
+__label__55300003 Stomach cramp
+__label__55300003 muscle cramps
+__label__55300003 muscle cramp
+__label__55300003 Legs cramps
+__label__55300003 leg cramps
+__label__55300003 nighttime leg cramps
+__label__55300003 Muscle cramps
+__label__55300003 abdominal cramp
+__label__55300003 Muscular cramp
+__label__55300003 cramp
+__label__55300003 Leg cramps
+__label__55300003 Cramp
+__label__55300003 cramping
+__label__55300003 cramps
+__label__55300003 stomach cramps
+__label__55300003 Nocturnal leg cramps
+__label__55300003 Leg cramp
+__label__55300003 body pain
+__label__55300003 Muscle catching
+__label__55300003 Muscle catch
+__label__55300003 Cramping
+__label__55300003 leg cramps at night
+__label__55300003 Abdominal cramp
+__label__55300003 leg cramp
+__label__55300003 Calf cramps
+__label__55300003 Cramps
+__label__55300003 Muscle cramp
+__label__279039007  lumbago
+__label__279039007 Lumbalgia
+__label__279039007 low back pain
+__label__279039007 lower back
+__label__279039007 Lumbago
+__label__279039007 shazambago
+__label__279039007 Low back pain
+__label__279039007 Low-back pain
+__label__279039007 Lower backache
+__label__279039007 acute back pain
+__label__279039007 lower-back pain
+__label__279039007 lower back pain
+__label__279039007 Lumbar back pain
+__label__279039007 back
+__label__279039007 Lower back pain
+__label__279039007 Lombago
+__label__279039007 Lower Back Pain
+__label__279039007 lumbago
+__label__279039007 chronic low back pain
+__label__279039007 lower back and leg pain
+__label__279039007 Lower-back pain
+__label__279039007 CNSLBP
+__label__79890006 loss of appetite
+__label__79890006 lose their appetite
+__label__79890006 lack of appetite
+__label__79890006 reduction of appetite
+__label__79890006 anorexia (loss of appetite)
+__label__79890006 appetite
+__label__79890006 anorexic
+__label__79890006 appetite loss
+__label__79890006 Lack of appetite
+__label__79890006 Diminished food intake
+__label__79890006 loss of
+__label__79890006 Poor appetite
+__label__79890006 Postprandial anorexia
+__label__79890006 Anorexia (symptom)
+__label__79890006 infection-induced anorexia
+__label__79890006 Appetite loss
+__label__79890006 Inappetance
+__label__79890006 Decreased appetite
+__label__79890006 Loss in appetite
+__label__79890006 Loss of appetite
+__label__79890006 anorectic
+__label__79890006 Anorexia
+__label__79890006 finds herself unable to eat
+__label__79890006 inappetence
+__label__79890006 poor appetite (anorexia)
+__label__79890006 anorexia (symptom)
+__label__79890006 decreased appetite
+__label__79890006 Inappetence
+__label__79890006 poor appetite
+__label__79890006 Low appetite
+__label__79890006 anorexia
+__label__79890006 a
+__label__79890006 anoretic
+__label__79890006 reduced appetite
+__label__79890006 norexia
+__label__79890006 Loss of appetite or anorexia
+__label__68962001 muscle ache
+__label__68962001 musculoskeletal pain
+__label__68962001 Muscle pains
+__label__68962001 muscle aches/pains
+__label__68962001 muscle aches or pains
+__label__68962001 Body ache
+__label__68962001 Muscle aches
+__label__68962001 body aches
+__label__68962001 muscle soreness
+__label__68962001 Muscle
+__label__68962001 Myalgic
+__label__68962001 muscle pain
+__label__68962001 muscle pains
+__label__68962001 muscular pain
+__label__68962001 muscle and joint pain
+__label__68962001 Muscle aches and pains
+__label__68962001 Muscle pain
+__label__68962001 muscle aches
+__label__68962001 myalgia
+__label__68962001 Muscular pain
+__label__68962001 muscles
+__label__68962001 Myodynias
+__label__68962001 ache
+__label__68962001 Myodynia
+__label__68962001 muscular aches and pains
+__label__68962001 Muscle ache
+__label__68962001 body ache
+__label__68962001 Myalgia
+__label__68962001 felt in the muscles
+__label__68962001 muscular pains
+__label__68962001 Aching muscles
+__label__68962001 muscle
+__label__26544005 weak
+__label__26544005 muscle weakness
+__label__26544005 Weakness
+__label__26544005 muscle fatigue
+__label__26544005 Proximal weakness
+__label__26544005 distal muscles
+__label__26544005 Myasthenic
+__label__26544005 peripheral fatigue
+__label__26544005 Myasthenia
+__label__26544005 proximal
+__label__26544005 mitochondrial diseases
+__label__26544005 leg weakness
+__label__26544005 Weak
+__label__26544005 Distal muscle weakness
+__label__26544005 muscular weakness
+__label__26544005 Neural drive
+__label__26544005 proximal weakness
+__label__26544005 grade of power
+__label__26544005 weaknesses
+__label__26544005 weakness
+__label__26544005 loss of strength
+__label__26544005 periodic partial muscle weakness or paralysis
+__label__26544005 Proximal muscle weakness
+__label__26544005 weak muscles
+__label__26544005 fatigue
+__label__26544005 fatigue poisons
+__label__26544005 myasthenia
+__label__26544005 Distal weakness
+__label__26544005 Muscle Weakness
+__label__26544005 Muscle weakness
+__label__386692008 Heavy menstruation
+__label__386692008 hypermenorrhea
+__label__386692008 increased
+__label__386692008 menorrhea
+__label__386692008 excessive menstrual bleeding
+__label__386692008 Heavy period
+__label__386692008 more than normal
+__label__386692008 heavy menstrual bleeding
+__label__386692008 heavy menstrual periods
+__label__386692008 heavy periods
+__label__386692008 Hypermenorrhea
+__label__386692008 Menorrhea
+__label__386692008 menorrhagia
+__label__386692008 heavy menstruation
+__label__386692008 Heavy perioids
+__label__386692008 heavy uterine bleeding
+__label__386692008 heavy period
+__label__386692008 heavy
+__label__386692008 Menorrhoea
+__label__386692008 Heavy periods
+__label__386692008 heavy menstrual flow
+__label__386692008 Heavy menstrual periods
+__label__386692008 Heavy menstrual bleeding
+__label__386692008 Menorrhagia
+__label__32914008 Restless foot
+__label__32914008 restless legs syndrome
+__label__32914008 Wittmaack-Ekbom's syndrome
+__label__32914008 Willis–Ekbom syndrome
+__label__32914008 Restless Leg Syndrome
+__label__32914008 Trucker's itch
+__label__32914008 Leg jiggling
+__label__32914008 Restless Legs Syndrome
+__label__32914008 Restless legs
+__label__32914008 "the Jimmy legs"
+__label__32914008 Willis-Ekbom Disease
+__label__32914008 Wittmaack–Ekbom syndrome
+__label__32914008 Riot of the foot
+__label__32914008 Willis–Ekbom disease
+__label__32914008 Irritable legs syndrome
+__label__32914008 RLS
+__label__32914008 restless leg syndrome
+__label__32914008 Restless legs syndrome
+__label__32914008 Restless leg
+__label__32914008 Ekbom Disease
+__label__32914008 Leg tapping
+__label__32914008 Wittmaack-Ekbom syndrome
+__label__32914008 Iritable legs
+__label__32914008 Willis-Ekbom disease
+__label__32914008 restless legs
+__label__32914008 Restless-leg syndrome
+__label__32914008 restless legs syndrome (RLS)
+__label__32914008 Willis-Ekbom syndrome
+__label__32914008 Restless leg syndrome
+__label__235856003 liver disorders
+__label__235856003 hepatic disease
+__label__235856003 liver infection
+__label__235856003 Hepatic
+__label__235856003 liver diseases
+__label__235856003 Hepatic impairment
+__label__235856003 diseases of the liver
+__label__235856003 liver damage or disease
+__label__235856003 severe liver disease
+__label__235856003 disease
+__label__235856003 liver impairment
+__label__235856003 liver disorder
+__label__235856003 liver
+__label__235856003 liver-related ailments
+__label__235856003 hepatic impairment,
+__label__235856003 Liver damage
+__label__235856003 Liver problems
+__label__235856003 liver insufficiency
+__label__235856003 Severe liver disease
+__label__235856003 diseased liver
+__label__235856003 Liver disorder
+__label__235856003 hepatic diseases
+__label__235856003 Hepatic insufficiency
+__label__235856003 liver dysfunction
+__label__235856003 impaired liver function
+__label__235856003 hepatic insufficiency
+__label__235856003 compromised liver function
+__label__235856003 reduced liver function
+__label__235856003 List of liver disorders
+__label__235856003 liver disease
+__label__235856003 Liver Disease
+__label__235856003 Liver disease
+__label__235856003 Liver impairment
+__label__235856003 hepatic impairment
+__label__235856003 Liver disorders
+__label__235856003 hepatopathic
+__label__235856003 Hepatic disease
+__label__235856003 Liver dysfunction
+__label__235856003 liver problems
+__label__235856003 Liver insufficiency
+__label__386033004 Sensory neuropathy
+__label__386033004 Hereditary peripheral nervous disorder
+__label__386033004 Neuropathic pain
+__label__386033004 peripheral lesion
+__label__386033004 peripheral neuropathy
+__label__386033004 neuropathies
+__label__386033004 mononeuropathy multiplex
+__label__386033004 interstitial neuritis
+__label__386033004 sensory
+__label__386033004 deafferentation
+__label__386033004 mononeuropathies
+__label__386033004 peripheral neuropathy (PN)
+__label__386033004 nerve (neuropathic) pain
+__label__386033004 mononeuritis multiplex
+__label__386033004 peripheral
+__label__386033004 neuritis
+__label__386033004 polyneuritis
+__label__386033004 Polyneuritis
+__label__386033004 Peripheral nervous system diseases
+__label__386033004 mononeuropathy
+__label__386033004 nerve damage
+__label__386033004 nerve toxicity
+__label__386033004 nerve supply
+__label__386033004 Sensory neuropathy type 1
+__label__386033004 neuropathic pain
+__label__386033004 peripheral polyneuropathy
+__label__386033004 nervous disease
+__label__386033004 Autoimmune peripheral neuropathy
+__label__386033004 Mononeuropathies
+__label__386033004 peripheral nerve dysfunction
+__label__386033004 peripheral sensorimotor neuropathy
+__label__386033004 peripheral paralyses
+__label__386033004 neuropathic disease
+__label__386033004 deafferented
+__label__386033004 neuropathic
+__label__386033004 motor neuropathy
+__label__386033004 Peripheral neuropathy
+__label__386033004 peripheral deafferentation
+__label__386033004 numbness of the hands and feet
+__label__386033004 peripheral sensory or sensorimotor neuropathy
+__label__386033004 polyneuropathy
+__label__386033004 control muscles
+__label__386033004 neuropathic eye pain
+__label__386033004 Peripheral autonomic neuropathy
+__label__386033004 peripheral neuropathic disease
+__label__386033004 Mononeuritic multiplex
+__label__386033004 peripheral neuropathies
+__label__386033004 Nerve damage
+__label__386033004 Sensory Neuropathy
+__label__386033004 Peripheral polyneuropathy
+__label__386033004 Neuropathies
+__label__386033004 Peripheral neuropathies
+__label__386033004 Peripheral nerves
+__label__386033004 Neuropathic eye pain
+__label__386033004 Neuropathic
+__label__386033004 Peripheral sensory neuropathy
+__label__386033004 nerve pain
+__label__386033004 pure motor neuropathy
+__label__386033004 peripheral sensory neuropathy
+__label__386033004 Mononeuropathy multiplex
+__label__386033004 numbness
+__label__386033004 Peripheral neuropathy (PN)
+__label__386033004 peripheral nerve damage
+__label__386033004 any injury to the ulnar nerve
+__label__386033004 Peripheral Neuropathy
+__label__386033004 peripheral neuropathic
+__label__386033004 Neuropathy
+__label__386033004 Deafferentation
+__label__386033004 damage to the nerves
+__label__386033004 Mononeuritis multiplex
+__label__386033004 damaged nerves
+__label__386033004 Generalized peripheral neuropathy
+__label__386033004 nerve
+__label__386033004 polyradiculoneuritis
+__label__386033004 sensory neuropathy
+__label__386033004 inflammation of nerves
+__label__386033004 mononeuritis
+__label__386033004 damage to peripheral nerves
+__label__386033004 peripheral autonomic neuropathy
+__label__386033004 Neurogenic
+__label__386033004 Disorders of peripheral nervous system
+__label__386033004 Peripheral neuritis
+__label__386033004 nerve problems
+__label__386033004 disease of nerves
+__label__386033004 peripheral nervous system disorders
+__label__386033004 Mononeuritis
+__label__386033004 peripheral neuritis
+__label__386033004 acute pandysautonomia
+__label__386033004 damage in the peripheral nerves
+__label__386033004 Peripheral Neuropathies
+__label__386033004 pathological change
+__label__386033004 Motor neuropathy
+__label__386033004 related to sensation
+__label__386033004 feet and legs
+__label__386033004 Arsenic neuritis
+__label__386033004 neuropathy
+__label__386033004 Peripheral nervous disorder
+__label__45352006 Muscle spasm
+__label__45352006 spasms
+__label__45352006 Spasmodically
+__label__45352006 muscles spasms
+__label__45352006 gut spasm
+__label__45352006 spastic jerking
+__label__45352006 spasm
+__label__45352006 muscle spasms
+__label__45352006 Muscular spasms
+__label__45352006 muscle spasm
+__label__45352006 Muscles spasms
+__label__45352006 Spasmodic
+__label__45352006 twitching
+__label__45352006 Muscle spasms
+__label__45352006 Spasm
+__label__45352006 Spasmism
+__label__45352006 spasmodic
+__label__45352006 involuntary muscle spasms
+__label__45352006 Muscle spams
+__label__45352006 involuntary contraction
+__label__45352006 Spasmodical
+__label__81680005 neck pain
+__label__81680005 Upper back pains
+__label__81680005 Pain in the neck
+__label__81680005 neck injury
+__label__81680005 Cervical strain
+__label__81680005 Cervicalgia
+__label__81680005 Neck pain
+__label__81680005 neck
+__label__81680005 neck injuries
+__label__95891005 Influenza-like illness
+__label__95891005 respiratory illness
+__label__95891005 cold and flu symptoms
+__label__95891005 symptoms
+__label__95891005 influenza-like
+__label__95891005 acute febrile respiratory illness
+__label__95891005 Flu-like syndrome
+__label__95891005 associated symptoms
+__label__95891005 Flu like symptoms
+__label__95891005 "flu-like" symptoms
+__label__95891005 flu-like
+__label__95891005 acute respiratory infection
+__label__95891005 flulike symptoms
+__label__95891005 ILI
+__label__95891005 respiratory viral infections
+__label__95891005 Flulike symptoms
+__label__95891005 flu syndrome
+__label__95891005 influenza like illnesses
+__label__95891005 influenza-like illness
+__label__95891005 flu-like syndrome
+__label__95891005 flu-like symptoms
+__label__95891005 Flu-like symptom
+__label__95891005 flu like
+__label__95891005 Flu syndrome
+__label__95891005 acute respiratory illnesses
+__label__95891005 influenza like illness
+__label__95891005 Flu-like symptoms
+__label__95891005 Flu-like illness
+__label__95891005 Severe Acute Respiratory Infection
+__label__95891005 acute febrile respiratory disease
+__label__95891005 Acute respiratory infection
+__label__95891005 Influenza-like illnesses
+__label__95891005 Flu-like
+__label__95891005 acute respiratory infections
+__label__95891005 Severe acute respiratory infection
+__label__95891005 Acute febrile respiratory illness
+__label__95891005 flu like symptoms
+__label__95891005 Acute Respiratory Infection
+__label__95891005 flu-like illness
+__label__367391008 Feeling sick
+__label__367391008 weakness and fatigue
+__label__367391008 feeling generally unwell
+__label__367391008 generally feeling unwell
+__label__367391008 Malaise
+__label__367391008 a general sense of feeling unwell
+__label__367391008 feeling of illness
+__label__367391008 feeling of great discomfort
+__label__367391008 malaise
+__label__367391008 feeling tired
+__label__367391008 feelings of unease
+__label__367391008 generalized discomfort
+__label__367391008 Creeping crud
+__label__367391008 feeling of general discomfort
+__label__367391008 feeling sick
+__label__367391008 general discomfort
+__label__367391008 like I have the flu
+__label__367391008 general feeling of illness
+__label__367391008 feeling unwell
+__label__271782001 Marked drowsiness
+__label__271782001 Need to sleep constantly
+__label__271782001 Sleepy
+__label__271782001 Somnolescence
+__label__271782001 Sleepiness
+__label__271782001 Somnolescent
+__label__271782001 somnolescence
+__label__271782001 somnolence
+__label__271782001 Drowsiness
+__label__271782001 😪
+__label__271782001 Drowziness
+__label__271782001 Mental weakness
+__label__271782001 Drowsy
+__label__271782001 Somnolence
+__label__271782001 drowsiness
+__label__271782001 Difficulty staying awake
+__label__271782001 sleepiness
+__label__271782001 Desire to sleep
+__label__271782001 somnolent
+__label__271782001 drowsy
+__label__88092000 amyotrophia
+__label__88092000 amyotrophy
+__label__88092000 Amyotrophic
+__label__88092000 Amyotrophia
+__label__54981004 Deadleg
+__label__54981004 Charlie horse
+__label__54981004 Pferdekuss
+__label__54981004 Jolly horse
+__label__54981004 Charly horse
+__label__54981004 Charleyhorse
+__label__54981004 charley horse
+__label__54981004 deadleg
+__label__54981004 Charley horse
+__label__54981004 corked
+__label__54981004 dead leg
+__label__54981004 Charliehorse
+__label__54981004 Dead leg
+__label__44054006 type-2 diabetes
+__label__44054006 adult-onset diabetes
+__label__44054006 DMII
+__label__44054006 Type-2 diabetes
+__label__44054006 type 2 diabetic
+__label__44054006 Type II Diabetes
+__label__44054006 Type II diabetic
+__label__44054006 Type II DM
+__label__44054006 diabetes type2
+__label__44054006 Diabetes mellitus
+__label__44054006 Type-II diabetes
+__label__44054006 Diabetes mellitus, type 2
+__label__44054006 AODM
+__label__44054006 type II diabetic
+__label__44054006 type 2 diabetes mellitus
+__label__44054006 type 2
+__label__44054006 Diabetes mellitus Type 2
+__label__44054006 type II diabetic mellitus (T2DM)
+__label__44054006 type 2 diabete
+__label__44054006 Type2 diabetes
+__label__44054006 non-insulin diabetes mellitus
+__label__44054006 type 2 diabetics
+__label__44054006 Type 2 Diabetics
+__label__44054006 diabetes mellitus, type 2
+__label__44054006 NIDD
+__label__44054006 Diabetes mellitis type 2
+__label__44054006 Type II diabetes
+__label__44054006 onset diabetes
+__label__44054006 Type-II diabetic
+__label__44054006 Noninsulin-dependent diabetes
+__label__44054006 Diabetes and Cognition
+__label__44054006 diabetes mellitus type 2
+__label__44054006 diabetic mellitus type 2
+__label__44054006 2
+__label__44054006 diabetes metillus type 2
+__label__44054006 type II diabetes
+__label__44054006 Type 2 Diabetes
+__label__44054006 diabetes type II
+__label__44054006 Type 2 Diabetes Mellitus
+__label__44054006 Non-Insulin Dependent Diabetes Mellitus
+__label__44054006 type 2 diabetes.
+__label__44054006 diabetes mellitus type II
+__label__44054006 Type 2 DM
+__label__44054006 Type-2 diabetes mellitus
+__label__44054006 type-2 diabetes.
+__label__44054006 type 2 diabetic patients
+__label__44054006 type 2 diabetes
+__label__44054006 II
+__label__44054006 insulin-resistant diabetes
+__label__44054006 NIDDM
+__label__44054006 Type two diabetes
+__label__44054006 Type II
+__label__44054006 type Ⅱ diabetes
+__label__44054006 Diabetes type II
+__label__44054006 Type II diabetes mellitus
+__label__44054006 diabetes mellitus (type II)
+__label__44054006 T2DM
+__label__44054006 Type 2 diabetics
+__label__44054006 Diabetes, type 2
+__label__44054006 Diabetes mellitus type II
+__label__44054006 adult onset diabetes
+__label__44054006 Type 2
+__label__44054006 Non-insulin-dependent diabetes mellitus type II
+__label__44054006 Type 2 diabetes mellitus
+__label__44054006 diabetes type 2
+__label__44054006 Diabetes 2
+__label__44054006 type two diabetes
+__label__44054006 risk factors
+__label__44054006 type 2 DM
+__label__44054006 DM type 2
+__label__44054006 Non insulin-dependent diabetes
+__label__44054006 Diabetes mellitus type 2
+__label__44054006 type II
+__label__44054006 Type 2 diabetic
+__label__44054006 Diabetes Mellitus
+__label__44054006 DM II
+__label__44054006 diabetes
+__label__44054006 type 2 Diabetes
+__label__44054006 non-insulin-dependent diabetes mellitus type II
+__label__44054006 non-insulin-dependent diabetes mellitus
+__label__44054006 T2D
+__label__44054006 non-diabetic
+__label__44054006 Processed food disease
+__label__44054006 type-2 diabetic
+__label__44054006 Diabetes mellitis type2
+__label__44054006 adult-onset type 2 diabetes
+__label__44054006 Adult-onset diabetes
+__label__44054006 Insulin-resistant diabetes
+__label__44054006 Diabetes mellitus type 2 (T2D)
+__label__44054006 Diabetes type 2
+__label__44054006 Diabetes II
+__label__44054006 type II diabetes mellitus
+__label__44054006 Non-insulin-dependent diabetes mellitus
+__label__44054006 Diabetes Mellitus Type 2
+__label__44054006 Type-2 diabetic
+__label__44054006 diabetes mellitus
+__label__44054006 Type Ⅱ diabetes
+__label__44054006 Type 2 diabetes
+__label__44054006 type-2 diabetes mellitus
+__label__271807003 eruptions of the skin
+__label__271807003 Reticulate pattern rashes
+__label__271807003 Rashes
+__label__271807003 Scarlatiniform rashes
+__label__271807003 skin rash
+__label__271807003 expanding area of redness on the skin
+__label__271807003 Skin rashes
+__label__271807003 facial rash
+__label__271807003 Rash
+__label__271807003 rashes
+__label__271807003 rash
+__label__271807003 Skin rash
+__label__271807003 plaque
+__label__271807003 Morbilliform eruption
+__label__271807003 skin rashes
+__label__271807003 Morbilliform rashes
+__label__386807006 memory impairment
+__label__386807006 memory defect
+__label__386807006 memory deficiencies
+__label__386807006 memory
+__label__386807006 memory disorders
+__label__386807006 Memory impairment
+__label__386807006 failing memory
+__label__386807006 could not remember
+__label__386807006 loses the memories
+__label__386807006 memory disorder
+__label__386807006 Memory disorder
+__label__386807006 Memory disorders
+__label__386807006 memory diseases
+__label__57676002 Arthralgia
+__label__57676002 painful aching joints
+__label__57676002 joint pains
+__label__57676002 Painful
+__label__57676002 Arthralgias
+__label__57676002 joint aches and pains
+__label__57676002 joint pain
+__label__57676002 joint
+__label__57676002 joints
+__label__57676002 Joint pain
+__label__57676002 arthralgia
+__label__57676002 Joint
+__label__57676002 Joint Pain
+__label__57676002 Pain in joint
+__label__57676002 Arthalgia
+__label__57676002 joint aches
+__label__57676002 osteoarticular pain
+__label__57676002 Arthralgy
+__label__57676002 polyarthralgia
+__label__57676002 Joint aches
+__label__57676002 pain in the joints
+__label__57676002 Joint pains
+__label__57676002 joint soreness
+__label__57676002 painful joints
+__label__57676002 arthralgias
+__label__57676002 Joint aches and pains
+__label__57676002 Polyarthralgia
+__label__161873000 Heaviness of the extremities
+__label__161873000 heavy legs
+__label__161873000 Sensations of heaviness in the extremities
+__label__161873000 sensations of heaviness in the extremities
+__label__8943002 Abnormal weight gain
+__label__8943002 gain excess weight
+__label__8943002 fat gain
+__label__8943002 putting on weight
+__label__8943002 weight increase
+__label__8943002 gain weight
+__label__8943002 Gaining weight
+__label__8943002 Weight gain
+__label__8943002 Weight Gain
+__label__8943002 weight gain
+__label__8943002 moved up
+__label__8943002 Gain weight
+__label__8943002 Weight increase
+__label__8943002 gaining weight
+__label__8943002 increased weight
+__label__161891005 bad back
+__label__161891005 back-pain
+__label__161891005 Back problems
+__label__161891005 back pain
+__label__161891005 Upper back pain
+__label__161891005 Spinal pain
+__label__161891005 dorsal pain
+__label__161891005 Backpain
+__label__161891005 chronic back pain
+__label__161891005 painful back
+__label__161891005 Back spasm
+__label__161891005 NSLBP
+__label__161891005 Back Pain
+__label__161891005 back
+__label__161891005 back spasm
+__label__161891005 Backaches
+__label__161891005 backache
+__label__161891005 Bad back
+__label__161891005 upper back pain
+__label__161891005 Backache
+__label__161891005 Lumbar strain
+__label__161891005 Pain in the back
+__label__161891005 pain
+__label__161891005 Back spasms
+__label__161891005 Sore back
+__label__161891005 Back ache
+__label__161891005 Nonspecific back pain
+__label__161891005 Back pain
+__label__161891005 Dorsal pain
+__label__161891005 back problems
+__label__161891005 back spasms
+__label__161891005 Chronic back pain
+__label__271807003 Viral rash
+__label__271807003 Viral exanthem
+__label__271807003 Exanthemata
+__label__271807003 widespread rash
+__label__271807003 skin rash
+__label__271807003 exanthemata
+__label__271807003 eruptions or rashes
+__label__271807003 Viral rashes
+__label__271807003 Exanthems
+__label__271807003 rash
+__label__271807003 exanthem
+__label__271807003 Exanthema
+__label__271807003 exanthema
+__label__271807003 maculopapular exanthema
+__label__271807003 viral rash
+__label__271807003 rash-causing childhood diseases
+__label__271807003 Rashes of childhood
+__label__271807003 Exanthem
+__label__271807003 Aculopapular exanthema
+__label__80449002 Muscular fatigue
+__label__80449002 Enervate
+__label__80449002 muscular fatigue
+__label__80449002 fatigue
+__label__80449002 enervation
+__label__80449002 user fatigue
+__label__80449002 neuromuscular weakness
+__label__80449002 Muscle fatigue
+__label__80449002 muscle fatigue
+__label__80449002 muscle
+__label__16386004 Medical dryness
+__label__16386004 Dryness (medical)
+__label__16386004 Dryness
+__label__16386004 sicca
+__label__16386004 dry eyes
+__label__16386004 dryness
+__label__16386004 dry
+__label__9991008 rheumatic colic
+__label__9991008 colic
+__label__9991008 Colic
+__label__9991008 Cholic and Griping of the Bowels
+__label__9991008 sand colic
+__label__9991008 Cholic
+__label__9991008 Colick
+__label__9991008 colick
+__label__9991008 cholic
+__label__9991008 Colicky
+__label__267044007 exercise
+__label__267044007 Exercise intolerance
+__label__267044007 exercise tolerance
+__label__267044007 exercise intolerance
+__label__267044007 exertional
+__label__49218002 coxalgia
+__label__49218002 Coxalgia
+__label__386705008 light-headed
+__label__386705008 Light-headedness
+__label__386705008 Lightheadedness
+__label__386705008 feeling faint
+__label__386705008 Light headed
+__label__386705008 Presyncope
+__label__386705008 feel faint
+__label__386705008 presyncope
+__label__386705008 Light Headed
+__label__386705008 Feeling faint
+__label__386705008 severe
+__label__386705008 lightheaded
+__label__386705008 lightheadedness
+__label__386705008 feeling like passing out
+__label__386705008 Light-headed
+__label__386705008 feeling like one is going to pass out
+__label__386705008 light headed
+__label__386705008 Pre-syncope
+__label__386705008 light-headedness
+__label__386705008 about to faint
+__label__386705008 Presyncopy
+__label__386705008 Lightheaded
+__label__386705008 Dizziness
+__label__386705008 faint
+__label__22298006 cardial infarction
+__label__22298006 Q wave infarction
+__label__22298006 Cardiac infarct
+__label__22298006 ischemic injury
+__label__22298006 heart failures
+__label__22298006 Subendocardial infarct
+__label__22298006 Post-MI
+__label__22298006 ST segment elevation myocardial infarction
+__label__22298006 heart
+__label__22298006 acute heart attack
+__label__22298006 myocardial
+__label__22298006 massive heart attack
+__label__22298006 recurrent myocardial infarction
+__label__22298006 Massive heart attack
+__label__22298006 stroke
+__label__22298006 ST-segment elevation MI
+__label__22298006 heart disease
+__label__22298006 non ST elevation myocardial infarction
+__label__22298006 myocardial infarctions
+__label__22298006 AMI
+__label__22298006 Silent infarct
+__label__22298006 Non ST elevation myocardial infarction
+__label__22298006 Silent heart attack
+__label__22298006 acute myocardial ischemia
+__label__22298006 coronary heart attack
+__label__22298006 myocardial infarction
+__label__22298006 heart attack
+__label__22298006 Myocardial markers
+__label__22298006 Cardiovascular emergency
+__label__22298006 infarcted tissue
+__label__22298006 Myocardial infarction
+__label__22298006 STEMI
+__label__22298006 acute myocardial infarction
+__label__22298006 Heart infarct
+__label__22298006 Acute Myocardial Infarction
+__label__22298006 Heart Attack (Myocardial Infarction)
+__label__22298006 Heart Attack
+__label__22298006 cardiac infarct
+__label__22298006 ischemic event
+__label__22298006 myocardial infarct
+__label__22298006 acute myocardial Infarction
+__label__22298006 Inferior myocardial infarction
+__label__22298006 Non-ST elevation myocardial infarction
+__label__22298006 acute myocardial infarction (AMI)
+__label__22298006 coronary occlusion
+__label__22298006 cardiac infarction
+__label__22298006 Myocardial infraction
+__label__22298006 congestive heart faliure
+__label__22298006 Acute myocardial ischemia
+__label__22298006 non-ST elevation myocardial infarctions
+__label__22298006 myocardial infraction
+__label__22298006 ST elevation myocardial infarctions
+__label__22298006 Walking heart attack
+__label__22298006 attack of heart failure
+__label__22298006 heart rupture
+__label__22298006 cardiovascular
+__label__22298006 Coronary infarction
+__label__22298006 ST Elevation Myocardial Infarction
+__label__22298006 Heartattack
+__label__22298006 non-ST elevation
+__label__22298006 non-ST elevation myocardial infarction
+__label__22298006 Cardiovascular emergencies
+__label__22298006 heart-attack
+__label__22298006 Percutaneous Coronary Intervention
+__label__22298006 infarct
+__label__22298006 other causes
+__label__22298006 ischemia-reperfusion injury
+__label__22298006 Psychological risk factors in patients with myocardial infarction
+__label__22298006 NSTEMI
+__label__22298006 acute myocardical infarction
+__label__22298006 Awmi
+__label__22298006 heart-attacks
+__label__22298006 heart attack.
+__label__22298006 Myocardial Infarction
+__label__22298006 myocardially infarcted
+__label__22298006 Cardiac infarction
+__label__22298006 coronary infarction
+__label__22298006 severe heart attack
+__label__22298006 seizure
+__label__22298006 Cardial infarction
+__label__22298006 myocardial infarcts
+__label__22298006 a heart attack
+__label__22298006 infarction
+__label__22298006 Myocardial infarctions
+__label__22298006 Non STEMI
+__label__22298006 ST-segment elevation myocardial infarction
+__label__22298006 coronary
+__label__22298006 ischemic heart disease
+__label__22298006 Myocardial infarct
+__label__22298006 acute inferior myocardial infarction
+__label__22298006 cardiac crisis
+__label__22298006 Acute myocardial infarction
+__label__22298006 ST-elevation myocardial infarction
+__label__22298006 myocardial infarction (heart attack)
+__label__22298006 heart failure
+__label__22298006 sudden cardiac death
+__label__22298006 Heart attack
+__label__22298006  heart attack
+__label__22298006 cardiac arrest
+__label__22298006 myocardial lesion
+__label__22298006 Infarctus myocardii
+__label__22298006 heart Attack
+__label__22298006 Heart Attacks
+__label__22298006 ST elevation myocardial infarction
+__label__22298006 Heart infarction
+__label__22298006 Inferior infarction
+__label__22298006 Heart attacks
+__label__22298006 inferior myocardial infarction
+__label__22298006 Myocardial infarction — Reperfusion
+__label__22298006 ischemic heart attack
+__label__22298006 ischemia
+__label__22298006 heart infarction
+__label__22298006 pathophysiology section
+__label__22298006 Non-ST elevation MI
+__label__22298006 non-STEMI
+__label__22298006 the big one
+__label__22298006 heart infarctions
+__label__22298006 bad attack
+__label__22298006 made his heart break
+__label__22298006 ST-segment elevations
+__label__22298006 heart stroke
+__label__22298006 Myocaridal infarction
+__label__22298006 Non-STEMI
+__label__22298006 Wall motion abnormalities
+__label__22298006 coronary thrombosis
+__label__22298006 Coronary artery occlusion
+__label__22298006 Heart stroke
+__label__22298006 ST-elevation MI
+__label__22298006 Massive coronary
+__label__22298006 heart attack disease
+__label__22298006 ST elevation MI
+__label__22298006 left ventricular ischaemia
+__label__22298006 Cardio infarction
+__label__22298006 Cardiac arrest
+__label__22298006 MI
+__label__22298006 ischemic insult
+__label__22298006 subendocardial infarctions
+__label__22298006 heart attacks
+__label__22298006 Cardiac Arrest
+__label__84229001 😫
+__label__84229001 🙀
+__label__84229001 fatigue symptoms
+__label__84229001 Exhausted
+__label__84229001 exhausted
+__label__84229001 Lethargic
+__label__84229001 Lethargy
+__label__84229001 excessive tiredness
+__label__84229001 lethargy
+__label__84229001 feeling tired
+__label__84229001 mental fatigue
+__label__84229001 Serious fatigue
+__label__84229001 chronic fatigue
+__label__84229001 Weariness
+__label__84229001 TATT
+__label__84229001 Overexertion
+__label__84229001 medical fatigue
+__label__84229001 Languid
+__label__84229001 chronic feeling of tiredness
+__label__84229001 Fatique
+__label__84229001 fatigue
+__label__84229001 lacking in energy
+__label__84229001 lack of athletic prowess
+__label__84229001 tired all the time
+__label__84229001 fatigability
+__label__84229001 Lassitude
+__label__84229001 Fatigued
+__label__84229001 Overly tired
+__label__84229001 feeling very tired
+__label__84229001 Lethargy and fatigue
+__label__84229001 Languidness
+__label__84229001 mentally
+__label__84229001 lack of energy
+__label__84229001 Fatigue (medical)
+__label__84229001 languid
+__label__84229001 feeling weak and tired
+__label__84229001 Tiredness
+__label__84229001 Exhaustion
+__label__84229001 physical fatigue
+__label__84229001 tiredness
+__label__84229001 Medical fatigue
+__label__84229001 Langour
+__label__84229001 Aeroneurosis
+__label__84229001 feel tired
+__label__84229001 overexertion
+__label__84229001 Mental fatigue
+__label__84229001 lethargus
+__label__84229001 exhausting
+__label__84229001 Morning tiredness
+__label__84229001 indefatigable
+__label__84229001 Over tired
+__label__84229001 low energy
+__label__84229001 😩
+__label__84229001 Fatigue (physical)
+__label__84229001 dehydration
+__label__84229001 Exhausting
+__label__84229001 Overtired
+__label__84229001 Chronic fatigue
+__label__84229001 tired
+__label__84229001 slowness
+__label__84229001 lassitude
+__label__84229001 Prostration (medical)
+__label__84229001 Languor
+__label__84229001 exhaustion
+__label__84229001 Reduced energy
+__label__84229001 weakness
+__label__84229001 physical exhaustion
+__label__84229001 Fatigue
+__label__84229001 weariness
+__label__84229001 lethargic
+__label__84229001 feeling of tiredness
+__label__84229001 Fatigability
+__label__84229001 Fatiguing
+__label__84229001 attrition
+__label__84229001 sleeping sickness
+__label__84229001 Languors
+__label__84229001 fatiguability
+__label__84229001 languor
+__label__84229001 Morning fatigue
+__label__84229001 Fatigue (medicine)
+__label__84229001 Hurricane fatigue
+__label__84229001 neurological fatigue
+__label__84229001 Tired
+__label__84229001 Being pooped
+__label__84229001 energy
+__label__84229001 Fatigue (physiology)
+__label__84229001 Neurological fatigue
+__label__84229001 long-term fatigue
+__label__84229001 very tired
+__label__84229001 fatigued
+__label__84229001 Overtire
+__label__84229001 Anti-fatigue
+__label__84229001 Feeling tired
+__label__49049000 Movement Disorders/Parkinson’s
+__label__49049000 antiparkinsonism
+__label__49049000 Parkinsonism, primary
+__label__49049000 Parkinson
+__label__49049000 parkinson’s disease
+__label__49049000 Idiopathic Parkinson's Disease
+__label__49049000 Parkinsons's disease
+__label__49049000 diagnose
+__label__49049000 Parkinson's disease and Diet
+__label__49049000 disease
+__label__49049000 non-motor
+__label__49049000 Paralysis agitans
+__label__49049000 signs and symptoms
+__label__49049000 Parkinston’s disease
+__label__49049000 Motor symptoms of Parkinson's disease
+__label__49049000 YOPD
+__label__49049000 parkinson's disease
+__label__49049000 Parkinson's disease (PD)
+__label__49049000 .
+__label__49049000 anti-Parkinsonian
+__label__49049000 parkinsonian symptoms
+__label__49049000 Parkinson Disease
+__label__49049000 Parkinsons' Disease
+__label__49049000 PD
+__label__49049000 Parkinson’s
+__label__49049000 Pakinson's Disease
+__label__49049000 Shaking palsy
+__label__49049000 Parkinson disease 14 (PARK14)
+__label__49049000 Parkinsons' disease
+__label__49049000 Parkinson facies
+__label__49049000 Parkinsonian
+__label__49049000 parkinson
+__label__49049000 Neuropsychiatric symptoms of parkinson's disease
+__label__49049000 Parkinson's Syndrome
+__label__49049000 Parkinsonian tremor
+__label__49049000 parkinson disease
+__label__49049000 parkinsonism
+__label__49049000 Michael J. Fox Foundation for Parkinson's Research
+__label__49049000 non-motor symptoms
+__label__49049000 motor type symptoms
+__label__49049000 Motor symptoms parkinson's disease
+__label__49049000 Parkinsons disease
+__label__49049000 Parkinsonian tremors
+__label__49049000 parkinsonian
+__label__49049000 Parkinson’s disease (PD)
+__label__49049000 Parkinson’s disease
+__label__49049000 Parkinson's condition
+__label__49049000 Parkinson's Research
+__label__49049000 Parkinson's disease
+__label__49049000 Parkinson-like
+__label__49049000 Parkinson disease (PD)
+__label__49049000 the disease that would bear his name
+__label__49049000 Hypokinetic rigid syndrome
+__label__49049000 Morbus Parkinson
+__label__49049000 Parkinsonians
+__label__49049000 parkinsonian syndrome
+__label__49049000 juvenile Parkinson's
+__label__49049000 postencephalitic Parkinson's
+__label__49049000 parkinsonian tremors
+__label__49049000 paralysis agitans
+__label__49049000 Parkinson disease
+__label__49049000 Parkinson's Disease
+__label__49049000 Shaking Palsy
+__label__49049000 Antiparkinsonism
+__label__49049000 Parkinson's
+__label__49049000 Parkinson`s Disease
+__label__49049000 Parkinsons Disease
+__label__49049000 Traumatic Parkinson's
+__label__49049000 Parkinson’s Disease
+__label__49049000 motor
+__label__49049000 Parkinsons
+__label__49049000 Parkinsonism
+__label__49049000 Parkinson's-related
+__label__49049000 Parkinson's-like disease
+__label__49049000 Parkinston's disease
+__label__49049000 Parkinson`s disease
+__label__38341003 blood pressure lowering
+__label__38341003 hyper-
+__label__38341003 High Blood Pressure
+__label__38341003 Laboratory tests for hypertension
+__label__38341003 elevated blood pressure
+__label__38341003 Increased blood pressure
+__label__38341003 Hyper tension
+__label__38341003 Residual hypertension
+__label__38341003 Hypertensive
+__label__38341003 high
+__label__38341003 Awareness of hypertension
+__label__38341003 resistant hypertension
+__label__38341003 elevation
+__label__38341003 arterial hypertension
+__label__38341003 high blood pressure
+__label__38341003 hypertensive hemorrhage
+__label__38341003 High-blood pressure
+__label__38341003 hypertensive disorder
+__label__38341003 Hyperpiesia
+__label__38341003 Signs of hypertension
+__label__38341003 increase blood pressure
+__label__38341003 High blood
+__label__38341003 raised blood pressure
+__label__38341003 increased blood pressure
+__label__38341003 Adrenal hypertension
+__label__38341003 hypertension (high blood pressure)
+__label__38341003 Economics of hypertension
+__label__38341003 Refractory hypertension
+__label__38341003 blood pressure
+__label__38341003 Hypertensive heart disorder
+__label__38341003 hypertension
+__label__38341003 systemic hypertension
+__label__38341003 minor role
+__label__38341003 hypertensive crisis
+__label__38341003 elevation of blood pressure
+__label__38341003 Systemic hypertension
+__label__38341003 rebound hypertension
+__label__38341003 a sudden jump in blood pressure
+__label__38341003 anti-hypertensive drugs
+__label__38341003 Hypertension
+__label__38341003 Hyperpieses
+__label__38341003 Epidemiology of hypertension
+__label__38341003 high arterial blood pressure
+__label__38341003 persistent elevation
+__label__38341003 Elevated blood-pressure
+__label__38341003 essential
+__label__38341003 Arterial hypertension
+__label__38341003 Elevated blood pressure
+__label__38341003 hypertensive disorders
+__label__38341003 hypertension (elevated blood pressure)
+__label__38341003 Hypertensive heart disease
+__label__38341003 maternal hypertension
+__label__38341003 higher blood pressure
+__label__38341003 Hypertension (high blood pressure)
+__label__38341003 Rebound hypertension
+__label__38341003 Hypertensive disease
+__label__38341003 High blood pressure
+__label__38341003 chronic hypertension
+__label__38341003 Prognosis of hypertension
+__label__38341003 Hypertention
+__label__38341003 Causes of hypertension
+__label__38341003 Hypertensive disorders
+__label__38341003 hypertensive
+__label__38341003 Hypertension (High Blood Pressure)
+__label__38341003 Diagnosis of hypertension
+__label__38341003 Hypertensive disorder
+__label__38341003 Arterial Hypertension
+__label__38341003 high blood pressure (hypertension)
+__label__38341003 chronic high blood pressure
+__label__38341003 essential hypertension
+__label__38341003 High BP
+__label__38341003 Raised blood pressure
+__label__38341003 Increase in blood pressure
+__label__38341003 pulmonary hypertension
+__label__38341003 hypertensive diseases
+__label__38341003 Symptoms of hypertension
+__label__38341003 Signs and symptoms of hypertension
+__label__38341003 Prevention of hypertension
+__label__38341003 Classification of hypertension
+__label__38341003 Accelerated hypertension
+__label__38341003 Hypertensive diseases
+__label__38341003 Chronic hypertension
+__label__38341003 Isolated diastolic hypertension
+__label__38341003 Risk factors for hypertension
+__label__55929007 Orneriness
+__label__55929007 agitation
+__label__55929007 Hyperirritability
+__label__55929007 Irritability
+__label__55929007 irritate
+__label__55929007 irritability
+__label__55929007 hyperirritable
+__label__55929007 Ornery
+__label__55929007 irritable
+__label__55929007 Ornary
+__label__55929007 Crankiness
+__label__55929007 irritation
+__label__55929007 ornery
+__label__25064002 Cephalea
+__label__25064002 Head pain
+__label__25064002 "toxic" headache
+__label__25064002 headach
+__label__25064002 headache syndromes
+__label__25064002 Encephalalgia
+__label__25064002 primary headache
+__label__25064002 chronic headache
+__label__25064002 chronic headaches
+__label__25064002 head pain
+__label__25064002 types of a headache
+__label__25064002 Höfuðverkur
+__label__25064002 Primary headache
+__label__25064002 Chronic headache
+__label__25064002 Hoefudverkur
+__label__25064002 headaches.
+__label__25064002 Headach
+__label__25064002 Toxic headache
+__label__25064002 Head Aches
+__label__25064002 head-pain
+__label__25064002 Headache (medical)
+__label__25064002 type
+__label__25064002 Headacke
+__label__25064002 Headache disorder
+__label__25064002 red flags
+__label__25064002 Headaches
+__label__25064002 headache disorder
+__label__25064002 secondary headaches
+__label__25064002 headache disorders
+__label__25064002 Severe headache
+__label__25064002 Headache syndromes
+__label__25064002 Chronic headaches
+__label__25064002 Headache and Migraine
+__label__25064002 headaches
+__label__25064002 headache
+__label__25064002 Headache
+__label__25064002 Head ache
+__label__25064002 Headech
+__label__25064002 Headache disorders
+__label__25064002 head
+__label__25064002 Cephalgia
+__label__25064002  Headache medicine
+__label__25064002 Hofudverkur
+__label__271782001 Sleep architecture
+__label__271782001 stage of sleep
+__label__271782001 Health benefits of sleep
+__label__271782001 Sleep demand
+__label__271782001 Sleep
+__label__271782001 💤
+__label__271782001 asleep
+__label__271782001 oversleeping
+__label__271782001 Sleep patterns
+__label__271782001 nap
+__label__271782001 waking up
+__label__271782001 Sleeping
+__label__271782001 Neuro-homeostatic recuperation
+__label__271782001 light sleeper
+__label__271782001 sleep state
+__label__271782001 sleeping patterns
+__label__271782001 😴
+__label__271782001 stage 2
+__label__271782001 sleep patterns
+__label__271782001 waking
+__label__271782001 stages of sleep
+__label__271782001 stage two sleep
+__label__271782001 sleeping ritual
+__label__271782001 sleep cycles
+__label__271782001 Sleep pattern
+__label__271782001 sleep pattern
+__label__271782001 slept
+__label__271782001 waking time
+__label__271782001 Waking up
+__label__271782001 Falling Asleep
+__label__271782001 hypnotic
+__label__271782001 Sleeps
+__label__271782001 Active Sleep
+__label__271782001 Aſleep
+__label__271782001 Sleep quality
+__label__271782001 Sleep (human)
+__label__271782001 sleep
+__label__271782001 slumber
+__label__271782001 Snoozing
+__label__271782001 Sleep medicine
+__label__271782001 stage
+__label__271782001 stage 1 of NREM sleep
+__label__271782001 sleeping
+__label__271782001 process S
+__label__271782001 sleep behavior
+__label__271782001 Sociology of Sleep
+__label__271782001 Effects of diet on sleep quality
+__label__271782001 Sleep stages
+__label__271782001 sleep stage
+__label__271782001 rest
+__label__271782001 sleep stages
+__label__271782001 Asleep
+__label__271782001 Rest
+__label__271782001 soporifics
+__label__271782001 SLumber
+__label__271782001 stage 1 sleep
+__label__271782001 Sleep requirement
+__label__271782001 Sleep cycles
+__label__271782001 soporific
+__label__271782001 synaptic homeostasis hypothesis
+__label__271782001 Kakovost spanja
+__label__271782001 sleep quality
+__label__271782001 Nocturnal post absorptive catabolism
+__label__271782001 right kind of sleep
+__label__271782001 Sleep stage
+__label__271782001 Sleeping place
+__label__271782001 Slept
+__label__271782001 Process S
+__label__271782001 Stages of sleep
+__label__271782001 sleep depth
+__label__271782001 falling asleep
+__label__271782001 sleep architecture
+__label__271782001 Human sleep
+__label__202882003 Plantar fasciitis
+__label__202882003 plantar fasciitus
+__label__202882003 Plantarfasciitis
+__label__202882003 Fasciitis, plantar
+__label__202882003 Plantar heel spur
+__label__202882003 plantar fascia injury
+__label__202882003 Plantar faciit
+__label__202882003 Plantar fascitis
+__label__202882003 Plantar facilitis
+__label__202882003 plantar fasciosis
+__label__202882003 plantar fasciitis
+__label__202882003 Plantar fasciosis
+__label__202882003 Plantar Faciitis
+__label__202882003 Dancer's heel
+__label__202882003 Plantarfaciitis
+__label__202882003 Heel spur syndrome
+__label__202882003 Plantar Fasciitis
+__label__13791008 Asthenic
+__label__13791008 Weaker
+__label__13791008 muscle weakness
+__label__13791008 Weakness
+__label__13791008 Weakness (medical)
+__label__13791008 asthenia
+__label__13791008 Asthenisation
+__label__13791008 weakening of muscles
+__label__13791008 muscular weakness
+__label__13791008 weakness
+__label__13791008 asthenic syndrome
+__label__13791008 Weakening of muscles
+__label__13791008 peripheral weakness
+__label__13791008 general weakness
+__label__13791008 Weaknes
+__label__13791008 weak
+__label__13791008 Asthenia
+__label__13791008 asthenization
+__label__13791008 lack of energy
+__label__13791008 decrepit
+__label__13791008 generalized weakness
+__label__13791008 weakling
+__label__13791008 Asthenization
+__label__13791008 asthenic
+__label__13791008 Antiasthenic
+__label__13791008 extreme weakness
+__label__13791008 psychological and physical weakness
+__label__13791008 Muscular weakness
+__label__13791008 Lack of strength
+__label__13791008 Decrepit
+__label__13791008 antiasthenic
+__label__13791008 Asthenic Syndrome
+__label__13791008 Fatigue poisons
+__label__13791008 physical weakness
+__label__13791008 Weakest
+__label__13791008 Physical weakness
+__label__13791008 Loss of strength
+__label__13791008 Muscle weakness
+__label__131148009 The cause of bleeding
+__label__131148009 abdominal haemorrhage
+__label__131148009 rupture of significant blood vessels
+__label__131148009 cuts
+__label__131148009 Massive hemorrhage
+__label__131148009 microhemorrhage
+__label__131148009 bleeding symptoms
+__label__131148009 Massive Hemorrhage
+__label__131148009 internal hemorrhage
+__label__131148009 hemorrhagia
+__label__131148009 acute blood loss
+__label__131148009 Haemorrhagic
+__label__131148009 significant bleeding
+__label__131148009 hemorrhagic shock
+__label__131148009 Intra-abdominal hemorrhage
+__label__131148009 Bleeding
+__label__131148009 blood leak
+__label__131148009 massive bleeding
+__label__131148009 Hæmorrhage
+__label__131148009 Bleeds
+__label__131148009 Haemorrhages
+__label__131148009 Haemorrhaging
+__label__131148009 Hemorrhage
+__label__131148009 The Effects of Haemorrhage
+__label__131148009 hemorrhaged lungs
+__label__131148009 brain hemorrhage
+__label__131148009 Hemmorage
+__label__131148009 bleeds
+__label__131148009 point bleeding
+__label__131148009 Deadly bleeding
+__label__131148009 bleed
+__label__131148009 Hemorrhagic
+__label__131148009 haemorrhagic
+__label__131148009 massive hemorrhage
+__label__131148009 major blood loss
+__label__131148009 haemorrhage
+__label__131148009 bled to death
+__label__131148009 haemorrhaging
+__label__131148009 profuse bleeding
+__label__131148009 internal hemorrhaging
+__label__131148009 hæmorrhage
+__label__131148009 Cause of bleeding
+__label__131148009 brain stem hemorrhage
+__label__131148009 Hemorragic
+__label__131148009 Loss of blood
+__label__131148009 internal haemorrhaging
+__label__131148009 Blood Loss
+__label__131148009 Hemorrhages
+__label__131148009 WHO bleeding scale
+__label__131148009 Major bleeding
+__label__131148009 Bleeding and Blood Clotting
+__label__131148009 brain haemorrhage
+__label__131148009 bled
+__label__131148009 Abdominal hemorrhage
+__label__131148009 major bleeding
+__label__131148009 Hemorrage
+__label__131148009 internal haemorrhage
+__label__131148009 lung hemorrhage
+__label__131148009 hemorrhaging
+__label__131148009 hemorrhage
+__label__131148009 excessive blood loss
+__label__131148009 micro-haemorrhages
+__label__131148009 Severe bleeding
+__label__131148009 hemorrhagic
+__label__131148009 arterial bleeding
+__label__131148009 loss
+__label__131148009 hemorrhagic infarction
+__label__131148009 hemorrhages
+__label__131148009 lose a great amount of blood
+__label__131148009 Blood loss
+__label__131148009 bleeding
+__label__131148009 Hemorrhaging
+__label__131148009 Hemmorhage
+__label__131148009 Haemorrhage
+__label__131148009 hemorrage
+__label__131148009 haemorrhages
+__label__131148009 blood loss
+__label__131148009 Arterial bleeding
+__label__131148009 loss of blood
+__label__131148009 hemorrhaged
+__label__279038004 middle back pain
+__label__405729008 blood in my stools 
+__label__95891005 fluey feelings 
+__label__386807006 memory failure 
+__label__88092000 atrophy 
+__label__88092000 noticible loss of muscle structure 
+__label__404640003 diziness 
+__label__55300003 cramping 
+__label__129565002 muscle problems legs 
+__label__80449002 legs began feeling very tired 
+__label__367391008 general malaise 
+__label__84229001 severe fatigue in my body 
+__label__235856003 liver damage 
+__label__367391008 felt just strange 
+__label__54981004 charley horses in legs 
+__label__79890006 anorexic 
+__label__131148009 bleeding inside 
+__label__22253000 achiness 
+__label__161891005 backache 
+__label__26544005 weakness in muscles 
+__label__37796009 migrane headaches 
+__label__77692006 excessive sleep 
+__label__77692006 increase in sleep requirement 
+__label__418290006 very severe itching 
+__label__25064002 dull headaches 
+__label__26544005 went down muscles 
+__label__54981004 charley horses in breasts 
+__label__161891005 very painful muscle aches back 
+__label__386807006 memeory problems 
+__label__84229001 fatiqued 
+__label__26544005 muscles feel like a wet dish rag 
+__label__22253000 worst pain i have ever experienced 
+__label__68962001 terrible muscle pain 
+__label__55300003 muscle knots up 
+__label__25064002 head hurting 
+__label__84229001 fatigue, increased 
+__label__57676002 joint discomfort 
+__label__422400008 vomitting 
+__label__22253000 constant aching/pain 
+__label__16386004 fingertips scaly 
+__label__95891005 felt like i was coming down with flu 
+__label__81680005 neck pain 
+__label__279038004 soreness in upper back 
+__label__131148009 bled heavily 
+__label__68962001 sore muscle 
+__label__202882003 plantar fasciitis of my left foot 
+__label__54981004 charley horses in abdomen 
+__label__84229001 feeling exausted 
+__label__161873000 heavy aching legs 
+__label__88092000 loss of muscle in left leg 
+__label__22253000 it hurts 
+__label__95891005 flu symptoms 
+__label__56265001 heart disease 
+__label__193462001 can't sleep 
+__label__68962001 very painful muscle aches in the neck 
+__label__68962001 leg muscle pain 
+__label__422587007 extreme nausea 
+__label__88092000 muscle loss 
+__label__13791008 lassitude 
+__label__55300003 mild cramping 
+__label__44054006 type 2 diabetes 
+__label__84229001 horrible fatigue 
+__label__45352006 spasms 
+__label__68962001 muscles hurt 
+__label__386692008 heavy menstral bleeding with clots even though i had just finished my cycle a week before 
+__label__25064002 severe sudden onset headache in the back of head 
+__label__129565002 recks my muscles severly 
+__label__404640003 occasional dizziness 
+__label__69896004 rhuematoid arthritis 
+__label__279038004 back pain upper 
+__label__68962001 muscle fatigue 
+__label__55300003 cramps 
+__label__9991008 intestinal pain 
+__label__26079004 very shaky 
+__label__29857009 chest aches 
+__label__57676002 severe joint aches 
+__label__25064002 severe headaches 
+__label__44054006 type2 diabetes 
+__label__129565002 extreme muscle problems 
+__label__54981004 charley horse in my side 
+__label__202882003 plantar fasciatis 
+__label__95891005 """ fluey"" feelings in upper arms, legs" 
+__label__404640003 dizzieness 
+__label__79890006 anorexia 
+__label__32914008 restless leg syndrome 
+__label__26544005 loss of muscel strength 
+__label__54981004 charley horses in shoulders 
+__label__55300003 severe muscle back cramp 
+__label__422400008 threw up 
+__label__29857009 chest ache 
+__label__271782001 drowsiness 
+__label__129565002 muscle problems 
+__label__88092000 loss of muscle 
+__label__80449002 fatigue in forearms 
+__label__13791008 drained 
+__label__49218002 hips hurt 
+__label__422400008 vomited 
+__label__26544005 muscle weakness causing nerve damage and imbalance 
+__label__56265001 severe heart disease 
+__label__49218002 joint pain in my hips 
+__label__60862001 tinninitus 
+__label__9991008 abdominal cramps and pain 
+__label__399153001 vertigo like symptons 
+__label__386705008 light-headedness (hurt to hold my head up or turn my head from side to side and that made driving real difficult) 
+__label__49218002 pain around the hipjoints 
+__label__22298006 heart attach 
+__label__13791008 constantly weak 
+__label__37796009 worse migraines 
+__label__279039007 back pain lower 
+__label__26544005 loss of strength 
+__label__235856003 liver disease 
+__label__26544005 muscles weak 
+__label__68962001 muscular aches 
+__label__95891005 flu like symtoms 
+__label__68962001 muscle aches in chest 
+__label__88092000 muscle disintegration/degeneration 
+__label__68962001 muscle aches & pains 
+__label__32914008 restless legs 
+__label__84229001 fatigue 
+__label__57676002 joint pain 
+__label__84229001 fatique 
+__label__161891005 burning back pain 
+__label__161891005 """back labor"" pains" 
+__label__55300003 buttocks cramps 
+__label__29857009 chest hurt 
+__label__13791008 so weak 
+__label__422400008 puking 
+__label__161891005 aches and pains in my back 
+__label__399153001 vertgo 
+__label__55300003 inflammation in my back muscles 
+__label__49218002 joint pain in the hips 
+__label__16386004 super dry skin 
+__label__57676002 athritic pain 
+__label__68962001 muscles aches 
+__label__22253000 sore 
+__label__95891005 flu like syptoms 
+__label__3424008 increase my heart rate 
+__label__21522001 terrible abdominal pain 
+__label__57676002 arthritic pain 
+__label__68962001 terrible musche aches 
+__label__60862001 tintinitus 
+__label__88092000 rhabdomyolysis/muscle loss 
+__label__129565002 damaging your muscles 
+__label__95891005 feel flu like 
+__label__9991008 abdominal cramping 
+__label__49218002 aching in hips 
+__label__68962001 horrible muscle pains 
+__label__60862001 ringing in the ears 
+__label__84229001 fatigued 
+__label__77692006 high sleep requirement 
+__label__80449002 tired or burning muscles 
+__label__386807006 couldn't remember where i left my dog 10 minutes before 
+__label__161873000 my legs became lead 
+__label__68962001 bad muscle pains 
+__label__49049000 parkinsons 
+__label__49218002 aches in hip joint 
+__label__22298006 heart-attack 
+__label__386807006 impaired memory 
+__label__26544005 muscle weakness in back 
+__label__22298006 heart attack 
+__label__56265001 heart desease 
+__label__80449002 legs are very weak 
+__label__22253000 pain pain pain 
+__label__161891005 back aches 
+__label__386807006 problems with memory 
+__label__80449002 muscel fatigue 
+__label__13791008 felt weak 
+__label__37796009 migranes during sexual intercourse 
+__label__49218002 joint pain in hips 
+__label__26544005 losing strength 
+__label__26544005 muscles had become weak and stressed 
+__label__386692008 excessive mestrual bleeding 
+__label__45352006 spasms all throughout my legs 
+__label__386033004 severe neuropathy 
+__label__68962001 muscles pain 
+__label__68962001 muscle aches and pains 
+__label__25064002 headaches 
+__label__38341003 elevated bp 
+__label__271807003 strange poisen-ivy like rash on chest and breast 
+__label__418290006 itches 
+__label__161873000 felt like i had lead in my legs 
+__label__3424008 increased heart rate 
+__label__55300003 severe cramps 
+__label__77692006 fell asleep while driving 
+__label__386705008 lightheadedness 
+__label__57676002 severe joint pains 
+__label__88092000 loss of muscle mass in face 
+__label__26544005 loss of support in all muscels in particular calf and leg 
+__label__9991008 severe colon cramping 
+__label__49049000 parkinson 
+__label__25064002 head hurt 
+__label__81680005 muscle pain in neck 
+__label__84229001 increase in level of fatigue 
+__label__68962001 muscle achs 
+__label__81680005 pain in my neck 
+__label__56265001 coronary disease 
+__label__84229001 unexplained fatigue 
+__label__56265001 coronary problems 
+__label__77692006 excessive sleep requirements 
+__label__49218002 sore hip(tightit band) 
+__label__69896004 ra 
+__label__84229001 extreme tiredness 
+__label__13791008 debilitating 
+__label__55300003 cramping in back muscles 
+__label__129565002 every muscle from my waist down was effected 
+__label__68962001 lots of pain in the muscles 
+__label__49218002 joint pain in thighs 
+__label__55300003 very severe cramps 
+__label__26079004 hand tremors 
+__label__81680005 neck right down to my right shoulder blade is very very sensitive and very very painful 
+__label__68962001 acute muscle pain 
+__label__68962001 muscles pains 
+__label__45352006 spasms in left arm 
+__label__271782001 excessive drowsiness 
+__label__37796009 migraines 
+__label__55300003 cramp 
+__label__60862001 tinnitis 
+__label__422587007 light nausea 
+__label__25064002 very bad headaches 
+__label__16386004 persistent dry skin spots 
+__label__202882003 plantar fasciitis in my feet 
+__label__418290006 itchy hands 
+__label__68962001 muscles in my chest started aching 
+__label__279039007 low back pain 
+__label__84229001 increased fatigue 
+__label__193462001 insomina 
+__label__95891005 fluish feeling 
+__label__129565002 severe myopathy 
+__label__271782001 sleepy 
+__label__84229001 feel fatigued 
+__label__88092000 loss of muscle structure in the calf muscles 
+__label__49218002 hips pain 
+__label__13791008 week 
+__label__386807006 barely remember anything that has happened recently 
+__label__68962001 muscle aches in arms 
+__label__386692008 increased menstruation 
+__label__55300003 cramping in back 
+__label__68962001 aching muscles 
+__label__279039007 muscle aches in my lower back 
+__label__55300003 muscle spasams in face and neck 
+__label__88092000 wasting of muscles 
+__label__267044007 exercise intolerance 
+__label__88092000 loss of muscle mass in arms 
+__label__81680005 tremendous neck pain 
+__label__404640003 dizzy 
+__label__25064002 headace 
+__label__55929007 crabby 
+__label__13791008 extreme fatique 
+__label__404640003 slightly dizzy virtually all the time 
+__label__88092000 lost a lot of muscle and replacedit with fat 
+__label__422587007 stomach queasy 
+__label__80449002 muscle fatigue 
+__label__22298006 heart attackes 
+__label__49218002 hips ache 
+__label__26079004 shaky 
+__label__57676002 joint pains 
+__label__193462001 mild insomnia 
+__label__80449002 muscle fatigue in my forearms 
+__label__57676002 joints aching 
+__label__279039007 lower back ache 
+__label__81680005 neck muscle pain 
+__label__84229001 severe fatigue 
+__label__3424008 my heart rate jumped to 106 
+__label__386807006 affected my memory 
+__label__88092000 losing muscular 
+__label__161891005 backpain 
+__label__367391008 feel dreadful 
+__label__161891005 back pain 
+__label__37796009 migranes 
+__label__386807006 truble remembering 
+__label__235856003 damaged my liver permanently 
+__label__57676002 chronic pain in all my joints 
+__label__60862001 problems with tinnitus 
+__label__84229001 very fatigued 
+__label__57676002 very painful joints 
+__label__81680005 very sore neck 
+__label__131148009 bleeding 
+__label__193462001 insomnia 
+__label__49218002 muscle pain in hips 
+__label__45352006 spasm 
+__label__38341003 elevated bloodb pressure 
+__label__22253000 increasing pain 
+__label__13791008 declining physical ability 
+__label__26079004 shaking 
+__label__267044007 excercise intolerance 
+__label__68962001 muscle aching 
+__label__49049000 parkinson's 
+__label__57676002 mild joint pain 
+__label__161891005 constant back pain 
+__label__161873000 leg heaviness 
+__label__80449002 extreme muscle fatigue 
+__label__29857009 chest pain 
+__label__267044007 impaired my ability to take long walks 
+__label__271807003 red spots all over my body 
+__label__57676002 joint soreness 
+__label__81680005 sore neck 
+__label__404640003 dizziness (fainting spells) 
+__label__26544005 acute weakness in the muscles of whole body 
+__label__26544005 muscle weakness from the pevis down to my toes 
+__label__55929007 a lot grouchier 
+__label__271807003 bumps on both sides of my stomach that looks like chicken pots 
+__label__367391008 feel a bit weird 
+__label__161891005 back discomfort 
+__label__21522001 abdominal pains 
+__label__22253000 pain and stiffness 
+__label__77692006 only wanted to sleep 
+__label__81680005 neck ache 
+__label__418290006 constant itching 
+__label__161891005 muscular pain in the back 
+__label__129565002 damage to my muscles 
+__label__161891005 back ache 
+__label__386692008 clotting, and horrible periods 
+__label__88092000 arm muscles melting 
+__label__13791008 disabling fatigue 
+__label__57676002 achy joints 
+__label__55929007 irratibility 
+__label__26079004 could not stop shaking 
+__label__88092000 loss of muscle mass in hands 
+__label__9991008 abdominal cramps 
+__label__129565002 permanent muscle damage 
+__label__57676002 arthritic type pain in all joints 
+__label__202882003 plantar fasciitis 
+__label__13791008 feeling weak 
+__label__68962001 muscel pain 
+__label__49218002 pains in hips 
+__label__68962001 chronic muscle pain 
+__label__80313002 heart palpatations 
+__label__21522001 abdominal pain 
+__label__95891005 flu like symptoms 
+__label__37796009 migraine 
+__label__68962001 deep muscle pain 
+__label__26544005 loss of muscle strength 
+__label__55300003 increase in cramping 
+__label__193462001 can't even sleep at night 
+__label__54981004 charley horses 
+__label__81680005 pain in neck 
+__label__57676002 very sore and achy joints 
+__label__13791008 overall weakness 
+__label__418290006 itch 
+__label__386033004 nerve problems in shoulder 
+__label__422587007 nauseous 
+__label__22253000 pain in the lower part of my knees 
+__label__279038004 muscle pain in upper back 
+__label__422400008 vomit 
+__label__55300003 irregular cramping 
+__label__386807006 couldn't remember who i had dinner with last night 
+__label__386692008 heavy menstrual bleeding 
+__label__88092000 shrinking muscels leg 
+__label__68962001 muscles ached 
+__label__26544005 lost all strength 
+__label__279039007 low back pains 
+__label__56265001 damage your heart 
+__label__235856003 live damage 
+__label__26544005 total muscel weakness 
+__label__404640003 dizzy spells 
+__label__386807006 effect on your memory 
+__label__22298006 heart attact 
+__label__68962001 debilitating muscle pain in my arms 
+__label__267044007 exhaustion after exercise 
+__label__405729008 blood in my stool 
+__label__55929007 irritable 
+__label__279039007 lower back pain 
+__label__386807006 memory impaired 
+__label__68962001 muscle aches, 
+__label__60862001 tinnitus in my left ear 
+__label__49218002 pain in hip 
+__label__95891005 felt like i had the flu 
+__label__386807006 lost some memory 
+__label__81680005 neck hurt 
+__label__422587007 nausea 
+__label__386033004 neurophathy 
+__label__161891005 aching in back 
+__label__55300003 body cramps 
+__label__22253000 worse pain 
+__label__271807003 rash 
+__label__49218002 pains in my hip 
+__label__386705008 light-headedness feeling 
+__label__80313002 heart palputations 
+__label__81680005 muscle aches in my neck 
+__label__68962001 very bad pain in my muscles 
+__label__57676002 joint pain very arthritic 
+__label__131148009 heavy bleeding 
+__label__55300003 mild cramps 
+__label__68962001 soreness of muscles 
+__label__55300003 severe muscle spasms 
+__label__22253000 little pain 
+__label__60862001 severe tintitinitis (ringing in ears) 
+__label__13791008 weakness 
+__label__32914008 legs are restless 
+__label__26544005 decrease in overall strength 
+__label__129565002 irreversible muscle damage 
+__label__422587007 queasiness 
+__label__80449002 fatigue in arms 
+__label__26544005 when i went to sit down instead of sitng normaly i would almost fall down in the chair no control no strength, upon getting up i had to hold on to something to get up 
+__label__422587007 nausia 
+__label__81680005 neck muscle pain in the 
+__label__193462001 cant sleep 
+__label__55300003 knotting muscles 
+__label__80449002 legs feel tired 
+__label__49218002 muscle pain in hip 
+__label__161891005 wicked back pain 
+__label__386705008 light headedness 
+__label__88092000 muscle atrophy 
+__label__22298006 cardio event 
+__label__25064002 blinding headaches 
+__label__26079004 tremor 
+__label__271807003 rashes appear 
+__label__25064002 headache 
+__label__271782001 drowsy 
+__label__271807003 rash on upper left torso 
+__label__68962001 debilitating muscle pain in my back 
+__label__81680005 neck pains 
+__label__68962001 muscle ache 
+__label__386033004 neuropathy 
+__label__161891005 slight muscle aches in my back 
+__label__68962001 muscular aches and pains 
+__label__25064002 head pain 
+__label__57676002 joints hurt 
+__label__80313002 palpitations 
+__label__422587007 mild nausea 
+__label__129565002 leg muscle and thigh problems 
+__label__95891005 flu-like malaise 
+__label__279038004 pain in upper back (over left shoulder blade) 
+__label__367391008 feel pretty lousy 
+__label__3424008 tachycardia 
+__label__404640003 dizzines 
+__label__79890006 lack of attention 
+__label__8943002 wieght gain 
+__label__55300003 severe muscle cramping 
+__label__386807006 memory fog 
+__label__367391008 feel sick 
+__label__49049000 parkinson's disease 
+__label__271807003 massive triangular rash on my forehead 
+__label__26544005 weakened muscle 
+__label__68962001 sore 
+__label__22253000 knew pain 
+__label__22253000 pain bad 
+__label__54981004 charley horses in calves 
+__label__49218002 hip hurt 
+__label__80449002 tired lower arms and legs muscel 
+__label__25064002 constant headaches 
+__label__68962001 muscle soreness 
+__label__88092000 muscle atrophy arms 
+__label__161873000 heaviness in the legs 
+__label__68962001 muscle pains 
+__label__129565002 muscle issues 
+__label__235856003 damaged his liver 
+__label__129565002 damaging my muscles 
+__label__235856003 damaged my liver 
+__label__88092000 loss of muscle mass in chest 
+__label__68962001 muscle aches 
+__label__29857009 intense heart pain 
+__label__26544005 muscle weakness in mouth area 
+__label__386705008 light headedness(problem keeping balance) 
+__label__49218002 pains through my hips 
+__label__69896004 rheumatoid arthritis 
+__label__386807006 memory difficulties 
+__label__386807006 memory deficits 
+__label__399153001 spinning head 
+__label__22298006 miocardial infarction 
+__label__88092000 less muscle mass 
+__label__25064002 low grade headache 
+__label__193462001 moderate insomnia 
+__label__79890006 loss of appetite 
+__label__88092000 losing muscle 
+__label__55300003 muscle crammps 
+__label__49218002 hip hurts 
+__label__13791008 extreme fatigue 
+__label__45352006 spazms 
+__label__57676002 painful joints 
+__label__13791008 extreme fatigued 
+__label__161891005 muscle pain in back 
+__label__418290006 extreme itching on legs and arms 
+__label__418290006 itching 
+__label__386807006 increased memory loss 
+__label__49218002 muscle pain in right hip 
+__label__57676002 jointaches 
+__label__161891005 back soreness 
+__label__279039007 very painful muscle aches in lower back 
+__label__77692006 sleep alot 
+__label__49218002 hip soreness 
+__label__54981004 charley horse in one or both breasts 
+__label__26544005 weak muscles 
+__label__13791008 weaker 
+__label__22253000 extra pains 
+__label__161891005 sore back 
+__label__193462001 insomia 
+__label__279039007 tenderness in the lower back 
+__label__68962001 muscels hurts 
+__label__68962001 sore weak muscles 
+__label__21522001 extreme stomach pain 
+__label__404640003 dizziness 
+__label__68962001 all-over muscle pain 
+__label__68962001 muscle aces 
+__label__32914008 attack of restless leg syndrome 
+__label__16386004 dry skin 
+__label__422400008 throw up 
+__label__55300003 horrific cramps 
+__label__26544005 extreme muscle weakness 
+__label__55300003 muscle cramps 
+__label__9991008 abominal cramps 
+__label__56265001 heart damage 
+__label__26544005 lost muscular strength 
+__label__84229001 constant fatigue 
+__label__399153001 room spinning 
+__label__95891005 felt flu-like 
+__label__68962001 muscle pain over the entire body 
+__label__55929007 crabbiness 
+__label__25064002 mild headache 
+__label__386705008 light head 
+__label__57676002 feet joint pain similar to arthritis 
+__label__193462001 sleeplessness 
+__label__22253000 aches 
+__label__129565002 muscle problem 
+__label__55300003 cramps in chest 
+__label__13791008 weak feeling 
+__label__13791008 extremely fatigued 
+__label__235856003 wrong with my liver 
+__label__399153001 vertigo like attack 
+__label__25064002 terrible headaches 
+__label__38341003 hypertension 
+__label__55300003 severe muscle spasms in my legs 
+__label__161891005 pains in my back 
+__label__13791008 felt very weak 
+__label__80449002 fatigue in legs 
+__label__22298006 heart attacks 
+__label__13791008 debilitated 
+__label__422587007 nauseated 
+__label__271807003 rashes 
+__label__161873000 heavy legs 
+__label__386807006 poor memory 
+__label__68962001 very bad muscle pain 
+__label__84229001 feelings of fatigue 
+__label__161891005 back muscle pain in the 
+__label__161891005 pain back 
+__label__21522001 lower abdominal pain 
+__label__418290006 intolerable itching 
+__label__38341003 elevated blood pressure 
+__label__21522001 constant soreness in abdomen 
+__label__49218002 hip pains 
+__label__69896004 rheumatoid arthriitis 
+__label__26079004 right hand tremor 
+__label__68962001 muscle aches and pain 
+__label__68962001 mild muscle pain 
+__label__55929007 very irritable 
+__label__77692006 constant sleepiness 
+__label__55300003 severe muscle cramps 
+__label__54981004 terrible charlie horses 
+__label__161873000 lead legs 
+__label__279039007 muscle pain in the lower back 
+__label__57676002 chronic bone/joint pain 
+__label__13791008 weak and wobbly unbalanced 
+__label__68962001 soreness in muscles 
+__label__49218002 hip joint pain 
+__label__193462001 insommnia 
+__label__29857009 chest pains 
+__label__418290006 itchiness 
+__label__25064002 extreme headaches 
+__label__44054006 type ii diabetes 
+__label__79890006 lack of appetite 
+__label__80449002 weariness of the leg muscles 
+__label__60862001 tinititis 
+__label__271807003 rash on my wrist 
+__label__57676002 aching joints 
+__label__405729008 blood in bowel movements 
+__label__55300003 cramping feeling 
+__label__386692008 heavy menstral cycles 
+__label__399153001 severe vertigo 
+__label__54981004 charlie horse in my calves 
+__label__68962001 achy muscles 
+__label__29857009 chest pain left side 
+__label__367391008 malaise 
+__label__68962001 muscle pain 
+__label__68962001 chronic pain in all my muscles 
+__label__57676002 arthritis pain 
+__label__386705008 light headed 
+__label__80449002 legs felt like they had run a marathon 
+__label__25064002 head aches 
+__label__88092000 muscle atrophy legs 
+__label__57676002 sore joints 
+__label__68962001 inflamatory muscle pain 
+__label__22253000 so much pain 
+__label__68962001 terrible, migratory joint pain all over my body 
+__label__131148009 bleeding constantly 
+__label__77692006 falling asleep all the time 
+__label__55300003 cramped 
+__label__25064002 frequent headaches 
+__label__21522001 pain in my stomach 
+__label__49218002 hip pain 
+__label__95891005 i felt like i always had the flu 
+__label__386807006 not able to remember things like whether i had done something or where i had placed something 
+__label__271807003 red dots on skin all over body 
+__label__32914008 restlessness in my legs 
+__label__68962001 unbearable muscle pain 
+__label__26544005 muscle weakness 
+__label__37796009 migrains 
+__label__22253000 pain in every muscle 
+__label__68962001 muscles slightly sore 
+__label__68962001 sore muscles 
+__label__22253000 hurt 
+__label__22253000 pain 
+__label__57676002 joint aches 
+__label__95891005 flu like synptoms 
+__label__57676002 joint ache 
+__label__80313002 heart palpitations 
+__label__25064002 bad headache 
+__label__49218002 severe muscle pain in hip joints 
+__label__44054006 type 11 diabetic 
+__label__26544005 decrease in muscle strength 
+__label__26544005 lost all the strength in my muscles 
+__label__13791008 extreme weakness 
+__label__22253000 aching 
+__label__129565002 muscle dmaage 
+__label__22253000 soreness 
+__label__80449002 in the triceps arm fatigue 
+__label__271782001 bit drowsy 
+__label__202882003 sore feet (faciitis) 
+__label__69896004 rematoid arthro 
+__label__8943002 gained a lot of weight 
+__label__68962001 musclesoreness 
+__label__26544005 lack of strength 
+__label__88092000 muscle degenerating 
+__label__45352006 bad cramps 
+__label__279039007 muscle pain lower back 
+__label__22253000 afterpain 
+__label__405729008 passing blood and clots with stoals 
+__label__54981004 charley horses in feet 
+__label__68962001 sore cheek muscles 
+__label__386807006 couldnt remember anything 
+__label__13791008 overall weak feeling 
+__label__193462001 sleepless nites 
+__label__29857009 pain in chest 
+__label__26079004 tremors in right hand 
+__label__49218002 my hips hurt on both sides 
+__label__68962001 leg muscle discomfort 
+__label__80449002 tiredness in leg 
+__label__57676002 finger joint pain similar to arthritis 
+__label__68962001 muscle aches in legs 
+__label__131148009 bleeding has not subsided 
+__label__8943002 gaining excess weight 
+__label__367391008 malaisse 
+__label__88092000 shrinking muscels neck 
+__label__129565002 problems with various muscles 
+__label__81680005 neck pain up to the back of the head 
+__label__386692008 slightly heavier menstrual cycle 
+__label__422587007 naseua 
+__label__55300003 major cramps 
+__label__55929007 irritability 
+__label__32914008 restless leg syndrom 
+__label__271807003 skin rash back of my neck 
+__label__22298006 myocardial infarction 
+__label__49218002 terrible pain in hips 
+__label__161891005 aching muscles in back 
+__label__131148009 bleed 
+__label__279038004 pain between my shoulder blades 
+__label__95891005 flu symptons 
+__label__88092000 shrinking muscels arms 
+__label__422587007 wanted to vomit 
+__label__8943002 put weight on suddenly for no reason 
+__label__54981004 charlie horses 
+__label__55300003 muscle cramping 
+__label__55300003 excessive cramping 
+__label__22253000 ache 
+__label__399153001 vertigo 
+__label__367391008 feel like shit all the time 
+__label__129565002 muscle damage 

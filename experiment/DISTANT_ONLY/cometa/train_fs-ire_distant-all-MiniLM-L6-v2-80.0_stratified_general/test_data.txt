@@ -1,0 +1,1660 @@
+__label__387172005 5FU
+__label__73916008 5HTP
+__label__73916008 5HTP
+__label__372720008 AD
+__label__372720008 AD
+__label__35253001 ADD
+__label__35253001 ADD
+__label__406506008 ADHD
+__label__406506008 ADHD
+__label__49436004 AFIB
+__label__49436004 AFIB
+__label__62479008 AIDS
+__label__62479008 AIDS
+__label__86044005 ALS
+__label__91861009 AML
+__label__91861009 AML
+__label__45530001 ANA
+__label__26843008 APS
+__label__387501005 ASA
+__label__387501005 ASA
+__label__26665006 ASPD
+__label__26665006 ASPD
+__label__76711004 ATP
+__label__372574004 AZA
+__label__372574004 AZA
+__label__128477000 Abscess
+__label__128477000 Abscess
+__label__387517004 Acetaminophen
+__label__387517004 Acetaminophen
+__label__61352006 Achilles
+__label__61352006 Achilles
+__label__386938006 Acitretin
+__label__386938006 Acitretin
+__label__91857003 Acute Lymphoblastic Leukemia
+__label__363732003 Addison
+__label__363732003 Addison
+__label__784314006 Adenomyosis
+__label__387362001 Adrenaline
+__label__387362001 Adrenaline
+__label__372817009 Adriamycin
+__label__372817009 Adriamycin
+__label__387207008 Advil
+__label__387207008 Advil
+__label__372897005 Albuterol
+__label__372897005 Albuterol
+__label__372588000 Aleve
+__label__372588000 Aleve
+__label__372522002 Allegra
+__label__372522002 Allegra
+__label__70496003 Alpha Lipoic Acid
+__label__70496003 Alpha Lipoic Acid
+__label__386983007 Alprazolam
+__label__386983007 Alprazolam
+__label__26929004 Alzheimer
+__label__26929004 Alzheimer
+__label__386966003 Amaryl
+__label__386966003 Amaryl
+__label__387569009 Ambien
+__label__387569009 Ambien
+__label__363571003 Amerge
+__label__363571003 Amerge
+__label__52518006 Amino acid
+__label__52518006 Amino acid
+__label__111151007 Anabolic Steroids
+__label__372903001 Anafranil
+__label__372903001 Anafranil
+__label__386981009 Arava
+__label__386981009 Arava
+__label__53120007 Arm
+__label__428694009 Armodafinil
+__label__428694009 Armodafinil
+__label__23560001 Asperger
+__label__23560001 Asperger
+__label__372520005 Astelin
+__label__372520005 Astelin
+__label__372856003 Atarax
+__label__372856003 Atarax
+__label__387106007 Ativan
+__label__387106007 Ativan
+__label__37746008 AvPD
+__label__37746008 AvPD
+__label__363569003 Axert
+__label__190634004 B12 deficiency
+__label__190634004 B12 deficiency
+__label__13235001 B2
+__label__13235001 B2
+__label__83482000 BDD
+__label__83482000 BDD
+__label__20010003 BPD
+__label__20010003 BPD
+__label__419760006 BV
+__label__419760006 BV
+__label__44882003 Balantitis
+__label__44882003 Balantitis
+__label__411529005 Basaglar
+__label__411529005 Basaglar
+__label__387173000 Belbuca
+__label__387173000 Belbuca
+__label__372682005 Benadryl
+__label__372682005 Benadryl
+__label__372732007 Bentyl
+__label__372732007 Bentyl
+__label__116571008 Betamethasone
+__label__116571008 Betamethasone
+__label__8919000 Biotin
+__label__8919000 Biotin
+__label__708717008 Brintellix
+__label__708717008 Brintellix
+__label__387564004 Bupropion
+__label__387564004 Bupropion
+__label__387523009 Buspar
+__label__387523009 Buspar
+__label__387563005 Butalbital
+__label__387563005 Butalbital
+__label__14806007 C1
+__label__190905008 CF
+__label__190905008 CF
+__label__13213009 CHD
+__label__709044004 CKD
+__label__709044004 CKD
+__label__396550006 CMP
+__label__396550006 CMP
+__label__21483005 CNS
+__label__21483005 CNS
+__label__31811003 CO2
+__label__31811003 CO2
+__label__13645005 COPD
+__label__82423001 CP
+__label__82423001 CP
+__label__443919007 CPTSD
+__label__781382000 CRC
+__label__781382000 CRC
+__label__128200000 CRPS
+__label__128200000 CRPS
+__label__65216001 CSF
+__label__65216001 CSF
+__label__230744007 CSF leak
+__label__49601007 CVD
+__label__49601007 CVD
+__label__18773000 CVS
+__label__18773000 CVS
+__label__255641001 Caffeine
+__label__255641001 Caffeine
+__label__387222003 Carbamazepine
+__label__387222003 Carbamazepine
+__label__116081000 Celebrex
+__label__116081000 Celebrex
+__label__372596005 Celexa
+__label__372596005 Celexa
+__label__126108008 Cerazette
+__label__126108008 Cerazette
+__label__128188000 Cerebral Palsy
+__label__128188000 Cerebral Palsy
+__label__253184003 Chiari
+__label__253184003 Chiari
+__label__407111005 Cialis
+__label__400447003 Cipralex
+__label__400447003 Cipralex
+__label__372840008 Cipro
+__label__372840008 Cipro
+__label__386884002 Claratin
+__label__386884002 Claratin
+__label__32197004 Clobex
+__label__32197004 Clobex
+__label__387383007 Clonazepam
+__label__387383007 Clonazepam
+__label__372805007 Clonidine
+__label__372805007 Clonidine
+__label__412129003 CoQ10
+__label__412129003 CoQ10
+__label__387494007 Codeine
+__label__387494007 Codeine
+__label__387088007 Colace
+__label__32498003 Cortisone
+__label__32498003 Cortisone
+__label__129127001 Coumadin
+__label__129127001 Coumadin
+__label__700067006 Crestor
+__label__50440006 Crohn ' s colitis
+__label__373779004 Cyclobenzaprine
+__label__373779004 Cyclobenzaprine
+__label__387467008 Cyclosporine
+__label__387467008 Cyclosporine
+__label__407032004 Cymbalta
+__label__407032004 Cymbalta
+__label__387242007 Cytotec
+__label__387242007 Cytotec
+__label__18414002 D3
+__label__18414002 D3
+__label__77547008 DDD
+__label__77547008 DDD
+__label__387267005 DHE
+__label__387267005 DHE
+__label__73211009 DIABETES
+__label__73211009 DIABETES
+__label__420422005 DKA
+__label__420422005 DKA
+__label__128053003 DVT
+__label__128053003 DVT
+__label__387114001 DXM
+__label__387114001 DXM
+__label__398123003 Dawn Phenomenon
+__label__398123003 Dawn Phenomenon
+__label__372584003 Decadron
+__label__372584003 Decadron
+__label__412363005 Desonide
+__label__387278002 Dexedrine
+__label__387278002 Dexedrine
+__label__441863009 Dexilant
+__label__372709008 Diamox
+__label__387264003 Diazepam
+__label__387264003 Diazepam
+__label__386934008 Differin
+__label__44508008 Diluadid
+__label__44508008 Diluadid
+__label__88736007 Dovobet
+__label__88736007 Dovobet
+__label__395766004 Dovonex
+__label__395766004 Dovonex
+__label__387469006 Dramamine
+__label__387469006 Dramamine
+__label__397803000 ED
+__label__397803000 ED
+__label__398114001 EDS
+__label__398114001 EDS
+__label__37109004 Ebola
+__label__37109004 Ebola
+__label__372490001 Effexor
+__label__372490001 Effexor
+__label__372726002 Elavil
+__label__372726002 Elavil
+__label__410843003 Eletriptan
+__label__410843003 Eletriptan
+__label__698090000 Eliquis
+__label__395726003 Entocort
+__label__395726003 Entocort
+__label__235599003 EoE
+__label__235599003 EoE
+__label__387202002 Epsom salts
+__label__387202002 Epsom salts
+__label__32861005 Erythema Nodosum
+__label__32861005 Erythema Nodosum
+__label__81745001 Eye
+__label__81745001 Eye
+__label__83157008 FFI
+__label__203082005 FM
+__label__203082005 FM
+__label__89545001 Face
+__label__89545001 Face
+__label__31435000 Fallopian tubes
+__label__31435000 Fallopian tubes
+__label__703674001 Farxiga
+__label__386911004 Femara
+__label__386911004 Femara
+__label__386963006 Finasteride
+__label__386963006 Finasteride
+__label__7569003 Finger
+__label__7569003 Finger
+__label__372602008 Flagyl
+__label__372602008 Flagyl
+__label__767715008 Focalin
+__label__411990007 Frova
+__label__411990007 Frova
+__label__259100002 GABA
+__label__259100002 GABA
+__label__21897009 GAD
+__label__21897009 GAD
+__label__40956001 GBS
+__label__235595009 GERD
+__label__235595009 GERD
+__label__74474003 GI bleeding
+__label__53619000 GI issues
+__label__122865005 GI tract
+__label__122865005 GI tract
+__label__234646005 GVHD
+__label__4556007 Gastritis
+__label__4556007 Gastritis
+__label__409356003 Geodon
+__label__414460008 Gleevec
+__label__414460008 Gleevec
+__label__384978002 Glyburide
+__label__384978002 Glyburide
+__label__353295004 Graves
+__label__353295004 Graves
+__label__38341003 HBP
+__label__38341003 HBP
+__label__109841003 HCC
+__label__109841003 HCC
+__label__240532009 HPV
+__label__240532009 HPV
+__label__22253000 HURTS
+__label__22253000 HURTS
+__label__386984001 Halcion
+__label__85562004 Hand
+__label__85562004 Hand
+__label__21983002 Hashi
+__label__21983002 Hashi
+__label__69536005 Head
+__label__69536005 Head
+__label__80891009 Heart
+__label__80891009 Heart
+__label__16331000 Heartburn
+__label__16331000 Heartburn
+__label__373568007 Hibiclens
+__label__373568007 Hibiclens
+__label__29836001 Hip
+__label__29836001 Hip
+__label__14537002 Hodgkin ’ s lymphoma
+__label__396458002 Hydrocortisone
+__label__396458002 Hydrocortisone
+__label__24526004 IBD
+__label__24526004 IBD
+__label__10743008 IBS
+__label__10743008 IBS
+__label__44054006 II diabetes
+__label__44054006 II diabetes
+__label__68267002 IIH
+__label__68267002 IIH
+__label__763325000 IR
+__label__763325000 IR
+__label__32457005 ISF
+__label__32457005 ISF
+__label__14152002 IV infusion
+__label__14152002 IV infusion
+__label__395892000 Imatrex
+__label__395892000 Imatrex
+__label__386941002 Imiquimod
+__label__387040009 Imodium
+__label__387040009 Imodium
+__label__66347000 Impulse Control Disorder
+__label__372772003 Inderal
+__label__372772003 Inderal
+__label__373513008 Indocin
+__label__373513008 Indocin
+__label__426276000 Invega
+__label__703894008 Jardiance
+__label__372572000 Kamagra
+__label__372572000 Kamagra
+__label__372642003 Ketotifen
+__label__716125002 Keytruda
+__label__716125002 Keytruda
+__label__95570007 Kidney Stone
+__label__95570007 Kidney Stone
+__label__89321004 Koebner
+__label__89321004 Koebner
+__label__414581006 LPR
+__label__414581006 LPR
+__label__387562000 Lamictal
+__label__387562000 Lamictal
+__label__373450007 Lamisil
+__label__373450007 Lamisil
+__label__386888004 Lansoprazole
+__label__386888004 Lansoprazole
+__label__703115008 Latuda
+__label__93143009 Leukaemia
+__label__93143009 Leukaemia
+__label__372866006 Librium
+__label__387480006 Lidocaine
+__label__387480006 Lidocaine
+__label__703126002 Linzess
+__label__373567002 Losartan
+__label__373567002 Losartan
+__label__387325003 Lotrimin
+__label__387325003 Lotrimin
+__label__409420000 Lunesta
+__label__372905008 Luvox
+__label__372905008 Luvox
+__label__23502006 Lyme
+__label__23502006 Lyme
+__label__415160008 Lyrica
+__label__415160008 Lyrica
+__label__126102009 Lyza
+__label__126102009 Lyza
+__label__40070004 MC
+__label__40070004 MC
+__label__370143000 MDD
+__label__370143000 MDD
+__label__109995007 MDS
+__label__22298006 MI
+__label__109989006 MM
+__label__609561005 MODY
+__label__24700007 MS
+__label__24700007 MS
+__label__387381009 MTX
+__label__387381009 MTX
+__label__409712001 MVP
+__label__19346006 Marfan syndrome
+__label__125541005 Mastocytosis
+__label__125541005 Mastocytosis
+__label__363573000 Maxalt
+__label__363573000 Maxalt
+__label__372879002 Meclizine
+__label__372879002 Meclizine
+__label__125605004 Medtronic pumps
+__label__125605004 Medtronic pumps
+__label__63653004 Medtronics
+__label__387055000 Meloxicam
+__label__387055000 Meloxicam
+__label__406458000 Memantine
+__label__406458000 Memantine
+__label__13445001 Meniere
+__label__13445001 Meniere
+__label__74732009 Mental illness
+__label__74732009 Mental illness
+__label__62064005 Mesothelioma
+__label__387286002 Methadone
+__label__387286002 Methadone
+__label__126074008 Methergine
+__label__72717003 Mg
+__label__72717003 Mg
+__label__37796009 Migraines
+__label__37796009 Migraines
+__label__387004007 Modafinil
+__label__387004007 Modafinil
+__label__372738006 Monistat
+__label__373529000 Morphine
+__label__373529000 Morphine
+__label__87174009 Mucinex
+__label__87174009 Mucinex
+__label__68962001 Muscle pain
+__label__68962001 Muscle pain
+__label__387440002 NAC
+__label__84619001 NGU
+__label__80711002 NPD
+__label__80711002 NPD
+__label__16403005 NSAID
+__label__16403005 NSAID
+__label__254637007 NSCLC
+__label__395806009 Nabilone
+__label__372890007 Narcan
+__label__372890007 Narcan
+__label__116594009 Nasacort
+__label__116594009 Nasacort
+__label__386845007 Neurontin
+__label__386845007 Neurontin
+__label__386033004 Neuropathy
+__label__386033004 Neuropathy
+__label__372652004 Nortriptyline
+__label__372652004 Nortriptyline
+__label__441757005 Nucynta
+__label__441757005 Nucynta
+__label__372791003 NyQuil
+__label__432807008 OAS
+__label__432807008 OAS
+__label__191736004 OCD
+__label__191736004 OCD
+__label__1376001 OCPD
+__label__18941000 ODD
+__label__113076002 OGTT
+__label__113076002 OGTT
+__label__78275009 OSA
+__label__373265006 OTC painkillers
+__label__373265006 OTC painkillers
+__label__386849001 Olanzapine
+__label__386849001 Olanzapine
+__label__387137007 Omeprazole
+__label__387137007 Omeprazole
+__label__372487007 Ondansetron
+__label__372487007 Ondansetron
+__label__24751001 Opana
+__label__24751001 Opana
+__label__55452001 OxyContin
+__label__55452001 OxyContin
+__label__156370009 PA
+__label__156370009 PA
+__label__35919005 PDD
+__label__35919005 PDD
+__label__59282003 PE
+__label__59282003 PE
+__label__202882003 PF
+__label__202882003 PF
+__label__711263002 PFD
+__label__711263002 PFD
+__label__204317008 PFO
+__label__198130006 PID
+__label__198130006 PID
+__label__82525005 PKD
+__label__596004 PMDD
+__label__596004 PMDD
+__label__22255007 PML
+__label__82639001 PMS
+__label__371073003 POTS
+__label__371073003 POTS
+__label__58703003 PPD
+__label__58703003 PPD
+__label__197441003 PSC
+__label__197441003 PSC
+__label__20427003 PTS
+__label__47505003 PTSD
+__label__47505003 PTSD
+__label__17338001 PVC
+__label__17338001 PVC
+__label__387374002 Paclitaxel
+__label__387374002 Paclitaxel
+__label__15776009 Pancreas
+__label__15776009 Pancreas
+__label__395821003 Pantoprazole
+__label__395821003 Pantoprazole
+__label__49049000 Parkinson
+__label__49049000 Parkinson
+__label__372595009 Paxil
+__label__372595009 Paxil
+__label__387211002 Pepcid
+__label__387211002 Pepcid
+__label__373540008 Plaquenil
+__label__373540008 Plaquenil
+__label__698871007 Pradaxa
+__label__387433003 Prazosin
+__label__387433003 Prazosin
+__label__714628002 Prediabetes
+__label__714628002 Prediabetes
+__label__116601002 Prednisolone
+__label__116601002 Prednisolone
+__label__372853006 Prochlorperazine
+__label__372853006 Prochlorperazine
+__label__16683002 Progesterone
+__label__16683002 Progesterone
+__label__387423006 Propofol
+__label__387423006 Propofol
+__label__372767007 Prozac
+__label__372767007 Prozac
+__label__372900003 Pseudoephedrine
+__label__372900003 Pseudoephedrine
+__label__69896004 RA
+__label__69896004 RA
+__label__41898006 RBC
+__label__77089006 RF
+__label__77089006 RF
+__label__32914008 RLS
+__label__32914008 RLS
+__label__372755005 Ranitidine
+__label__372755005 Ranitidine
+__label__195295006 Raynaud
+__label__195295006 Raynaud
+__label__372523007 Reactine
+__label__372523007 Reactine
+__label__372776000 Reglan
+__label__372776000 Reglan
+__label__386847004 Remeron
+__label__386847004 Remeron
+__label__387300007 Restoril
+__label__387300007 Restoril
+__label__5665001 Retina
+__label__5665001 Retina
+__label__716069007 Rexulti
+__label__386840002 Risperdal
+__label__386840002 Risperdal
+__label__442031002 Rivaroxaban
+__label__442031002 Rivaroxaban
+__label__387486000 Robaxacet
+__label__387486000 Robaxacet
+__label__372670001 Rocephin
+__label__372670001 Rocephin
+__label__247803002 SAD
+__label__247803002 SAD
+__label__402815007 SCC
+__label__402815007 SCC
+__label__197480006 SD
+__label__197480006 SD
+__label__709489006 SFN
+__label__709489006 SFN
+__label__55464009 SLE
+__label__412310002 SLS
+__label__52954000 SPD
+__label__52954000 SPD
+__label__8098009 STD
+__label__8098009 STD
+__label__53406005 Scheuermann ' s disease
+__label__91175000 Seizure
+__label__91175000 Seizure
+__label__386850001 Seroquel
+__label__386850001 Seroquel
+__label__372594008 Sertaline
+__label__372594008 Sertaline
+__label__373728005 Singulair
+__label__373728005 Singulair
+__label__83901003 Sjogren
+__label__83901003 Sjogren
+__label__277180005 Sleep paralysis
+__label__25501002 Social Anxiety
+__label__25501002 Social Anxiety
+__label__387133006 Soma
+__label__387012004 Sonata
+__label__422042001 Sorafenib
+__label__710806008 Sovaldi
+__label__387078006 Spiro
+__label__387078006 Spiro
+__label__443465002 Stelara
+__label__443465002 Stelara
+__label__69695003 Stomach
+__label__69695003 Stomach
+__label__116289008 Stomach bloating
+__label__116289008 Stomach bloating
+__label__407037005 Strattera
+__label__65124004 Swelling
+__label__65124004 Swelling
+__label__46635009 T1
+__label__46635009 T1
+__label__73187006 T4
+__label__73187006 T4
+__label__56717001 TB
+__label__56717001 TB
+__label__127295002 TBI
+__label__127295002 TBI
+__label__72024007 THC
+__label__266257000 TIA
+__label__266257000 TIAs
+__label__41888000 TMD
+__label__41888000 TMD
+__label__31681005 TN
+__label__31681005 TN
+__label__128210009 TOS
+__label__128210009 TOS
+__label__18504008 TSS
+__label__373541007 Tagamet
+__label__373541007 Tagamet
+__label__373345002 Tamoxifen
+__label__373345002 Tamoxifen
+__label__81634008 Tarlov cysts
+__label__387009002 Temodar
+__label__387009002 Temodar
+__label__76505004 Thumbs
+__label__373440006 Tizanidine
+__label__373440006 Tizanidine
+__label__21974007 Tongue
+__label__21974007 Tongue
+__label__386844006 Topiramate
+__label__386844006 Topiramate
+__label__5158005 Tourette
+__label__5158005 Tourette
+__label__417746004 Trauma
+__label__417746004 Trauma
+__label__387025007 Trileptal
+__label__64766004 UC
+__label__64766004 UC
+__label__418107008 Unconscious
+__label__418107008 Unconscious
+__label__44068004 Unisom
+__label__44068004 Unisom
+__label__88882009 Vagus nerve
+__label__96098007 Valtrex
+__label__96098007 Valtrex
+__label__373476007 Versed
+__label__373476007 Versed
+__label__399153001 Vertigo
+__label__399153001 Vertigo
+__label__702837008 Viibryd
+__label__387008005 Vioxx
+__label__34713006 Vitamin D deficiency
+__label__34713006 Vitamin D deficiency
+__label__52501007 WBC
+__label__52501007 WBC
+__label__88518009 WD
+__label__11713004 Water
+__label__11713004 Water
+__label__8943002 Weight gain
+__label__8943002 Weight gain
+__label__56018004 Wheezing
+__label__56018004 Wheezing
+__label__704313003 Xeljanz
+__label__386906001 Xeloda
+__label__412553001 Xifaxan
+__label__406443008 Xolair
+__label__410917003 Xyrem
+__label__421889003 Xyzal
+__label__421889003 Xyzal
+__label__410919000 Yasmin
+__label__410919000 Yasmin
+__label__363582006 Zomig
+__label__363582006 Zomig
+__label__125693002 Zonegran
+__label__125693002 Zonegran
+__label__21522001 abdomen pain
+__label__21522001 abdomen pain
+__label__75879005 abdominal migraines
+__label__406784005 abilify
+__label__406784005 abilify
+__label__386639001 abortion
+__label__255631004 abx
+__label__255631004 abx
+__label__387208003 accutane
+__label__387208003 accutane
+__label__4370008 acetone
+__label__57676002 achy joints
+__label__57676002 achy joints
+__label__51387008 acidosis
+__label__11381005 acne
+__label__11381005 acne
+__label__197456007 acute pancreatitis
+__label__372729009 acyclovir
+__label__35917007 adenocarcinoma
+__label__35431001 adenosine
+__label__42685002 adhesions
+__label__23451007 adrenal
+__label__23451007 adrenal
+__label__70691001 agoraphobia
+__label__70691001 agoraphobia
+__label__89187006 airway
+__label__89187006 airway
+__label__419076005 allergic
+__label__419076005 allergic
+__label__238575004 allergic contact dermatitis
+__label__61582004 allergic rhinitis
+__label__300913006 allergic to shellfish
+__label__300913006 allergic to shellfish
+__label__420174000 allergic to wheat
+__label__420174000 allergic to wheat
+__label__182678001 allergy shots
+__label__252512005 allergy test
+__label__252512005 allergy test
+__label__247404004 allodynia
+__label__387135004 allopurinol
+__label__56317004 alopecia
+__label__56317004 alopecia
+__label__14302001 amenorrhea
+__label__14302001 amenorrhea
+__label__43953005 ammonia
+__label__48167000 amnesia
+__label__48167000 amnesia
+__label__372687004 amox
+__label__372687004 amox
+__label__703842006 amphetamine
+__label__703842006 amphetamine
+__label__4958002 amygdala
+__label__271737000 anaemia
+__label__271737000 anaemia
+__label__30037006 anal fissure
+__label__30037006 anal fissure
+__label__39579001 anaphylactic
+__label__39579001 anaphylactic
+__label__194828000 angina
+__label__194828000 angina
+__label__28669007 anhedonia
+__label__9631008 ankylosing spondylitis
+__label__257553007 annoyance
+__label__257553007 annoyance
+__label__79890006 anorexia
+__label__79890006 anorexia
+__label__52017007 anti - emetics
+__label__52017007 anti - emetics
+__label__373282008 anti anxiety medication
+__label__372482001 anti psychotics
+__label__372482001 anti psychotics
+__label__255632006 anti seizure meds
+__label__255632006 anti seizure meds
+__label__26843008 antiphospholipid syndrome
+__label__48694002 anxieties
+__label__48694002 anxieties
+__label__20602000 apathetic
+__label__20602000 apathetic
+__label__1023001 apnea
+__label__1023001 apnea
+__label__74400008 appendicitis
+__label__8217007 arachnoiditis
+__label__422543003 armpit
+__label__422543003 armpit
+__label__698247007 arrhythmia
+__label__698247007 arrhythmia
+__label__47809000 arsenic
+__label__51114001 artery
+__label__389026000 ascites
+__label__11526002 aspartame
+__label__11526002 aspartame
+__label__387458008 aspirin
+__label__387458008 aspirin
+__label__195967001 asthma
+__label__195967001 asthma
+__label__387506000 atenolol
+__label__38716007 atherosclerosis
+__label__24079001 atopic dermatitis
+__label__373444002 atorvastatin
+__label__373444002 atorvastatin
+__label__18618006 aura
+__label__18618006 aura
+__label__85828009 auto - immune disease
+__label__85828009 auto - immune disease
+__label__277879009 autonomic neuropathy
+__label__77568009 back
+__label__161891005 back ache
+__label__161891005 back ache
+__label__387342009 baclofen
+__label__41146007 bacterium
+__label__41146007 bacterium
+__label__40689003 balls
+__label__40689003 balls
+__label__91598004 benzoyl peroxide
+__label__13746004 bi - polar disorder
+__label__13746004 bi - polar disorder
+__label__9733003 bile reflux
+__label__86273004 biopsies
+__label__86273004 biopsies
+__label__55929007 bitchy
+__label__55929007 bitchy
+__label__247467008 blackheads
+__label__271594007 blackouts
+__label__271594007 blackouts
+__label__131148009 bleeding
+__label__131148009 bleeding
+__label__64779008 bleeding disorder
+__label__64779008 bleeding disorder
+__label__339008 blister
+__label__339008 blister
+__label__60728008 bloat
+__label__60728008 bloat
+__label__248490000 bloated feeling
+__label__248490000 bloated feeling
+__label__81060008 blockage
+__label__81060008 blockage
+__label__87612001 blood
+__label__87612001 blood
+__label__34093004 blood disorder
+__label__302866003 blood sugar is low
+__label__302866003 blood sugar is low
+__label__80394007 blood sugar spikes
+__label__80394007 blood sugar spikes
+__label__59820001 blood vessel
+__label__59820001 blood vessel
+__label__405729008 bloody stool
+__label__405729008 bloody stool
+__label__271807003 body rash
+__label__271807003 body rash
+__label__115239009 bone cancer
+__label__64859006 bone damage
+__label__64859006 bone damage
+__label__88998003 bone spurs
+__label__53430007 boobs hurt
+__label__53430007 boobs hurt
+__label__70597009 boron
+__label__48867003 bradycardia
+__label__81308009 brain disease
+__label__82271004 brain injuries
+__label__82271004 brain injuries
+__label__15926001 brainstem
+__label__225624000 breakdowns
+__label__225624000 breakdowns
+__label__254837009 breast cancer
+__label__254837009 breast cancer
+__label__89164003 breast lump
+__label__56873002 breastbone
+__label__56873002 breastbone
+__label__267036007 breathless
+__label__267036007 breathless
+__label__67233009 broken sleep
+__label__32398004 bronchitis
+__label__32398004 bronchitis
+__label__10847001 bronchoscopy
+__label__125667009 bruising
+__label__125667009 bruising
+__label__73589001 bulging disc
+__label__73589001 bulging disc
+__label__78004001 bulimia
+__label__78004001 bulimia
+__label__271834000 burping
+__label__271834000 burping
+__label__84017003 bursitis
+__label__84017003 bursitis
+__label__30704002 butterfly rash
+__label__226361007 butyrate
+__label__238108007 cachexia
+__label__259333003 calcitriol
+__label__5540006 calcium
+__label__387307005 calcium carbonate
+__label__201040000 callus
+__label__201040000 callus
+__label__193462001 can ' t sleep
+__label__193462001 can ' t sleep
+__label__363346000 cancer
+__label__363346000 cancer
+__label__372512008 candesartan
+__label__78048006 candidiasis
+__label__78048006 candidiasis
+__label__95995002 capsaicin
+__label__51765001 carbon monoxide
+__label__113257007 cardiovascular
+__label__113257007 cardiovascular
+__label__57406009 carpal tunnel
+__label__57406009 carpal tunnel
+__label__7173007 cauda equina
+__label__192970008 cauda equina syndrome
+__label__2483006 cavity
+__label__32713005 cecum
+__label__32713005 cecum
+__label__396331005 celiac
+__label__396331005 celiac
+__label__128045006 cellulitis
+__label__113305005 cerebellum
+__label__84667006 cervical vertebrae
+__label__279016001 cervicogenic
+__label__279016001 cervicogenic
+__label__71252005 cervix
+__label__238474002 chaffing
+__label__238474002 chaffing
+__label__60819002 cheek
+__label__60819002 cheek
+__label__441900009 chemicals
+__label__43799004 chest cavity
+__label__50417007 chest cold
+__label__29857009 chest hurts
+__label__29857009 chest hurts
+__label__38907003 chicken pox
+__label__38907003 chicken pox
+__label__105629000 chlamydia
+__label__50213009 chloride
+__label__65123005 choline
+__label__73098005 cholinergic urticaria
+__label__68154008 chronic cough
+__label__247398009 chronic nerve pain
+__label__247398009 chronic nerve pain
+__label__235494005 chronic pancreatitis
+__label__75399008 citric acid
+__label__19887002 claustrophobia
+__label__19887002 claustrophobia
+__label__51299004 clavicle
+__label__51299004 clavicle
+__label__65439009 clitoris
+__label__65439009 clitoris
+__label__419129004 clobetasol
+__label__64688005 coccyx
+__label__64688005 coccyx
+__label__82272006 cold
+__label__82272006 cold
+__label__1475003 cold sore
+__label__1475003 cold sore
+__label__23968004 colectomy
+__label__23968004 colectomy
+__label__64226004 colitis
+__label__46621007 collapsed lung
+__label__392003006 colposcopy
+__label__392003006 colposcopy
+__label__371632003 coma
+__label__234532001 compromised immune system
+__label__234532001 compromised immune system
+__label__40425004 concussion syndrome
+__label__9826008 conjunctivitis
+__label__9826008 conjunctivitis
+__label__105969002 connective tissue disorder
+__label__105969002 connective tissue disorder
+__label__84229001 constant fatigue
+__label__84229001 constant fatigue
+__label__422587007 constant nausea
+__label__422587007 constant nausea
+__label__14760008 constipated
+__label__14760008 constipated
+__label__40275004 contact dermatitis
+__label__66925006 copper
+__label__28726007 cornea
+__label__53741008 coronary artery disease
+__label__64109004 costochondritis
+__label__49727002 cough
+__label__49727002 cough
+__label__66857006 coughing up blood
+__label__271767006 cracking
+__label__271767006 cracking
+__label__55300003 cramp
+__label__55300003 cramp
+__label__25353009 craniotomy
+__label__14804005 creatine
+__label__76105009 cyclothymia
+__label__372683000 cyproheptadine
+__label__24139008 cystoscopy
+__label__57182000 damaged nerves
+__label__57182000 damaged nerves
+__label__400201008 dandruff
+__label__13791008 debilitated
+__label__13791008 debilitated
+__label__417893002 deformities
+__label__34095006 dehydrated
+__label__34095006 dehydrated
+__label__313005 deja vu
+__label__2073000 delusion
+__label__2073000 delusion
+__label__27355003 dental pain
+__label__27355003 dental pain
+__label__79499004 depersonalisation
+__label__79499004 depersonalisation
+__label__126112002 depo
+__label__126112002 depo
+__label__40806005 derealisation
+__label__40806005 derealisation
+__label__703938007 dermatitis
+__label__703938007 dermatitis
+__label__372705002 desipramine
+__label__430267008 desvenlafaxine
+__label__430267008 desvenlafaxine
+__label__126660000 deviated septum
+__label__15771004 diabetes insipidus
+__label__15771004 diabetes insipidus
+__label__26298008 diabetic coma
+__label__74627003 diabetic complications
+__label__91487003 diaper rash
+__label__7034005 diclofenac
+__label__7034005 diclofenac
+__label__387174006 diflucan
+__label__387174006 diflucan
+__label__387322000 dihydrocodeine
+__label__372793000 diltiazem
+__label__64572001 disease
+__label__64572001 disease
+__label__44376007 dissociative disorder
+__label__44376007 dissociative disorder
+__label__69328002 distress
+__label__69328002 distress
+__label__307496006 diverticulitis
+__label__307496006 diverticulitis
+__label__404640003 dizziness
+__label__404640003 dizziness
+__label__387181004 domperidone
+__label__271782001 drowsy
+__label__271782001 drowsy
+__label__84480002 dry heaves
+__label__84480002 dry heaves
+__label__87715008 dry mouth
+__label__387075009 ducolax
+__label__387075009 ducolax
+__label__25064002 dull headache
+__label__25064002 dull headache
+__label__18545000 dura
+__label__232350006 dust mite allergies
+__label__232350006 dust mite allergies
+__label__266599000 dysmenorrhea
+__label__266599000 dysmenorrhea
+__label__40739000 dysphagia
+__label__30819006 dysphoria
+__label__25723000 dysplasia
+__label__78667006 dysthymia
+__label__117590005 ear
+__label__16001004 ear pain
+__label__16001004 ear pain
+__label__42859004 eardrum
+__label__72366004 eating disorder
+__label__72366004 eating disorder
+__label__398254007 eclampsia
+__label__398254007 eclampsia
+__label__34801009 ectopic pregnancies
+__label__34801009 ectopic pregnancies
+__label__3424008 elevated heart rate
+__label__3424008 elevated heart rate
+__label__6140007 emotional blunting
+__label__45170000 encephalitis
+__label__56819008 endocarditis
+__label__113331007 endocrine
+__label__113331007 endocrine
+__label__2739003 endometrial
+__label__2739003 endometrial
+__label__129103003 endometriosis
+__label__37270008 endoscope
+__label__30746006 enlarged lymph node
+__label__30746006 enlarged lymph node
+__label__359643005 enthesitis
+__label__55988001 epidermis
+__label__31070006 epididymitis
+__label__84757009 epilepsy
+__label__84757009 epilepsy
+__label__395975005 ergotamine
+__label__396047003 esomeprazole
+__label__32849002 esophageal
+__label__32849002 esophageal
+__label__16761005 esophagitis
+__label__126097006 ethinyl estradiol
+__label__126097006 ethinyl estradiol
+__label__396050000 etonogestrel
+__label__387316009 etoposide
+__label__91207004 eustachian tube
+__label__91207004 eustachian tube
+__label__386692008 excessive bleeding
+__label__386692008 excessive bleeding
+__label__17173007 excessive thirst
+__label__17173007 excessive thirst
+__label__28442001 excessive urination
+__label__28442001 excessive urination
+__label__41652007 eye pain
+__label__41652007 eye pain
+__label__70323002 eye strain
+__label__70323002 eye strain
+__label__80243003 eyelid
+__label__80243003 eyelid
+__label__249504006 farting
+__label__249504006 farting
+__label__55603005 fat tissue
+__label__55603005 fat tissue
+__label__24936000 feel disconnected
+__label__386705008 feel light headed
+__label__386705008 feel light headed
+__label__399317006 feel sluggish
+__label__399317006 feel sluggish
+__label__225457007 feel suicidal
+__label__225457007 feel suicidal
+__label__367391008 feel unwell
+__label__367391008 feel unwell
+__label__56459004 feet
+__label__56459004 feet
+__label__373492002 fentanyl
+__label__373492002 fentanyl
+__label__386661006 fever
+__label__386661006 fever
+__label__247910009 fidgety
+__label__278450005 fingerstick
+__label__56170001 flashes
+__label__372639009 flouride
+__label__372639009 flouride
+__label__6142004 flu
+__label__6142004 flu
+__label__95891005 flu - like symptoms
+__label__95891005 flu - like symptoms
+__label__396060009 fluocinonide
+__label__397192001 fluticasone
+__label__5370000 flutter
+__label__5370000 flutter
+__label__24162005 follicles
+__label__13600006 folliculitis
+__label__414285001 food allergies
+__label__414285001 food allergies
+__label__52795006 forehead
+__label__111095003 formaldehyde
+__label__248279007 frail
+__label__403536009 freckles
+__label__162116003 frequent urination
+__label__162116003 frequent urination
+__label__78509001 front teeth
+__label__83251001 frontal lobe
+__label__56246009 gaining muscle
+__label__56246009 gaining muscle
+__label__28231008 gall bladder
+__label__28231008 gall bladder
+__label__235919008 gall stones
+__label__235919008 gall stones
+__label__372070002 gangrene
+__label__23141003 gasping
+__label__25374005 gastro
+__label__25374005 gastro
+__label__235675006 gastroparesis
+__label__782964007 genetic condition
+__label__782964007 genetic condition
+__label__33839006 genital HSV
+__label__33839006 genital HSV
+__label__11687002 gestational diabetes
+__label__66383009 gingivitis
+__label__271558008 glandular fever
+__label__271558008 glandular fever
+__label__23986001 glaucoma
+__label__393564001 glioma
+__label__393564001 glioma
+__label__372567009 glucophage
+__label__372567009 glucophage
+__label__80582002 glycerin
+__label__80582002 glycerin
+__label__15331006 glycine
+__label__15628003 gonnorhea
+__label__15628003 gonnorhea
+__label__45647009 granulomas
+__label__45647009 granulomas
+__label__251433001 grip strength
+__label__102482005 growing pains
+__label__4754008 gynecomastia
+__label__70153002 haemorrhoids
+__label__70153002 haemorrhoids
+__label__386045008 hair
+__label__67290009 hair follicle
+__label__67290009 hair follicle
+__label__7011001 hallucinating
+__label__7011001 hallucinating
+__label__32553006 hangover
+__label__32553006 hangover
+__label__18193002 health anxiety
+__label__18193002 health anxiety
+__label__22298006 heart attack
+__label__56265001 heart condition
+__label__56265001 heart condition
+__label__84114007 heart failure
+__label__88610006 heart murmur
+__label__80313002 heart palpitations
+__label__80313002 heart palpitations
+__label__271823003 heavy breathing
+__label__400210000 hemangiomas
+__label__59292006 hemiplegic migraine
+__label__59292006 hemiplegic migraine
+__label__84089009 hiatal hernia
+__label__84089009 hiatal hernia
+__label__65958008 hiccups
+__label__59393003 hidradenitis suppurativa
+__label__13644009 high cholesterol
+__label__73595000 high stress
+__label__73595000 high stress
+__label__28254004 hip bone
+__label__49218002 hip pain
+__label__399939002 hirsutism
+__label__54235008 histamine
+__label__54235008 histamine
+__label__198436008 hot flashes
+__label__198436008 hot flashes
+__label__71545009 humidifier
+__label__230745008 hydrocephalus
+__label__372671002 hydrocodone
+__label__372671002 hydrocodone
+__label__387171003 hydrogen peroxide
+__label__44548000 hyperactive
+__label__44548000 hyperactive
+__label__83469008 hyperinsulinemia
+__label__85551004 hypermobility syndrome
+__label__421961002 hypersensitivity
+__label__77692006 hypersomnia
+__label__77692006 hypersomnia
+__label__34486009 hyperthyroid
+__label__34486009 hyperthyroid
+__label__68978004 hyperventilating
+__label__68978004 hyperventilating
+__label__231496004 hypomania
+__label__231496004 hypomania
+__label__89627008 hyponatremia
+__label__45007003 hypotension
+__label__45007003 hypotension
+__label__40930008 hypothyroid
+__label__40930008 hypothyroid
+__label__236886002 hysterectomies
+__label__236886002 hysterectomies
+__label__386904003 ifosfamide
+__label__52457000 ileitis
+__label__23153004 ileocecal valve
+__label__23153004 ileocecal valve
+__label__34516001 ileum
+__label__710572000 ileus
+__label__22356005 ilium
+__label__372718005 imipramine
+__label__127785005 immunization
+__label__127785005 immunization
+__label__165232002 incontinence
+__label__165232002 incontinence
+__label__257552002 inflamed
+__label__257552002 inflamed
+__label__396232000 inguinal hernia
+__label__396232000 inguinal hernia
+__label__85919009 intestinal issues
+__label__35240004 iron deficiency
+__label__35240004 iron deficiency
+__label__87522002 iron deficiency anemia
+__label__80182007 irregular bleeding
+__label__80182007 irregular bleeding
+__label__418290006 itch
+__label__418290006 itch
+__label__162400007 itchy throat
+__label__162400007 itchy throat
+__label__18165001 jaundice
+__label__18165001 jaundice
+__label__399029005 jock itch
+__label__39352004 joint
+__label__39352004 joint
+__label__239796000 juvenile arthritis
+__label__395913005 kenalog
+__label__395913005 kenalog
+__label__372501008 ketorolac
+__label__372501008 ketorolac
+__label__2538008 ketosis
+__label__2538008 ketosis
+__label__64033007 kidney
+__label__64033007 kidney
+__label__90708001 kidney damage
+__label__90708001 kidney damage
+__label__70536003 kidney transplant
+__label__70536003 kidney transplant
+__label__70420003 knuckle
+__label__70420003 knuckle
+__label__247412007 labor pains
+__label__91273001 lactic acidosis
+__label__782415009 lactose intolerance
+__label__782415009 lactose intolerance
+__label__73632009 laparoscopic
+__label__73632009 laparoscopic
+__label__111132001 laughing gas
+__label__111132001 laughing gas
+__label__76676007 leakage
+__label__52988006 lesions
+__label__52988006 lesions
+__label__214264003 lethargic
+__label__214264003 lethargic
+__label__409668002 light sensitivity
+__label__409668002 light sensitivity
+__label__10200004 liver
+__label__10200004 liver
+__label__86259008 liver biopsy
+__label__235856003 liver disease
+__label__125571002 lobectomy
+__label__125571002 lobectomy
+__label__89362005 lose weight
+__label__89362005 lose weight
+__label__279039007 low back pain
+__label__264082005 lumbar
+__label__264082005 lumbar
+__label__39607008 lung
+__label__39607008 lung
+__label__88039007 lung transplant
+__label__200936003 lupus
+__label__59441001 lymph
+__label__59441001 lymph
+__label__118600007 lymphoma
+__label__118600007 lymphoma
+__label__387337001 magnesia
+__label__419141006 magnesium glycinate
+__label__40471006 magnesium stearate
+__label__32230006 malabsorption
+__label__61462000 malaria
+__label__86049000 malignancies
+__label__86049000 malignancies
+__label__2492009 malnutrition
+__label__231494001 mania
+__label__116593003 medrol
+__label__116593003 medrol
+__label__443333004 medulloblastoma
+__label__387185008 mefenamic acid
+__label__28536002 megacolon
+__label__36209000 melasma
+__label__386807006 memory issues
+__label__386807006 memory issues
+__label__7180009 meningitis
+__label__161712005 menopausal
+__label__161712005 menopausal
+__label__23186000 menstrual migraine
+__label__23186000 menstrual migraine
+__label__75934005 metabolic disease
+__label__75934005 metabolic disease
+__label__237602007 metabolic syndrome
+__label__387499002 meth
+__label__387499002 meth
+__label__235753003 microscopic colitis
+__label__260528009 midline
+__label__17369002 miscarriage
+__label__17369002 miscarriage
+__label__75056005 mitochondria
+__label__400096001 moles
+__label__46206005 mood disorder
+__label__46206005 mood disorder
+__label__37031009 motion sick
+__label__37031009 motion sick
+__label__77329001 mouth breathing
+__label__118938008 mouth disease
+__label__26284000 mouth ulcers
+__label__95361005 mucositis
+__label__95361005 mucositis
+__label__88092000 muscle atrophy
+__label__88092000 muscle atrophy
+__label__12140005 muscle contractions
+__label__80449002 muscle fatigue
+__label__80449002 muscle fatigue
+__label__726531007 muscle knots
+__label__726531007 muscle knots
+__label__129565002 muscle problems
+__label__221360009 muscle spasms
+__label__221360009 muscle spasms
+__label__48532005 muscle strain
+__label__48532005 muscle strain
+__label__91727004 muscle tissue
+__label__26544005 muscle weakness
+__label__26544005 muscle weakness
+__label__26107004 musculoskeletal
+__label__26107004 musculoskeletal
+__label__409330005 mycophenolate
+__label__60380001 narcolepsy
+__label__75803007 nasal drip
+__label__75803007 nasal drip
+__label__45048000 neck
+__label__45048000 neck
+__label__81680005 neck hurts
+__label__81680005 neck hurts
+__label__56333001 nerve blocks
+__label__56333001 nerve blocks
+__label__16269008 nerve pains
+__label__16269008 nerve pains
+__label__25087005 nervous system
+__label__432328008 neuroblastoma
+__label__118940003 neurological condition
+__label__118940003 neurological condition
+__label__47220008 neurons
+__label__111475002 neurotic
+__label__273943001 niacin
+__label__173196005 niacinamide
+__label__89675003 night terrors
+__label__6710000 nitric oxide
+__label__126115000 norgestimate
+__label__249366005 nose bleeds
+__label__249366005 nose bleeds
+__label__387238009 novacaine
+__label__387238009 novacaine
+__label__91934008 nut allergies
+__label__91934008 nut allergies
+__label__330007 occipital
+__label__5602001 opioid use disorder
+__label__18234004 optic nerve
+__label__18234004 optic nerve
+__label__66760008 optic neuritis
+__label__28651003 orthostatic hypotension
+__label__60168000 osteomyelitis
+__label__60168000 osteomyelitis
+__label__312894000 osteopenia
+__label__11543004 otosclerosis
+__label__15497006 ovarian
+__label__15497006 ovarian
+__label__79883001 ovarian cyst
+__label__79883001 ovarian cyst
+__label__58424009 overeating
+__label__69215007 overheated
+__label__69215007 overheated
+__label__238131007 overweight
+__label__237130006 ovulation spotting
+__label__387455006 oxazepam
+__label__112115002 oxytocin
+__label__49650001 painful urination
+__label__44695005 palsy
+__label__44695005 palsy
+__label__75694006 pancreatitis
+__label__75694006 pancreatitis
+__label__79823003 panic
+__label__79823003 panic
+__label__371631005 panic disorder
+__label__371631005 panic disorder
+__label__255029007 papillary thyroid cancer
+__label__25694009 papules
+__label__111002 parathyroid
+__label__91019004 paresthesia
+__label__91935009 peanut allergies
+__label__91935009 peanut allergies
+__label__308006 pearly penile papules
+__label__84002002 pedophilia
+__label__87770006 pelvic floor
+__label__87770006 pelvic floor
+__label__18911002 penile
+__label__18911002 penile
+__label__52283007 peppermint oil
+__label__22240003 pericoronitis
+__label__41565005 periodontitis
+__label__15425007 peritoneum
+__label__48661000 peritonitis
+__label__704226002 perjeta
+__label__33449004 personality disorder
+__label__33449004 personality disorder
+__label__27836007 pertussis
+__label__27836007 pertussis
+__label__710110008 phantom pain
+__label__710110008 phantom pain
+__label__405737000 pharyngitis
+__label__405737000 pharyngitis
+__label__372871004 phenergan
+__label__372871004 phenergan
+__label__373505007 phenobarbital
+__label__116613007 phenol
+__label__372771005 phenylephrine
+__label__47639008 pilonidal cyst
+__label__45793000 pineal gland
+__label__56329008 pituitary
+__label__56329008 pituitary
+__label__34630004 pityriasis
+__label__34630004 pityriasis
+__label__16378004 platelet
+__label__16378004 platelet
+__label__196075003 pleurisy
+__label__233604007 pneumonia
+__label__781067001 polycystic
+__label__781067001 polycystic
+__label__441456002 polyp
+__label__44001008 premature ejaculation
+__label__3951002 proctitis
+__label__13668001 propylene glycol
+__label__9014002 pso
+__label__9014002 pso
+__label__69322001 psychosis
+__label__69322001 psychosis
+__label__66040006 pubic bone
+__label__51615001 pulmonary fibrosis
+__label__32620007 pulpitis
+__label__392406005 pupils
+__label__600009 pyromania
+__label__600009 pyromania
+__label__373497008 quinine
+__label__14168008 rabies
+__label__285303006 racing thoughts
+__label__425656005 radiation burns
+__label__72274001 radiculopathy
+__label__201736002 reactive arthritis
+__label__34402009 rectal
+__label__12063002 rectal bleeding
+__label__34402009 rectum
+__label__386713009 reddish
+__label__386713009 reddish
+__label__275498002 respiratory infection
+__label__275498002 respiratory infection
+__label__50043002 respiratory issues
+__label__50043002 respiratory issues
+__label__96383001 resveratrol
+__label__271689000 retroverted uterus
+__label__70076002 rhinitis
+__label__113197003 rib
+__label__113197003 rib
+__label__60862001 ringing in my ears
+__label__60862001 ringing in my ears
+__label__47382004 ringworm
+__label__398909004 rosacea
+__label__699698002 sacrum
+__label__387253001 salicylic acid
+__label__256897009 saliva
+__label__387390002 salt
+__label__387390002 salt
+__label__31541009 sarcoidosis
+__label__424413001 sarcomas
+__label__79601000 scapula
+__label__79601000 scapula
+__label__12402003 scar
+__label__12402003 scar
+__label__58214004 schizo
+__label__58214004 schizo
+__label__68890003 schizoaffective
+__label__68890003 schizoaffective
+__label__23056005 sciatic
+__label__23056005 sciatic
+__label__2228002 scintillating scotoma
+__label__89155008 scleroderma
+__label__50563003 seborrheic dermatitis
+__label__372614000 sedative
+__label__372614000 sedative
+__label__22038003 selenium
+__label__26429006 sensory overload
+__label__91302008 sepsis
+__label__91302008 sepsis
+__label__76571007 septic shock
+__label__68426009 septum
+__label__371089000 seratonin syndrome
+__label__371089000 seratonin syndrome
+__label__67922002 serum
+__label__67922002 serum
+__label__26079004 shakes
+__label__26079004 shakes
+__label__4740000 shingles
+__label__4740000 shingles
+__label__16982005 shoulder
+__label__16982005 shoulder
+__label__60184004 sigmoid colon
+__label__36971009 sinus infection
+__label__36971009 sinus infection
+__label__372130007 skin cancer
+__label__372130007 skin cancer
+__label__125592002 skin damage
+__label__53309004 skin test
+__label__53309004 skin test
+__label__89546000 skull
+__label__89546000 skull
+__label__73430006 sleep apnea
+__label__73430006 sleep apnea
+__label__39898005 sleep disorder
+__label__39898005 sleep disorder
+__label__80495009 sleepwalking
+__label__275280004 sniffle
+__label__275280004 sniffle
+__label__72863001 snores
+__label__72863001 snores
+__label__387319002 sodium bicarbonate
+__label__19839007 sorbitol
+__label__45352006 spasm
+__label__45352006 spasm
+__label__67531005 spina bifida
+__label__2748008 spinal
+__label__2748008 spinal cord
+__label__78961009 spleen
+__label__78961009 spleen
+__label__84172003 spondylitis
+__label__274152003 spondylolisthesis
+__label__240221008 spondylolysis
+__label__8847002 spondylosis
+__label__44465007 sprained ankle
+__label__373467000 stadol
+__label__56038003 staph infection
+__label__212968006 starvation
+__label__65818007 stent
+__label__65818007 stent
+__label__84445001 stiff joints
+__label__29384001 stomach issues
+__label__240197007 stress fracture
+__label__387248006 sulfasalazine
+__label__387248006 sulfasalazine
+__label__403194002 sunburn
+__label__403194002 sunburn
+__label__8488006 synesthesia
+__label__302851001 synovial sarcoma
+__label__111496009 syringomyelia
+__label__56019007 systemic disease
+__label__34789001 tailbone pain
+__label__83943005 tantrums
+__label__10944007 taurine
+__label__39479004 telogen effluvium
+__label__247348008 tenderness
+__label__202855006 tennis elbow
+__label__398057008 tension headache
+__label__398057008 tension headache
+__label__300936002 terminal illness
+__label__40108008 thalassemia
+__label__78702007 thalidomide
+__label__387258005 thorazine
+__label__363429002 throat cancer
+__label__439127006 thrombosis
+__label__259886008 thyroid antibodies
+__label__14304000 thyroid condition
+__label__14304000 thyroid condition
+__label__82119001 thyroiditis
+__label__703713005 tianeptine
+__label__12611008 tibia
+__label__12611008 tibia
+__label__386783003 tics
+__label__47382004 tinea
+__label__85756007 tissue
+__label__85756007 tissue
+__label__75573002 tonsil
+__label__90176007 tonsillitis
+__label__90176007 tonsillitis
+__label__239720000 torn meniscus
+__label__386960009 tranexamic acid
+__label__372829000 traz
+__label__372829000 traz
+__label__181623009 tricep
+__label__181623009 tricep
+__label__56335008 trich
+__label__56335008 trich
+__label__420990001 tunnel vision
+__label__27378009 tyrosine
+__label__248342006 underweight
+__label__387092000 urea
+__label__27171005 urinalysis
+__label__27171005 urinalysis
+__label__128606002 urinary problems
+__label__267064002 urinary retention
+__label__35039007 uterine
+__label__35039007 uterine
+__label__128473001 uveitis
+__label__26140008 uvula
+__label__33879002 vaccination
+__label__33879002 vaccination
+__label__76784001 vagina
+__label__76784001 vagina
+__label__289530006 vaginal bleeding
+__label__271939006 vaginal discharge
+__label__30800001 vaginitis
+__label__31996006 vasculitis
+__label__398665005 vasovagal syncope
+__label__29092000 vein
+__label__29092000 vein
+__label__34014006 viral illness
+__label__34014006 viral illness
+__label__58170007 viral meningitis
+__label__103069003 vitamin B
+__label__85670002 vitamin deficiencies
+__label__85670002 vitamin deficiencies
+__label__56727007 vitiligo
+__label__8765009 vomiting blood
+__label__422400008 vomits
+__label__422400008 vomits
+__label__45292006 vulva
+__label__238968009 vulvodynia
+__label__39848009 whiplash
+__label__720822008 withdraw symptoms
+__label__720822008 withdraw symptoms
+__label__363101005 withdrawal syndrome
+__label__363101005 withdrawal syndrome
+__label__395951005 xylitol
+__label__86739005 zinc
+__label__86739005 zinc
